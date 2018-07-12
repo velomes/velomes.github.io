@@ -14,7 +14,7 @@ LENGTH_MISMATCH = 9
 
 def normalize_names(results, names):
     if results['type'] == 'road':
-        _normalize_keys(results, names, ['Stg','Spr', 'hc', 'cat1', 'Bky'])    
+        _normalize_keys(results, names, ['Stg','Spr', 'hc', 'cat1', 'Bky'])
     _normalize_keys(results, names, ['GC', 'PC', 'KOM', 'abandons'])
 
 
@@ -22,7 +22,7 @@ def normalize_teams(results, teams):
     if results['type'] == 'ttt':
         _normalize_keys(results, teams, ['Stg'])
     if 'assists' in results:
-        _normalize_keys(results['assists'], teams, ['GC', 'TC'])
+        _normalize_keys(results['assists'], teams, ['TC'])
 
 
 def _normalize_keys(results, data, keys):

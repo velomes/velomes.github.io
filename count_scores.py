@@ -79,15 +79,15 @@ def calculate_daily(scores, results):
 def calculate_assists(teamscores, assistscores, results):
     print('Assists: ', end='')
     ass = 'Ass'
-    for key in ['GC', 'TC']:
-        print(key, end=' ')
-        score = score_key(results[ass][key], SCORE_DATA[ass], True)
-        add_points(teamscores, ass, score)
-
-    key = 'Stg'
+    key = 'TC'
     print(key, end=' ')
-    score = score_key(results[key][:3], SCORE_DATA[ass], True)
-    add_points(assistscores, ass, score)
+    score = score_key(results[ass][key], SCORE_DATA[ass], True)
+    add_points(teamscores, ass, score)
+
+    for key in ['Stg', 'GC']:
+        print(key, end=' ')
+        score = score_key(results[key][:3], SCORE_DATA[ass], True)
+        add_points(assistscores, ass, score)
 
     print('DONE')
 
@@ -105,7 +105,7 @@ def main(riders, stages):
         assistscores = defaultdict(lambda: defaultdict(int))
         scores = {
             'stage': results['stage'],
-            'stage': results['type'],
+            'type': results['type'],
             'riders': defaultdict(lambda: defaultdict(int)),
         }
         if results['type'] == 'ttt':
