@@ -1,0 +1,5061 @@
+{
+  "name": "/r/peloton",
+  "teams": [
+    {
+      "user": "mtmitchell30",
+      "name": "BVVC",
+      "tid": "513c605befc1ffa7ae30ef55814d89162bm",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Chad Haga",
+        "Michael Hepburn",
+        "Imanol Erviti",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "BikeBOFH",
+      "name": "Fsck`d Derailleurs",
+      "tid": "8H7bac875939d132db643c7560b23696a9B",
+      "team": [
+        "Christopher Froome",
+        "Primoz Roglic",
+        "Daniel Martin",
+        "Rafał Majka",
+        "Mark Cavendish",
+        "Luis Leon Sanchez",
+        "Laurent Pichon",
+        "Jack Bauer",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "Felix",
+      "name": "Oezguer Doener Bambucha",
+      "tid": "10t71af942b0ab75149c3be2363a46ec82af",
+      "team": [
+        "Vincenzo Nibali",
+        "Bob Jungels",
+        "Romain Bardet",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Guillaume Martin",
+        "David Gaudu",
+        "Stefan Küng",
+        "Rigoberto Uran"
+      ]
+    },
+    {
+      "user": "Nick",
+      "name": "Nick`s Team",
+      "tid": "6r785b80fb2f59d01c60878772f66dca65L",
+      "team": [
+        "Jakob Fuglsang",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Marc Soler",
+        "Peter Sagan",
+        "Luis Leon Sanchez",
+        "Søren Kragh Andersen",
+        "Lilian Calmejane",
+        "Pierre Latour"
+      ]
+    },
+    {
+      "user": "Asphias",
+      "name": "GG",
+      "tid": "7s788b43eceebdc53c478ef2f454e033e5a",
+      "team": [
+        "Bauke Mollema",
+        "Tom Dumoulin",
+        "Pierre Rolland",
+        "Mikel Landa",
+        "Peter Sagan",
+        "Niki Terpstra",
+        "Sep Vanmarcke",
+        "Koen De Kort",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Ryan",
+      "name": "I suck at racing",
+      "tid": "9112135f33ddc3d8b1af9950e58032410cr",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Pierre Rolland",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Michael Schar",
+        "David Gaudu",
+        "Chad Haga",
+        "Daniel Martin"
+      ]
+    },
+    {
+      "user": "ShadowVipr",
+      "name": "You Don`t Life For Be Sad, No?",
+      "tid": "100d59e116cb409944ae2dbe563482a77b7b",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Peter Sagan",
+        "Stefan Küng",
+        "Elie Gesbert",
+        "Chad Haga",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "kylerob07",
+      "name": "FroomeBots",
+      "tid": "672f38bf36248756d71abbb69bdbb316d8k",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Romain Bardet",
+        "Adam Yates",
+        "Peter Sagan",
+        "Magnus Cort Nielsen",
+        "Julien Simon",
+        "Guillaume Martin",
+        "Ilnur Zakarin"
+      ]
+    },
+    {
+      "user": "Peadar",
+      "name": "Neutralised",
+      "tid": "7b7bcdfadc93632cc52ab23066b114b611P",
+      "team": [
+        "Jakob Fuglsang",
+        "Geraint Thomas",
+        "Romain Bardet",
+        "Egan Arley Bernal",
+        "Fernando Gaviria",
+        "Jonathan Castroviejo",
+        "David Gaudu",
+        "Timothy Dupont",
+        "Alejandro Valverde"
+      ]
+    },
+    {
+      "user": "Rui Ribeiro",
+      "name": "Unidos ao Garrafao",
+      "tid": "12y6b600db7ebc902f84a89ba680117975cT",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Arnaud Démare",
+        "Daryl Impey",
+        "Timothy Dupont",
+        "Andrea Pasqualon",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Maxwell Ikin",
+      "name": "Lets get ready to Bardet",
+      "tid": "9x76b5e7b16528cfb70bbe3f22499bb488u",
+      "team": [
+        "Rigoberto Uran",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Daniel Navarro",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "David Gaudu",
+        "Jens Keukeleire",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "Stuart Clements",
+      "name": "A bit more choke",
+      "tid": "10rd11dfa63fd58e379e480020e29c35e6cp",
+      "team": [
+        "Christopher Froome",
+        "Tom Dumoulin",
+        "Ilnur Zakarin",
+        "Pierre Rolland",
+        "Michael Matthews",
+        "Greg Van Avermaet",
+        "Tony Martin",
+        "Magnus Cort Nielsen",
+        "Mikel Nieve"
+      ]
+    },
+    {
+      "user": "NJ",
+      "name": "Would you like a TUE with that?",
+      "tid": "6nda1779ebb91a5bcadb33faf6ee62b00en",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Adam Yates",
+        "Warren Barguil",
+        "Fernando Gaviria",
+        "Jack Bauer",
+        "Michael Schar",
+        "Chad Haga",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Allez Sporting",
+      "name": "Tour du Lion",
+      "tid": "7oa37c42c0e0ca4a64e69f432769c0e6f6q",
+      "team": [
+        "Jakob Fuglsang",
+        "Steven Kruijswijk",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Dylan Groenewegen",
+        "Imanol Erviti",
+        "Magnus Cort Nielsen",
+        "Tim Declercq",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Afghan Barry",
+      "name": "Tao Geoghegan Hart In The Paint",
+      "tid": "14tcc9f87f1db2888156ce4dee96231f6cat",
+      "team": [
+        "Julian Alaphilippe",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Adam Yates",
+        "Peter Sagan",
+        "Maxime Bouet",
+        "Sylvain Chavanel",
+        "Thomas De Gendt",
+        "Daniele Bennati"
+      ]
+    },
+    {
+      "user": "Turev",
+      "name": "Team Turev",
+      "tid": "5v19f72d1c8f8785435f70b11b44681dc7t",
+      "team": [
+        "Primoz Roglic",
+        "Tom Dumoulin",
+        "Romain Bardet",
+        "Nairo Quintana",
+        "Peter Sagan",
+        "Michael Schar",
+        "Marcel Sieberg",
+        "Sylvain Chavanel",
+        "Imanol Erviti"
+      ]
+    },
+    {
+      "user": "AllAlonio",
+      "name": "High Rouleurs",
+      "tid": "7468c8746e95d0c91353200f20939d5806J",
+      "team": [
+        "Primoz Roglic",
+        "Vincenzo Nibali",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "David Gaudu",
+        "Julien Simon",
+        "Marco Minnaard",
+        "Pierre Latour"
+      ]
+    },
+    {
+      "user": "Hannah ",
+      "name": "D`Huez believe in life after love",
+      "tid": "11s7f4de0b179ca92df17149078ad4e29f8y",
+      "team": [
+        "Christopher Froome",
+        "Alejandro Valverde",
+        "Adam Yates",
+        "Pierre Rolland",
+        "Mark Cavendish",
+        "Philippe Gilbert",
+        "Thomas De Gendt",
+        "Lilian Calmejane",
+        "Yoann Offredo"
+      ]
+    },
+    {
+      "user": "EPO dans l'ame ",
+      "name": "Calmegeddon",
+      "tid": "18796fe0f6d8a6213f9914189581a04bf8ev",
+      "team": [
+        "Jakob Fuglsang",
+        "Julian Alaphilippe",
+        "Pierre Rolland",
+        "Nairo Quintana",
+        "Arnaud Démare",
+        "Omar Fraile",
+        "Tiesj Benoot",
+        "Magnus Cort Nielsen",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Dias",
+      "name": "Ã‰vora cycling",
+      "tid": "879a4535f99b0f41fb8fd7d5d4f4275259d",
+      "team": [
+        "Tejay Van Garderen",
+        "Bob Jungels",
+        "Nairo Quintana",
+        "Marc Soler",
+        "Peter Sagan",
+        "Tony Gallopin",
+        "Greg Van Avermaet",
+        "Magnus Cort Nielsen",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Don",
+      "name": "Team Pentabike",
+      "tid": "7k48e935332aadec763f2c82cdb4601a25F",
+      "team": [
+        "Rigoberto Uran",
+        "Christopher Froome",
+        "Daniel Felipe Martinez",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Simon Geschke",
+        "Mark Renshaw",
+        "Philippe Gilbert",
+        "Simon Clarke"
+      ]
+    },
+    {
+      "user": "spkr4thedead51",
+      "name": "Built while on a conference call",
+      "tid": "14130040c761670ab2a4d544a98df67d44cs",
+      "team": [
+        "Christopher Froome",
+        "Alejandro Valverde",
+        "Rafał Majka",
+        "Alexis Vuillermoz",
+        "Peter Sagan",
+        "Sep Vanmarcke",
+        "Tobias Ludvigsson",
+        "Thomas Degand",
+        "Mark Cavendish"
+      ]
+    },
+    {
+      "user": "Nakji",
+      "name": "Slammin` Stems and Takin` Stages",
+      "tid": "5ifd083a8cdea9497c3b9455603da5a983n",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Nairo Quintana",
+        "Adam Yates",
+        "Peter Sagan",
+        "Julien Simon",
+        "Timothy Dupont",
+        "Imanol Erviti",
+        "Bob Jungels"
+      ]
+    },
+    {
+      "user": "Lasslo",
+      "name": "N-Point",
+      "tid": "8ob26379a1322e6df7f36a66e68afec68dL",
+      "team": [
+        "Tom Dumoulin",
+        "Alejandro Valverde",
+        "Mikel Landa",
+        "Domenico Pozzovivo",
+        "André Greipel",
+        "Lukas Pöstlberger",
+        "Nils Politt",
+        "Simon Geschke",
+        "Nairo Quintana"
+      ]
+    },
+    {
+      "user": "Alasdair Cresswell",
+      "name": "Al Butamol CC",
+      "tid": "11l01221a02d24b8bea05769d523d42f4b9a",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Egan Arley Bernal",
+        "Rafał Majka",
+        "Fernando Gaviria",
+        "Luis Leon Sanchez",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Rigoberto Uran"
+      ]
+    },
+    {
+      "user": "Geoff England",
+      "name": "The Good Boyes",
+      "tid": "15t67d1151732173d2c8c61055353006e38T",
+      "team": [
+        "Richie Porte",
+        "Bob Jungels",
+        "Mikel Nieve",
+        "Mikel Landa",
+        "Arnaud Démare",
+        "Stefan Küng",
+        "Daryl Impey",
+        "Luke Durbridge",
+        "Michal Kwiatkowski"
+      ]
+    },
+    {
+      "user": "Ben Phillips",
+      "name": "Bicicletta to Skoooool",
+      "tid": "80753b3cb9999c93a63eeb6613499215f8B",
+      "team": [
+        "Christopher Froome",
+        "Tejay Van Garderen",
+        "Adam Yates",
+        "Pierre Latour",
+        "Peter Sagan",
+        "Taylor Phinney",
+        "Jack Bauer",
+        "Greg Van Avermaet",
+        "Stefan Küng"
+      ]
+    },
+    {
+      "user": "Brandon Lawrence",
+      "name": "Old Yeller`",
+      "tid": "9l24b494deafcd5c3f119daf47edc44106S",
+      "team": [
+        "Tom Dumoulin",
+        "Julian Alaphilippe",
+        "Rafał Majka",
+        "Mikel Landa",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Tony Gallopin",
+        "Dimitri Claeys",
+        "Geraint Thomas"
+      ]
+    },
+    {
+      "user": "alstu",
+      "name": "Zekkermen",
+      "tid": "10k5fb91b6032061043eee27d008e5909abS",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Nairo Quintana",
+        "Pierre Latour",
+        "Fernando Gaviria",
+        "Ariel Maximiliano Richeze",
+        "Marcus Burghardt",
+        "Magnus Cort Nielsen",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "Tiago Hipolito",
+      "name": "Cambridge Cycling Club",
+      "tid": "6h1483559e14768ba5a3a7050b4df80d2ft",
+      "team": [
+        "Michal Kwiatkowski",
+        "Bob Jungels",
+        "Mikel Landa",
+        "Rafał Majka",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Arthur Vichot",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "Matt R",
+      "name": "Rizzles",
+      "tid": "13e5c3662c88a574078e265e838b9defed7e",
+      "team": [
+        "Bauke Mollema",
+        "Richie Porte",
+        "Nairo Quintana",
+        "Daniel Martin",
+        "Marcel Kittel",
+        "Koen De Kort",
+        "Chad Haga",
+        "Magnus Cort Nielsen",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "Dane Cash",
+      "name": "Cash Money Pro Cycling",
+      "tid": "5993b6348b3eccfeba5ec1426bf8f08eb3D",
+      "team": [
+        "Richie Porte",
+        "Bob Jungels",
+        "Nairo Quintana",
+        "Adam Yates",
+        "Mark Cavendish",
+        "Tiesj Benoot",
+        "Magnus Cort Nielsen",
+        "Tony Martin",
+        "Silvan Dillier"
+      ]
+    },
+    {
+      "user": "Tristanbl",
+      "name": "10speed",
+      "tid": "8l185bc31e306de1481c58f066fbc56538t",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Niki Terpstra",
+        "Julien Simon",
+        "Pierre Rolland"
+      ]
+    },
+    {
+      "user": "Tyler W.",
+      "name": "You Never Go Full Salbutamol",
+      "tid": "110d39fe8f0f5c33828768d095ae1d77b7eS",
+      "team": [
+        "Richie Porte",
+        "Bauke Mollema",
+        "Daniel Martin",
+        "Nairo Quintana",
+        "André Greipel",
+        "Simon Geschke",
+        "Thomas De Gendt",
+        "Tony Gallopin",
+        "Philippe Gilbert"
+      ]
+    },
+    {
+      "user": "Lachlan Carr",
+      "name": "Carrcycles",
+      "tid": "6sbb0e61452f99030dc498bbcfeb974df2M",
+      "team": [
+        "Jakob Fuglsang",
+        "Vincenzo Nibali",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Michael Matthews",
+        "Niki Terpstra",
+        "Thomas De Gendt",
+        "Tiesj Benoot",
+        "Rigoberto Uran"
+      ]
+    },
+    {
+      "user": "Mumen Rider",
+      "name": "Froome me once...",
+      "tid": "7tbe53215bc683a417845b514e11a04dcaL",
+      "team": [
+        "Richie Porte",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Egan Arley Bernal",
+        "Michael Matthews",
+        "Daryl Impey",
+        "Greg Van Avermaet",
+        "Michael Valgren",
+        "Thomas Degand"
+      ]
+    },
+    {
+      "user": "sortside sugeja",
+      "name": "sortside sugejad",
+      "tid": "9651dde4b25684c1f0dbcb738cbee2e656e",
+      "team": [
+        "Jakob Fuglsang",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Julien Bernard",
+        "Andrea Pasqualon",
+        "Anthony Turgis",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "James",
+      "name": "SofaKing Radd",
+      "tid": "10a874fd3a66348ebbf70436569e7df0bffM",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Romain Bardet",
+        "Nairo Quintana",
+        "Fernando Gaviria",
+        "Jonathan Castroviejo",
+        "Stefan Küng",
+        "David Gaudu",
+        "Pierre Latour"
+      ]
+    },
+    {
+      "user": "StevieSF",
+      "name": "We stop for trains",
+      "tid": "6a7baf0171544be9ecfe3bae8f0d81fc54s",
+      "team": [
+        "Richie Porte",
+        "Primoz Roglic",
+        "Egan Arley Bernal",
+        "Pierre Latour",
+        "Arnaud Démare",
+        "Tiesj Benoot",
+        "Magnus Cort Nielsen",
+        "Guillaume Martin",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "flopzie",
+      "name": "flufferpuppers",
+      "tid": "7e7b78ed5d7da8eef3c14fbe7770b4b2f0f",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Daniel Martin",
+        "Ilnur Zakarin",
+        "Michael Matthews",
+        "David Gaudu",
+        "Andrea Pasqualon",
+        "Tiesj Benoot",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "katachtig",
+      "name": "le cinciarelle di Lisa",
+      "tid": "8eaa00f0057a53581b2eb15aa954f55aa1l",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Mikel Landa",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "Stefan Küng",
+        "Michael Valgren",
+        "Ilnur Zakarin"
+      ]
+    },
+    {
+      "user": "itzoptimus",
+      "name": "win pls",
+      "tid": "10sccfe45baf45960a228a8e6f75da60fddi",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Ilnur Zakarin",
+        "Romain Bardet",
+        "Arnaud Démare",
+        "Thomas De Gendt",
+        "Jonathan Castroviejo",
+        "Daryl Impey",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Joao Pinto",
+      "name": "Os Inaladores",
+      "tid": "6o9f25a6890a6342718b6ec03c3ec07ef7J",
+      "team": [
+        "Jakob Fuglsang",
+        "Vincenzo Nibali",
+        "Ilnur Zakarin",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Tiesj Benoot",
+        "Andrea Pasqualon",
+        "Imanol Erviti",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "grebfar",
+      "name": "Switch Saddles",
+      "tid": "7raacc5fcc27417920f823f22bed692443g",
+      "team": [
+        "Primoz Roglic",
+        "Richie Porte",
+        "Daniel Martin",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Guillaume Van Keirsbulck",
+        "Jack Bauer",
+        "Simon Gerrans",
+        "Daryl Impey"
+      ]
+    },
+    {
+      "user": "Brandon Thornton",
+      "name": "Winners",
+      "tid": "15n037e8298c68897f032a020b8c38b7d03B",
+      "team": [
+        "Vincenzo Nibali",
+        "Bauke Mollema",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Omar Fraile",
+        "David Gaudu",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "Mark Provan",
+      "name": "Rolland`s Dreamboats",
+      "tid": "6131475855d269852275af16a860fc6a4cP",
+      "team": [
+        "Christopher Froome",
+        "Steven Kruijswijk",
+        "Daniel Martin",
+        "Pierre Rolland",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Koen De Kort",
+        "Tony Martin",
+        "Mikel Nieve"
+      ]
+    },
+    {
+      "user": "Brian G",
+      "name": "The Slow Uphillers",
+      "tid": "778be56cfb1719a6eec43276232239c1d1B",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Adam Yates",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Andrea Pasqualon",
+        "Marcus Burghardt",
+        "Imanol Erviti",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Jamie O`Connor",
+      "name": "The Spare Wheel",
+      "tid": "12r45e08cd0881e39e9c72ffe40d8d842f4J",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Adam Yates",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Roy Curvers",
+        "Mathew Hayman",
+        "Imanol Erviti",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Vlt",
+      "name": "Hatatitla",
+      "tid": "3t4c8251eab114b6fd75012a16109d01b5v",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Adam Yates",
+        "Sonny Colbrelli",
+        "Yves Lampaert",
+        "Luis Leon Sanchez",
+        "Marcus Burghardt",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "dvorak",
+      "name": "dvorak",
+      "tid": "6k291b938839c55868716aa372646d8241d",
+      "team": [
+        "Bauke Mollema",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Antwan Tolhoek",
+        "Peter Sagan",
+        "Luis Leon Sanchez",
+        "Tony Martin",
+        "Tiesj Benoot",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Mark Robohm",
+      "name": "Juicyorange",
+      "tid": "7mfb83744b4fcd3b2c45e2c24fad8d6083M",
+      "team": [
+        "Michal Kwiatkowski",
+        "Richie Porte",
+        "Romain Bardet",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Tiesj Benoot",
+        "Jack Bauer",
+        "Sylvain Chavanel",
+        "Mathew Hayman"
+      ]
+    },
+    {
+      "user": "Adam Keifenheim",
+      "name": "Lander Riders",
+      "tid": "14m872f90cc6a2da3e6e7809bb95652e326A",
+      "team": [
+        "Primoz Roglic",
+        "Julian Alaphilippe",
+        "Adam Yates",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "Philippe Gilbert",
+        "Luis Leon Sanchez",
+        "Luke Rowe"
+      ]
+    },
+    {
+      "user": "The_77",
+      "name": "Always Pick Valverde",
+      "tid": "5R1b5727df549e23542c4ee0d7ba8fc085A",
+      "team": [
+        "Alejandro Valverde",
+        "Richie Porte",
+        "Daniel Martin",
+        "Ilnur Zakarin",
+        "Dylan Groenewegen",
+        "Guillaume Martin",
+        "Andrea Pasqualon",
+        "Jelle Vanendert",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "Pane Agua Pat",
+      "name": "More like Zaka-win, amirite",
+      "tid": "8tf74c5aa43e81a1a83565d6389afd5273p",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Ilnur Zakarin",
+        "Daniel Martin",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "Stefan Küng",
+        "Sep Vanmarcke",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "DarthHaribo",
+      "name": "Team Sith",
+      "tid": "11o9f1772e9b7b9badd2dba8e57a007a369D",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Peter Sagan",
+        "Lilian Calmejane",
+        "Stefan Küng",
+        "Jonathan Castroviejo",
+        "Rafał Majka"
+      ]
+    },
+    {
+      "user": "Froome Boycotter",
+      "name": "Baby, tourke doen? ;)",
+      "tid": "16t2b8b8b715bb779506aab03a651dc0477G",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Peter Sagan",
+        "Chad Haga",
+        "Julien Vermote",
+        "Michael Schar",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Jake Finn",
+      "name": "Wacky Racers ",
+      "tid": "82c71a213fde8b9b5d561ba758f53f5968j",
+      "team": [
+        "Richie Porte",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Peter Sagan",
+        "Jack Bauer",
+        "Michael Schar",
+        "Laurent Pichon",
+        "Greg Van Avermaet"
+      ]
+    },
+    {
+      "user": "TheGouger",
+      "name": "Froomey`s Famous Roast Porco Dio",
+      "tid": "9r9956f4d698d45156220f4f409bf826b5t",
+      "team": [
+        "Bob Jungels",
+        "Richie Porte",
+        "Nairo Quintana",
+        "Warren Barguil",
+        "Marcel Kittel",
+        "Daryl Impey",
+        "Greg Van Avermaet",
+        "Omar Fraile",
+        "Maciej Bodnar"
+      ]
+    },
+    {
+      "user": "detestrian",
+      "name": "Sal`s Butt Amoleds",
+      "tid": "10nfdc753535f7752428fac85b3d832de26d",
+      "team": [
+        "Tom Dumoulin",
+        "Primoz Roglic",
+        "Egan Arley Bernal",
+        "Marc Soler",
+        "Arnaud Démare",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Sylvain Chavanel",
+        "Alejandro Valverde"
+      ]
+    },
+    {
+      "user": "Matt",
+      "name": "Team DadBod p/b Nabisco",
+      "tid": "13r3143882aad94ab0181c7b4e4b2598311A",
+      "team": [
+        "Julian Alaphilippe",
+        "Ion Izagirre",
+        "Romain Bardet",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Philippe Gilbert",
+        "Tiesj Benoot",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "Mr.Red",
+      "name": "Secret Agents",
+      "tid": "5dd2052c7dc2059907bf000b29fc891cc9M",
+      "team": [
+        "Christopher Froome",
+        "Alejandro Valverde",
+        "Warren Barguil",
+        "Pierre Rolland",
+        "Dylan Groenewegen",
+        "Tom-Jelte Slagter",
+        "Tobias Ludvigsson",
+        "Tiesj Benoot",
+        "Rigoberto Uran"
+      ]
+    },
+    {
+      "user": "MtnyCptn",
+      "name": "SALBUTAMOL ME UP BABY, WE LEGAL NOW",
+      "tid": "8n66843458f52966712d728666e90a866bM",
+      "team": [
+        "Julian Alaphilippe",
+        "Richie Porte",
+        "Nairo Quintana",
+        "Mathias Frank",
+        "Peter Sagan",
+        "Jack Bauer",
+        "Marcus Burghardt",
+        "Taylor Phinney",
+        "Mark Cavendish"
+      ]
+    },
+    {
+      "user": "Jared",
+      "name": "Cat6 ",
+      "tid": "11e66e52c07e74fdde61bb6715142443c21j",
+      "team": [
+        "Geraint Thomas",
+        "Jakob Fuglsang",
+        "Daniel Martin",
+        "Ilnur Zakarin",
+        "Peter Sagan",
+        "Julien Simon",
+        "Guillaume Martin",
+        "Gorka Izagirre",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Michael Smith",
+      "name": "FTFN",
+      "tid": "15s4927fbca6ffb4158bd59c46e93bf2d40d",
+      "team": [
+        "Alejandro Valverde",
+        "Julian Alaphilippe",
+        "Adam Yates",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Tim Declercq",
+        "Timothy Dupont",
+        "Magnus Cort Nielsen",
+        "Geraint Thomas"
+      ]
+    },
+    {
+      "user": "Mattified",
+      "name": "Asthmatics Anonymous",
+      "tid": "7y2e1a1d5ab1ca188e95e24a283f5a0d5cm",
+      "team": [
+        "Primoz Roglic",
+        "Rigoberto Uran",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Jesús Herrada",
+        "Arthur Vichot",
+        "David Gaudu",
+        "Timothy Dupont"
+      ]
+    },
+    {
+      "user": "GW",
+      "name": "Rapid Rollers",
+      "tid": "9e4d1dc1ddce679a2ac6a726cd974c3579g",
+      "team": [
+        "Primoz Roglic",
+        "Rigoberto Uran",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Tony Gallopin",
+        "Marcus Burghardt",
+        "Arthur Vichot",
+        "Magnus Cort Nielsen"
+      ]
+    },
+    {
+      "user": "Alex",
+      "name": "Quadruple Espresso",
+      "tid": "10f4ae8838901fbfd26b4c1af52e76017efC",
+      "team": [
+        "Geraint Thomas",
+        "Primoz Roglic",
+        "Egan Arley Bernal",
+        "Adam Yates",
+        "Peter Sagan",
+        "Magnus Cort Nielsen",
+        "Søren Kragh Andersen",
+        "Omar Fraile",
+        "Pierre Latour"
+      ]
+    },
+    {
+      "user": "Maerve",
+      "name": "Lovshak",
+      "tid": "6e2c1f990fb18cd2c4730784f585f3c2a3M",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Warren Barguil",
+        "Alexander Kristoff",
+        "Tiesj Benoot",
+        "Guillaume Martin",
+        "Magnus Cort Nielsen",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "HaryoS",
+      "name": "Kwiatkowski`s Oakleys",
+      "tid": "7g4758d3a4663e5b6d81b92dc1ec7bd5dbf",
+      "team": [
+        "Tom Dumoulin",
+        "Primoz Roglic",
+        "Daniel Martin",
+        "Adam Yates",
+        "Mark Cavendish",
+        "Thomas De Gendt",
+        "Tiesj Benoot",
+        "Omar Fraile",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Y3",
+      "name": "Aberdeenshire Parks Department",
+      "tid": "53366d5eb7bace277a98ed5f22e1d93207y",
+      "team": [
+        "Primoz Roglic",
+        "Tom Dumoulin",
+        "Adam Yates",
+        "Daniel Martin",
+        "Dylan Groenewegen",
+        "Magnus Cort Nielsen",
+        "Rudy Molard",
+        "Thomas De Gendt",
+        "Ilnur Zakarin"
+      ]
+    },
+    {
+      "user": "Kaleb",
+      "name": "46x18",
+      "tid": "8i39225caa7264a7ccee410d1d576a7b36k",
+      "team": [
+        "Jakob Fuglsang",
+        "Steven Kruijswijk",
+        "Romain Bardet",
+        "Nairo Quintana",
+        "Michael Matthews",
+        "Guillaume Martin",
+        "David Gaudu",
+        "Elie Gesbert",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Drunken track cyclist",
+      "name": "Team Wingdings",
+      "tid": "10t924babb3a844813eed8becf57d2f3c94s",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Dylan Groenewegen",
+        "Yves Lampaert",
+        "Philippe Gilbert",
+        "Lilian Calmejane",
+        "Tony Martin"
+      ]
+    },
+    {
+      "user": "BobbyBriggs1",
+      "name": "Briggs",
+      "tid": "6s5253944e53d9f23989476b720002ed5bB",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Pierre Rolland",
+        "Peter Sagan",
+        "Magnus Cort Nielsen",
+        "David Gaudu",
+        "Rudy Molard",
+        "Anthony Turgis"
+      ]
+    },
+    {
+      "user": "A Atkins",
+      "name": "DM me for Free Watts",
+      "tid": "7s8bf290be4d865400230d91c6ec62ea38A",
+      "team": [
+        "Rigoberto Uran",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Domenico Pozzovivo",
+        "Michael Matthews",
+        "Thomas De Gendt",
+        "Magnus Cort Nielsen",
+        "Daryl Impey",
+        "Richie Porte"
+      ]
+    },
+    {
+      "user": "Jim of the Durotrigues",
+      "name": "Chapeau Durotrigues",
+      "tid": "91655baa7a50d3ade25d1a0edcf11e62ddJ",
+      "team": [
+        "Steven Kruijswijk",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Adam Yates",
+        "Peter Sagan",
+        "Timothy Dupont",
+        "Magnus Cort Nielsen",
+        "Guillaume Martin",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Rutger",
+      "name": "Puff Puff Power",
+      "tid": "101ebed5fba7fc60ffdbc8d63813e3effc4r",
+      "team": [
+        "Primoz Roglic",
+        "Alejandro Valverde",
+        "Daniel Martin",
+        "Antwan Tolhoek",
+        "Fernando Gaviria",
+        "Niki Terpstra",
+        "Søren Kragh Andersen",
+        "Omar Fraile",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Miguel Antunes",
+      "name": "BatmumaNoAlcatrao",
+      "tid": "6854c4929e7c85d1be26cc5aba69ddc1f8j",
+      "team": [
+        "Tom Dumoulin",
+        "Richie Porte",
+        "Egan Arley Bernal",
+        "Pierre Latour",
+        "Arnaud Démare",
+        "Greg Van Avermaet",
+        "Timothy Dupont",
+        "Guillaume Martin",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "Bronko B",
+      "name": "Die Ueberspitzen",
+      "tid": "7Ba5865a47abd65fe09a27bd036fe007e0B",
+      "team": [
+        "Christopher Froome",
+        "Julian Alaphilippe",
+        "Mikel Landa",
+        "Rafał Majka",
+        "Edvald Boasson Hagen",
+        "Thomas De Gendt",
+        "Jack Bauer",
+        "Guillaume Van Keirsbulck",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "andytheciderman",
+      "name": "Zakarin Will Win The Tour",
+      "tid": "12yf31fdb63fa711c452b499d0d2371b27fA",
+      "team": [
+        "Vincenzo Nibali",
+        "Bob Jungels",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Peter Sagan",
+        "Gorka Izagirre",
+        "Daryl Impey",
+        "Yves Lampaert",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "lurkingx",
+      "name": "lurkingx",
+      "tid": "9xadfd3c2e969acd9a8c00e58ad649a8c4l",
+      "team": [
+        "Julian Alaphilippe",
+        "Alejandro Valverde",
+        "Adam Yates",
+        "Rafał Majka",
+        "Dylan Groenewegen",
+        "Tim Declercq",
+        "Magnus Cort Nielsen",
+        "Thomas De Gendt",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Alistair twiname",
+      "name": "Sagan Holidays",
+      "tid": "10rfd857047c2f7d831a5d18fc24604920bm",
+      "team": [
+        "Tom Dumoulin",
+        "Steven Kruijswijk",
+        "John Darwin Atapuma",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Julien Vermote",
+        "Lukas Pöstlberger",
+        "Daryl Impey",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Kieran Billo",
+      "name": "Team 1",
+      "tid": "6o1420c9935ddf67e48cb37ad384cca4a6K",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Daniel Martin",
+        "Ilnur Zakarin",
+        "Dylan Groenewegen",
+        "Guillaume Martin",
+        "David Gaudu",
+        "Michael Schar",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Euan Munro",
+      "name": "Scotland isn`t a country option :@",
+      "tid": "7of6a51479e37aa744d84dafad072abce4e",
+      "team": [
+        "Primoz Roglic",
+        "Richie Porte",
+        "Egan Arley Bernal",
+        "Pierre Rolland",
+        "Peter Sagan",
+        "Omar Fraile",
+        "Tony Martin",
+        "Sep Vanmarcke",
+        "Tiesj Benoot"
+      ]
+    },
+    {
+      "user": "drbernardrieux",
+      "name": "Waiting for Goddet",
+      "tid": "14x22557ec386fbeb4216f6fb4f4e899a80d",
+      "team": [
+        "Vincenzo Nibali",
+        "Bauke Mollema",
+        "Adam Yates",
+        "Rafał Majka",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Tony Gallopin",
+        "Greg Van Avermaet",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "T Burlinson",
+      "name": "Peanut Butter Oatmeal",
+      "tid": "5v43809ae89054ebe2930ccd4ce57e1992T",
+      "team": [
+        "Bob Jungels",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Egan Arley Bernal",
+        "Fernando Gaviria",
+        "Taylor Phinney",
+        "Toms Skujiņš",
+        "Daryl Impey",
+        "Geraint Thomas"
+      ]
+    },
+    {
+      "user": "Joseph Costa",
+      "name": "Tour de Chance",
+      "tid": "74f84fa9cac12fe81f4c7c4fe07218e47eJ",
+      "team": [
+        "Christopher Froome",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Egan Arley Bernal",
+        "Dylan Groenewegen",
+        "Silvan Dillier",
+        "Stefan Küng",
+        "Marcus Burghardt",
+        "Mathew Hayman"
+      ]
+    },
+    {
+      "user": "Aaron",
+      "name": "Thunder from down under",
+      "tid": "11sfa5978e6f4387ce3ddd0afdf2c79b863A",
+      "team": [
+        "Richie Porte",
+        "Bob Jungels",
+        "Adam Yates",
+        "Serge Pauwels",
+        "Michael Matthews",
+        "Tony Martin",
+        "Magnus Cort Nielsen",
+        "Chad Haga",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "LucC",
+      "name": "WiiSoFit",
+      "tid": "18e9662396b6a4e120aae9b984484a828c5P",
+      "team": [
+        "Vincenzo Nibali",
+        "Richie Porte",
+        "Daniel Felipe Martinez",
+        "Pierre Latour",
+        "Dylan Groenewegen",
+        "David Gaudu",
+        "Michael Valgren",
+        "Thomas De Gendt",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "Owen",
+      "name": "Warren barfguil ",
+      "tid": "88e6d31103736f0488fab4afbd6d074127O",
+      "team": [
+        "Jakob Fuglsang",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Pierre Rolland",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "David Gaudu",
+        "Greg Van Avermaet",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Warren Quirk",
+      "name": "Team Quirk",
+      "tid": "7k6ce9243b03c677dd16c4611272cad897w",
+      "team": [
+        "Vincenzo Nibali",
+        "Tom Dumoulin",
+        "Warren Barguil",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Julien Simon",
+        "Damien Gaudin",
+        "Andrea Pasqualon",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Andrew Nepsund",
+      "name": "WrathOfJax",
+      "tid": "14da136ff7f817476f2d2b2e434a143b0e4a",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Romain Bardet",
+        "Mikel Nieve",
+        "Marcel Kittel",
+        "Greg Van Avermaet",
+        "Tiesj Benoot",
+        "Gorka Izagirre",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Bert K",
+      "name": "Quick-Step Bert",
+      "tid": "5Kef3d04805a310835f2c84108923dac47B",
+      "team": [
+        "Bauke Mollema",
+        "Julian Alaphilippe",
+        "Nairo Quintana",
+        "Mikel Landa",
+        "Fernando Gaviria",
+        "Tim Declercq",
+        "Luis Leon Sanchez",
+        "Imanol Erviti",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "Datsun Motors",
+      "name": "SteroidShake32",
+      "tid": "8r496a1acc47558adc83b4cf1b0d3c2350j",
+      "team": [
+        "Jakob Fuglsang",
+        "Primoz Roglic",
+        "Egan Arley Bernal",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "Daryl Impey",
+        "Taylor Phinney",
+        "Philippe Gilbert",
+        "Bob Jungels"
+      ]
+    },
+    {
+      "user": "atleticoram",
+      "name": "Atletico Kebab",
+      "tid": "11ma277090691228bf4cd1ec3bee63c3c3fa",
+      "team": [
+        "Jakob Fuglsang",
+        "Christopher Froome",
+        "Ilnur Zakarin",
+        "Pierre Rolland",
+        "Dylan Groenewegen",
+        "Guillaume Martin",
+        "Magnus Cort Nielsen",
+        "Lilian Calmejane",
+        "Steven Kruijswijk"
+      ]
+    },
+    {
+      "user": "Riley Smith",
+      "name": "The Lil Pedalers",
+      "tid": "15x00c26711914f38ae7c0e7be92482b49ds",
+      "team": [
+        "Tom Dumoulin",
+        "Vincenzo Nibali",
+        "Adam Yates",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Tony Martin",
+        "Greg Van Avermaet",
+        "Tanel Kangert",
+        "Jérôme Cousin"
+      ]
+    },
+    {
+      "user": "John Gringo",
+      "name": "De Kinesiske Riddere",
+      "tid": "80f4fa27d1f2ee7e9c790fe8d9fb85594fW",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Tiesj Benoot",
+        "David Gaudu",
+        "Thomas Boudat",
+        "Christophe Laporte"
+      ]
+    },
+    {
+      "user": "Gregoire de l`Enfer",
+      "name": "Les Cyclopathes",
+      "tid": "9n342b9361b40b1c440c8b4fdf79dc019dg",
+      "team": [
+        "Geraint Thomas",
+        "Alejandro Valverde",
+        "Warren Barguil",
+        "Romain Bardet",
+        "Mark Cavendish",
+        "Sylvain Chavanel",
+        "Jack Bauer",
+        "Greg Van Avermaet",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Cyclotimik",
+      "name": "Cycloteam",
+      "tid": "10k82ea53d577b6ddeac568891bd00a5449c",
+      "team": [
+        "Richie Porte",
+        "Steven Kruijswijk",
+        "Pierre Latour",
+        "Nairo Quintana",
+        "Peter Sagan",
+        "Andrea Pasqualon",
+        "Guillaume Martin",
+        "Julien Simon",
+        "Tiesj Benoot"
+      ]
+    },
+    {
+      "user": "taitch",
+      "name": "taitch",
+      "tid": "6h16b1e3f8293cbb36413ef2a45be822b4t",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Mikel Landa",
+        "Daniel Martin",
+        "Dylan Groenewegen",
+        "Thomas De Gendt",
+        "Lilian Calmejane",
+        "Andrea Pasqualon",
+        "Christophe Laporte"
+      ]
+    },
+    {
+      "user": "Ben Phillips",
+      "name": "Ven, presented by Men ",
+      "tid": "13h2862c82205cca27fe47173a975466af0T",
+      "team": [
+        "Ion Izagirre",
+        "Primoz Roglic",
+        "Marc Soler",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "Thomas De Gendt",
+        "Gianni Moscon",
+        "Gorka Izagirre",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "stanaa",
+      "name": "Stanaa`s 9",
+      "tid": "5a0c7b7d57a4abd0df083a52f5e4f4b117s",
+      "team": [
+        "Bob Jungels",
+        "Christopher Froome",
+        "Mikel Landa",
+        "Marc Soler",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "Andrea Pasqualon",
+        "Julien Vermote",
+        "Guillaume Van Keirsbulck"
+      ]
+    },
+    {
+      "user": "BMC Fanboy",
+      "name": "Big Manly Cocks",
+      "tid": "8l671e1de8126ba32ce582f2777841b3c4m",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Rafał Majka",
+        "Daniel Navarro",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Niki Terpstra",
+        "Tim Declercq",
+        "Egan Arley Bernal"
+      ]
+    },
+    {
+      "user": "Thrasher",
+      "name": "Salbutamol Puffers",
+      "tid": "1159a75b0f29e97ab3277e1defbae11a8742",
+      "team": [
+        "Julian Alaphilippe",
+        "Christopher Froome",
+        "Warren Barguil",
+        "Daniel Navarro",
+        "André Greipel",
+        "Jack Bauer",
+        "Greg Van Avermaet",
+        "Niki Terpstra",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Kastos",
+      "name": "Swanky Swooping Syclists",
+      "tid": "6sd22aad0a952d3ad1841c36db43c8a7d4K",
+      "team": [
+        "Vincenzo Nibali",
+        "Tom Dumoulin",
+        "Adam Yates",
+        "Mikel Nieve",
+        "Christophe Laporte",
+        "Gorka Izagirre",
+        "Magnus Cort Nielsen",
+        "Greg Van Avermaet",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "dakgoot",
+      "name": "Fiets um erin",
+      "tid": "7tfa0f5eddf6677c6c43e1bf25cd0a86ead",
+      "team": [
+        "Richie Porte",
+        "Julian Alaphilippe",
+        "Rafał Majka",
+        "Egan Arley Bernal",
+        "Dylan Groenewegen",
+        "Tim Declercq",
+        "Imanol Erviti",
+        "Julien Simon",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Laudrup86",
+      "name": "D1",
+      "tid": "96b2b753bce140241e05f62ed9bdf52bbfL",
+      "team": [
+        "Christopher Froome",
+        "Ion Izagirre",
+        "Domenico Pozzovivo",
+        "Marc Soler",
+        "Peter Sagan",
+        "Michael Schar",
+        "David Gaudu",
+        "Marcus Burghardt",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "JoÃ£o Vieira",
+      "name": "Spur Galp Team",
+      "tid": "10ad7ae5529ce4d3490de2bd7005f3db43dJ",
+      "team": [
+        "Christopher Froome",
+        "Vincenzo Nibali",
+        "Ilnur Zakarin",
+        "Romain Bardet",
+        "Alexander Kristoff",
+        "Rory Sutherland",
+        "Thomas Scully",
+        "Chad Haga",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "Jose Rosa",
+      "name": "Tour de Rosa",
+      "tid": "6aa01db1cfe0dbf9a0a5926e86239a7eb8j",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Adam Yates",
+        "Egan Arley Bernal",
+        "Fernando Gaviria",
+        "Lilian Calmejane",
+        "Omar Fraile",
+        "Guillaume Martin",
+        "Sonny Colbrelli"
+      ]
+    },
+    {
+      "user": "Tonneke",
+      "name": "TUE Kings",
+      "tid": "7ea0ed7ddce82fecd5a87eebbfb3ecf49eT",
+      "team": [
+        "Tom Dumoulin",
+        "Richie Porte",
+        "Pierre Rolland",
+        "Daniel Navarro",
+        "Peter Sagan",
+        "Niki Terpstra",
+        "Jack Bauer",
+        "Jonathan Castroviejo",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Chris Appels",
+      "name": "zakarialabyad",
+      "tid": "8eaae293e8e379d3ce84000ebae5eeb1a6C",
+      "team": [
+        "Richie Porte",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Christophe Laporte",
+        "Magnus Cort Nielsen",
+        "Greg Van Avermaet",
+        "Thomas De Gendt",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "David P-A",
+      "name": "Toasty Oats",
+      "tid": "10se28af33d797a30900686d3f70b2f5447t",
+      "team": [
+        "Richie Porte",
+        "Bauke Mollema",
+        "Romain Bardet",
+        "Adam Yates",
+        "Peter Sagan",
+        "Jonathan Castroviejo",
+        "Ian Boswell",
+        "Imanol Erviti",
+        "Michael Hepburn"
+      ]
+    },
+    {
+      "user": "rplnt",
+      "name": "The Biggest Asthma",
+      "tid": "6of69dee9e7d57e88213d531382d550730M",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Daniel Martin",
+        "Ilnur Zakarin",
+        "Arnaud Démare",
+        "Stefan Küng",
+        "Magnus Cort Nielsen",
+        "Nikias Arndt",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Degolas",
+      "name": "Les semi-croustillants",
+      "tid": "7s35a3427acdafdd212f137585f1927485D",
+      "team": [
+        "Rigoberto Uran",
+        "Tom Dumoulin",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Arnaud Démare",
+        "Philippe Gilbert",
+        "Guillaume Martin",
+        "Tony Martin",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "David John Watton",
+      "name": "Le Broken Collarbones",
+      "tid": "15n150f8a86ba68ab820101d51f84505b9bd",
+      "team": [
+        "Bob Jungels",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Marc Soler",
+        "Peter Sagan",
+        "Omar Fraile",
+        "Tomasz Marczynski",
+        "Michael Valgren",
+        "Vincenzo Nibali"
+      ]
+    },
+    {
+      "user": "Joe Bloggs",
+      "name": "Rodney's",
+      "tid": "61461b2aa11e357309096d99e4030c3947n",
+      "team": [
+        "Christopher Froome",
+        "Geraint Thomas",
+        "Daniel Martin",
+        "John Darwin Atapuma",
+        "Peter Sagan",
+        "Sven Erik Bystrøm",
+        "Nikias Arndt",
+        "Omar Fraile",
+        "Julien Vermote"
+      ]
+    },
+    {
+      "user": "true bruin",
+      "name": "no froomee",
+      "tid": "77b6275bc7aafe41f2b4df8e09abe0b6e5j",
+      "team": [
+        "Jakob Fuglsang",
+        "Ion Izagirre",
+        "Adam Yates",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Tiesj Benoot",
+        "Stefan Küng",
+        "Luke Rowe",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "pickemgenius",
+      "name": "niceme.me",
+      "tid": "12s3e0567618c06d4066301d035a55c6b04p",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Fernando Gaviria",
+        "Jack Bauer",
+        "Omar Fraile",
+        "Jens Keukeleire",
+        "Kristijan Durasek"
+      ]
+    },
+    {
+      "user": "John",
+      "name": "1920 yeast",
+      "tid": "4d6e8b93cf7f452c85b64677da32229dd0j",
+      "team": [
+        "Christopher Froome",
+        "Primoz Roglic",
+        "Pierre Rolland",
+        "Daniel Navarro",
+        "Dylan Groenewegen",
+        "Stefan Küng",
+        "Mathew Hayman",
+        "Marcus Burghardt",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Mr K",
+      "name": "VELOciraptors",
+      "tid": "10o51fbcb8a3540f4af1fce9a5d807ac9d7M",
+      "team": [
+        "Rigoberto Uran",
+        "Richie Porte",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Marcel Kittel",
+        "Tony Martin",
+        "Silvan Dillier",
+        "Magnus Cort Nielsen",
+        "Mark Cavendish"
+      ]
+    },
+    {
+      "user": "David and Hannah",
+      "name": "Veloroos",
+      "tid": "6k8fece72324528cf0d0b2be73951428b5d",
+      "team": [
+        "Richie Porte",
+        "Ion Izagirre",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Magnus Cort Nielsen",
+        "Luke Rowe",
+        "Guillaume Martin",
+        "Mathew Hayman"
+      ]
+    },
+    {
+      "user": "Calum",
+      "name": "Salbutamol is a gateway drug",
+      "tid": "7n11dafee506e1e98a8f64bc40a585280ac",
+      "team": [
+        "Geraint Thomas",
+        "Richie Porte",
+        "Nairo Quintana",
+        "Marc Soler",
+        "Dylan Groenewegen",
+        "Yves Lampaert",
+        "Magnus Cort Nielsen",
+        "Tiesj Benoot",
+        "Tobias Ludvigsson"
+      ]
+    },
+    {
+      "user": "Matt K.",
+      "name": "Ciclisti di Mateo",
+      "tid": "14n7893cba17d6e8f1373e5b3bba1a8b13an",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Pierre Rolland",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "Jack Bauer",
+        "Stefan Küng",
+        "Lawson Craddock",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Oaths",
+      "name": "Easy Lose",
+      "tid": "5s6342a4e477c45837f8f862f3884dba89o",
+      "team": [
+        "Christopher Froome",
+        "Steven Kruijswijk",
+        "Mikel Landa",
+        "Pierre Latour",
+        "Dylan Groenewegen",
+        "Timothy Dupont",
+        "Guillaume Martin",
+        "Andrea Pasqualon",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "Taylor Ford",
+      "name": "Kubo and the Two Wheels",
+      "tid": "7291a276cb17d612f3097bec08a3330eeet",
+      "team": [
+        "Primoz Roglic",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Tiesj Benoot",
+        "Thomas De Gendt",
+        "Sep Vanmarcke",
+        "Magnus Cort Nielsen"
+      ]
+    },
+    {
+      "user": "unclekutter",
+      "name": "Kutter`s Klimbers",
+      "tid": "11r47d67cc17386b7513a3ea08acff6a0fdu",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Peter Sagan",
+        "Marcus Burghardt",
+        "Michael Schar",
+        "Jonathan Castroviejo",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "OrtsSchildSprint",
+      "name": "ðŸ‡°ðŸ‡·ðŸ‡©ðŸ‡ª18",
+      "tid": "16t3de6f61f2445b20dafbd563b8d7a34f0O",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Mikel Landa",
+        "Serge Pauwels",
+        "Fernando Gaviria",
+        "Imanol Erviti",
+        "Mathew Hayman",
+        "Michael Schar",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Robert Miller",
+      "name": "Bonk!",
+      "tid": "862d59b3dd5d636089fbbeca3b7ee005b0r",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Egan Arley Bernal",
+        "Pierre Latour",
+        "Fernando Gaviria",
+        "Greg Van Avermaet",
+        "Jay Robert Thomson",
+        "Taylor Phinney",
+        "Ion Izagirre"
+      ]
+    },
+    {
+      "user": "Mjkittens",
+      "name": "Puns are McLayme",
+      "tid": "9s7f6dbe8608b99e3dfd1424abd60962c7M",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Ilnur Zakarin",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Niki Terpstra",
+        "Tiesj Benoot",
+        "Sep Vanmarcke",
+        "Marc Soler"
+      ]
+    },
+    {
+      "user": "EIsberg",
+      "name": "Eisteam",
+      "tid": "7gdb549a53d88e0eabb4a9d67cb6c77a03E",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Rafał Majka",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "Greg Van Avermaet",
+        "Thomas De Gendt",
+        "Stefan Küng",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "momo",
+      "name": "Primoz Suspects",
+      "tid": "13rd0146c87059f9d2b9b38303e883b647fm",
+      "team": [
+        "Alejandro Valverde",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Pierre Rolland",
+        "Dylan Groenewegen",
+        "Arthur Vichot",
+        "Lilian Calmejane",
+        "Julien Simon",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Jacob G",
+      "name": "Danish Disappointments",
+      "tid": "5G1e58ec8c2b7c9a60237420cd3020af62J",
+      "team": [
+        "Jakob Fuglsang",
+        "Primoz Roglic",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Marcus Burghardt",
+        "Guillaume Martin",
+        "Pavel Kochetkov",
+        "Rafał Majka"
+      ]
+    },
+    {
+      "user": "T W",
+      "name": "aftermathasthmatics",
+      "tid": "8ne8778b691324519c27379c014e6da413w",
+      "team": [
+        "Rigoberto Uran",
+        "Richie Porte",
+        "Pierre Rolland",
+        "John Darwin Atapuma",
+        "Peter Sagan",
+        "Magnus Cort Nielsen",
+        "Daryl Impey",
+        "Tim Declercq",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Jethro Nagle ",
+      "name": "Noobs",
+      "tid": "11ebf91afdd2bb3a142c7b12d720bd24020J",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Rafał Majka",
+        "Daniel Felipe Martinez",
+        "Dylan Groenewegen",
+        "David Gaudu",
+        "Omar Fraile",
+        "Thomas De Gendt",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Wolf Pack",
+      "name": "Wolf Pack",
+      "tid": "15s62e59f97a06aea16cf1492dc40a04092M",
+      "team": [
+        "Tom Dumoulin",
+        "Christopher Froome",
+        "Mikel Nieve",
+        "Domenico Pozzovivo",
+        "Peter Sagan",
+        "Daniele Bennati",
+        "Julien Simon",
+        "Silvan Dillier",
+        "Tony Martin"
+      ]
+    },
+    {
+      "user": "Lenimoz",
+      "name": "Lenimoz Team",
+      "tid": "7zca7a28729e37c857b3ddb5ecfaa2c4dcL",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Domenico Pozzovivo",
+        "Rafał Majka",
+        "Fernando Gaviria",
+        "Jacopo Guarnieri",
+        "Thomas De Gendt",
+        "Lilian Calmejane",
+        "Adam Yates"
+      ]
+    },
+    {
+      "user": "Elliot H.",
+      "name": "Salbutabros",
+      "tid": "9h3ea06a1cc3fbb2408c89171236ec4030e",
+      "team": [
+        "Richie Porte",
+        "Jakob Fuglsang",
+        "Daniel Martin",
+        "Marc Soler",
+        "Michael Matthews",
+        "Thomas De Gendt",
+        "Stefan Küng",
+        "Ian Boswell",
+        "Rigoberto Uran"
+      ]
+    },
+    {
+      "user": "Jacob",
+      "name": "Jacob",
+      "tid": "10g7f21a9f67408686207bccfadeb24d2e0v",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Ilnur Zakarin",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Guillaume Martin",
+        "Marcus Burghardt",
+        "Gorka Izagirre",
+        "Christophe Laporte"
+      ]
+    },
+    {
+      "user": "Matt",
+      "name": "Misstep Floored",
+      "tid": "6e616085397340cd48f88aee972f302c0dm",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Dylan Groenewegen",
+        "Luis Leon Sanchez",
+        "Jonathan Castroviejo",
+        "Timothy Dupont",
+        "Adam Yates"
+      ]
+    },
+    {
+      "user": "Jack Stevens",
+      "name": "Tour de Workfromhome",
+      "tid": "558c39f6f8e860da9de15ca40731f847e9j",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Egan Arley Bernal",
+        "Warren Barguil",
+        "Marcel Kittel",
+        "Luis Leon Sanchez",
+        "Philippe Gilbert",
+        "Maciej Bodnar",
+        "Silvan Dillier"
+      ]
+    },
+    {
+      "user": "Bob Loblaw",
+      "name": "Dirty Beach Gauntlet",
+      "tid": "8ia32b17271ec5c4a4a1d060e7f3b0977fs",
+      "team": [
+        "Vincenzo Nibali",
+        "Christopher Froome",
+        "Daniel Navarro",
+        "John Darwin Atapuma",
+        "Fernando Gaviria",
+        "David Gaudu",
+        "Greg Van Avermaet",
+        "Thomas De Gendt",
+        "Sonny Colbrelli"
+      ]
+    },
+    {
+      "user": "Bob Bobbyton",
+      "name": "Bobs International Team",
+      "tid": "10u4b5d9612588144ac623a67e539ea1b61j",
+      "team": [
+        "Tom Dumoulin",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Marc Soler",
+        "Peter Sagan",
+        "Silvan Dillier",
+        "Taylor Phinney",
+        "Lawson Craddock",
+        "Thomas De Gendt"
+      ]
+    },
+    {
+      "user": "Jaysus",
+      "name": "RB Brownwings WGUAFC",
+      "tid": "6s83e79e0f8e7c8895e77067b88d05e512j",
+      "team": [
+        "Christopher Froome",
+        "Geraint Thomas",
+        "Daniel Martin",
+        "Domenico Pozzovivo",
+        "Fernando Gaviria",
+        "Guillaume Martin",
+        "Niki Terpstra",
+        "Andrea Pasqualon",
+        "Tiesj Benoot"
+      ]
+    },
+    {
+      "user": "luke.lewis@mlguk.net",
+      "name": "Lewiiss",
+      "tid": "7sa489df2fe862d941979c93c8c661b4ffL",
+      "team": [
+        "Christopher Froome",
+        "Vincenzo Nibali",
+        "Rafał Majka",
+        "Daniel Felipe Martinez",
+        "Fernando Gaviria",
+        "Michael Valgren",
+        "Tiesj Benoot",
+        "Magnus Cort Nielsen",
+        "Jens Keukeleire"
+      ]
+    },
+    {
+      "user": "Jabbid111",
+      "name": "I`m not good at velogames",
+      "tid": "91ce5b820a4c8fe3713afae9e73456cc1fj",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Ilnur Zakarin",
+        "Pierre Rolland",
+        "Mark Cavendish",
+        "Daryl Impey",
+        "Greg Van Avermaet",
+        "Simon Gerrans",
+        "Jakob Fuglsang"
+      ]
+    },
+    {
+      "user": "when under a WADA investigation",
+      "name": "Wiggo never riders with his jiffy",
+      "tid": "107d8ce44ce08909ce031c21a092c5cb8faI",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Mikel Landa",
+        "Daniel Felipe Martinez",
+        "Fernando Gaviria",
+        "Magnus Cort Nielsen",
+        "Timothy Dupont",
+        "Andrea Pasqualon",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Rei(S)",
+      "name": "R1S3",
+      "tid": "69c6bb037b14bc1eaa633e8c883c662f47R",
+      "team": [
+        "Richie Porte",
+        "Steven Kruijswijk",
+        "Ilnur Zakarin",
+        "Warren Barguil",
+        "Peter Sagan",
+        "Robert Kišerlovski",
+        "Tony Gallopin",
+        "Thomas De Gendt",
+        "Greg Van Avermaet"
+      ]
+    },
+    {
+      "user": "RevSpec",
+      "name": "Team Spectre",
+      "tid": "7c57b20a64f9aeead3e2fad1c6b30ff54aR",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Fernando Gaviria",
+        "Guillaume Van Keirsbulck",
+        "Stefan Küng",
+        "Tony Gallopin",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "George",
+      "name": "Chevaliers des Cevennes",
+      "tid": "1335fd75308c8bb7b799a3e1baa00bc6b8ad",
+      "team": [
+        "Primoz Roglic",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Pierre Rolland",
+        "Dylan Groenewegen",
+        "Thomas De Gendt",
+        "Daryl Impey",
+        "Omar Fraile",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Ben",
+      "name": "Not_Great",
+      "tid": "9yb8226ca9c4454bbcab6af5a541493b2cr",
+      "team": [
+        "Tom Dumoulin",
+        "Andrey Amador",
+        "Adam Yates",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Lilian Calmejane",
+        "Thomas De Gendt",
+        "Chad Haga",
+        "Rigoberto Uran"
+      ]
+    },
+    {
+      "user": "2Dumoulins",
+      "name": "Zwartebroekengeletrui",
+      "tid": "10s5577c0cd1ebb37b9676fddbd436408402",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Nairo Quintana",
+        "Ilnur Zakarin",
+        "Fernando Gaviria",
+        "Imanol Erviti",
+        "Magnus Cort Nielsen",
+        "Lilian Calmejane",
+        "Alexander Kristoff"
+      ]
+    },
+    {
+      "user": "Drew",
+      "name": "The Lanterne Rouge",
+      "tid": "6o1fcd7b47ca06942755cb1ee22fa9a238D",
+      "team": [
+        "Jakob Fuglsang",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Serge Pauwels",
+        "Peter Sagan",
+        "Tiesj Benoot",
+        "Lilian Calmejane",
+        "David Gaudu",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Alex Joyce",
+      "name": "AJ",
+      "tid": "7r18b665bf3f0a246281fdbe26d4eec2bfz",
+      "team": [
+        "Rigoberto Uran",
+        "Geraint Thomas",
+        "Mikel Landa",
+        "Egan Arley Bernal",
+        "Marcel Kittel",
+        "Thomas De Gendt",
+        "Mathew Hayman",
+        "Silvan Dillier",
+        "Vincenzo Nibali"
+      ]
+    },
+    {
+      "user": "Brendan Corscadden",
+      "name": "Team BC",
+      "tid": "151008a5eeab24ffd11d966c4493ae84491b",
+      "team": [
+        "Christopher Froome",
+        "Alejandro Valverde",
+        "Daniel Felipe Martinez",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "Marcus Burghardt",
+        "Magnus Cort Nielsen",
+        "Tiesj Benoot",
+        "Imanol Erviti"
+      ]
+    },
+    {
+      "user": "JordiM",
+      "name": "Mercatone Due",
+      "tid": "5x0e06ce3dcc5b370d1ef96612bd847f05c",
+      "team": [
+        "Tom Dumoulin",
+        "Primoz Roglic",
+        "Warren Barguil",
+        "Marc Soler",
+        "Peter Sagan",
+        "Omar Fraile",
+        "Thomas De Gendt",
+        "Lilian Calmejane",
+        "Bob Jungels"
+      ]
+    },
+    {
+      "user": "Adam",
+      "name": "LeMond Did Nothing Wrong",
+      "tid": "75ffc2e5e1d1050ab2594a238b67fe68e6s",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Nairo Quintana",
+        "Fernando Gaviria",
+        "Daniele Bennati",
+        "Greg Van Avermaet",
+        "Tim Declercq",
+        "Imanol Erviti"
+      ]
+    },
+    {
+      "user": "vroomey froomey",
+      "name": "skeletal gains",
+      "tid": "11tde1d7b24f270ff4f8fff30887807ee62f",
+      "team": [
+        "Rigoberto Uran",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Dylan Groenewegen",
+        "Lilian Calmejane",
+        "Tiesj Benoot",
+        "Thomas De Gendt",
+        "Bauke Mollema"
+      ]
+    },
+    {
+      "user": "blokjeszijnvierkant",
+      "name": "blokjeszijnvierkant",
+      "tid": "19t31602f5cf6b20a4ff8edc9df92478b09b",
+      "team": [
+        "Tom Dumoulin",
+        "Vincenzo Nibali",
+        "Warren Barguil",
+        "Nairo Quintana",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Tony Martin",
+        "Andrea Pasqualon",
+        "Stefan Küng"
+      ]
+    },
+    {
+      "user": "Jason s",
+      "name": "Jasonâ€™s team",
+      "tid": "8a1dba6d5ed4e082ede098950d2c226a7cJ",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Mikel Landa",
+        "Egan Arley Bernal",
+        "Mark Cavendish",
+        "Philippe Gilbert",
+        "Sep Vanmarcke",
+        "José Herrada",
+        "Marc Soler"
+      ]
+    },
+    {
+      "user": "Hssiii",
+      "name": "Oufteam",
+      "tid": "6id6f2b4addc13d2af8f6161a1c0cb480aH",
+      "team": [
+        "Primoz Roglic",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Mikel Landa",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "Thomas De Gendt",
+        "Anthony Turgis",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Till Odonkor",
+      "name": "Team Buscape",
+      "tid": "7ka5c82f19944b19c8b4eed68c0e761b1cT",
+      "team": [
+        "Geraint Thomas",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "David Gaudu",
+        "Greg Van Avermaet",
+        "Jonathan Castroviejo",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Henrique",
+      "name": "TFM",
+      "tid": "14ec03833b2250dbc8e78e6bca6f92fc036p",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Mikel Landa",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "Greg Van Avermaet",
+        "Gorka Izagirre",
+        "Tiesj Benoot",
+        "Sonny Colbrelli"
+      ]
+    },
+    {
+      "user": "Geeal",
+      "name": "Vincenzo Sagani",
+      "tid": "5l3a83ec2bd64f9b9939d4aa7f63daf0faG",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Mikel Nieve",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "Arthur Vichot",
+        "Sylvain Chavanel",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "B. A. ",
+      "name": "Need team name",
+      "tid": "8ra5cdf30ec69cce9e699c425619663144R",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Daryl Impey",
+        "Omar Fraile",
+        "Marc Soler"
+      ]
+    },
+    {
+      "user": "darthvalium",
+      "name": "Mother`s little Helpers",
+      "tid": "11mdc18f69d44ec659e10ae2ab9c79b037fd",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Adam Yates",
+        "Romain Bardet",
+        "Marcel Kittel",
+        "Nikias Arndt",
+        "Tony Martin",
+        "Greg Van Avermaet",
+        "André Greipel"
+      ]
+    },
+    {
+      "user": "Dr Brough",
+      "name": "Cipollini`s Climbers",
+      "tid": "16i1ac55434157e9b712a3b39b087f2e6e7M",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Adam Yates",
+        "Daniel Felipe Martinez",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "Lilian Calmejane",
+        "Dimitri Claeys",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Justin C",
+      "name": "Blazing Saddles",
+      "tid": "8151f441a107b94e15db4aa4945e64a1f3j",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Fernando Gaviria",
+        "Imanol Erviti",
+        "Jonathan Castroviejo",
+        "Stefan Küng",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "Kamperdan",
+      "name": "Killawatts",
+      "tid": "9n758e4f7c8231a69ce7f28859cbf71c82k",
+      "team": [
+        "Steven Kruijswijk",
+        "Bauke Mollema",
+        "Romain Bardet",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "Mathew Hayman",
+        "Marcus Burghardt",
+        "Jack Bauer",
+        "Richie Porte"
+      ]
+    },
+    {
+      "user": "bluntraven",
+      "name": "His Nibs",
+      "tid": "10n72cd46b753e76313b486183c00d18f8ab",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Daniel Navarro",
+        "Dylan Groenewegen",
+        "Greg Van Avermaet",
+        "Omar Fraile",
+        "Rein Taaramäe",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "ahappydog",
+      "name": "Nippin` at your Tires",
+      "tid": "13kc97c55ff8d44ac9c8e3991e0e5b76808j",
+      "team": [
+        "Rigoberto Uran",
+        "Bob Jungels",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "Yves Lampaert",
+        "Marcus Burghardt",
+        "Sonny Colbrelli"
+      ]
+    },
+    {
+      "user": "Thiago Arzua",
+      "name": "BrainsTA",
+      "tid": "5ae49847698f9acd860f1a4afbd5030252A",
+      "team": [
+        "Christopher Froome",
+        "Tejay Van Garderen",
+        "Warren Barguil",
+        "Pierre Latour",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Jonathan Castroviejo",
+        "Pierre Rolland"
+      ]
+    },
+    {
+      "user": "Che",
+      "name": "Mega Bites",
+      "tid": "8l7279da12bd80e5c53ae66349c47db80cc",
+      "team": [
+        "Vincenzo Nibali",
+        "Bauke Mollema",
+        "Mikel Landa",
+        "Ilnur Zakarin",
+        "Mark Cavendish",
+        "Omar Fraile",
+        "Niki Terpstra",
+        "Sep Vanmarcke",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Gunnar",
+      "name": "Can i offer u an egg in this trying time",
+      "tid": "11d0f99334e6186af4237ac6f539fbf1eeag",
+      "team": [
+        "Tom Dumoulin",
+        "Primoz Roglic",
+        "Mikel Landa",
+        "John Darwin Atapuma",
+        "Peter Sagan",
+        "Omar Fraile",
+        "Tiesj Benoot",
+        "Julien Vermote",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Andrew",
+      "name": "Team Cyclemen",
+      "tid": "6td17b6f68799a3cf20e41d8748cd84f63e",
+      "team": [
+        "Christopher Froome",
+        "Primoz Roglic",
+        "Ilnur Zakarin",
+        "Domenico Pozzovivo",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "Gianni Moscon",
+        "Greg Van Avermaet",
+        "Mathew Hayman"
+      ]
+    },
+    {
+      "user": "De Soldaat",
+      "name": "Tom Dumoulin doe het!",
+      "tid": "7vc425eca6c51d48ce19c42bd7b498ab40L",
+      "team": [
+        "Tom Dumoulin",
+        "Vincenzo Nibali",
+        "Adam Yates",
+        "Romain Bardet",
+        "Dylan Groenewegen",
+        "Chad Haga",
+        "Imanol Erviti",
+        "Jonathan Castroviejo",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "BLOOP",
+      "name": "BLOOPERS",
+      "tid": "99cddb5c3f712941e086ad14578917b574g",
+      "team": [
+        "Christopher Froome",
+        "Robert Gesink",
+        "Domenico Pozzovivo",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Tony Martin",
+        "Michael Schar",
+        "Thomas De Gendt",
+        "Niki Terpstra"
+      ]
+    },
+    {
+      "user": "Roberto rodriguez",
+      "name": "Froome fake out 2: electric boogaloo",
+      "tid": "10Cf2ba74b7b385522dec590d895e7ec8f8C",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Mikel Landa",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Taylor Phinney",
+        "Andrea Pasqualon",
+        "Julien Simon",
+        "Pierre Rolland"
+      ]
+    },
+    {
+      "user": "Licorb",
+      "name": "Paniagua  SAI ZICA",
+      "tid": "6b124082bd7565c80e5ebe00fcd2daa3d0L",
+      "team": [
+        "Christopher Froome",
+        "Alejandro Valverde",
+        "Laurens Ten Dam",
+        "Daniel Navarro",
+        "Fernando Gaviria",
+        "Michael Schar",
+        "Greg Van Avermaet",
+        "Stefan Küng",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "Jude the Buzzard",
+      "name": "THE BUZZ WILL NOT BE STUZZED",
+      "tid": "7ebe5bfd1b42303954d9c0d7a91dfa11b0J",
+      "team": [
+        "Richie Porte",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Antwan Tolhoek",
+        "Peter Sagan",
+        "David Gaudu",
+        "Brice Feillu",
+        "Jonathan Castroviejo",
+        "Yoann Offredo"
+      ]
+    },
+    {
+      "user": "RossMiles",
+      "name": "The Pink Whistles",
+      "tid": "8eb6645b46a54bf069b823651468f3ca55P",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Marc Soler",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Michael Valgren",
+        "David Gaudu",
+        "Jonathan Castroviejo",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Reilly McFarterson",
+      "name": "Fuck Froome Fuck Sky (except Bernal)",
+      "tid": "10t1857ef263338003f414242dce73ff42fb",
+      "team": [
+        "Rigoberto Uran",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Daniel Felipe Martinez",
+        "Fernando Gaviria",
+        "Gorka Izagirre",
+        "Yves Lampaert",
+        "Ariel Maximiliano Richeze",
+        "Ilnur Zakarin"
+      ]
+    },
+    {
+      "user": "Abs",
+      "name": "BIKE PARTY",
+      "tid": "6r081dc23c95d1c4becb612591f75d5dc9G",
+      "team": [
+        "Tom Dumoulin",
+        "Geraint Thomas",
+        "Adam Yates",
+        "Pierre Latour",
+        "Marcel Kittel",
+        "Philippe Gilbert",
+        "Greg Van Avermaet",
+        "Maxime Bouet",
+        "Alejandro Valverde"
+      ]
+    },
+    {
+      "user": "dick dastardly",
+      "name": "Pidgeon riders",
+      "tid": "7s4c1570b848f1a1c49b8aae5547c487a6B",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Daniel Navarro",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "Chad Haga",
+        "Magnus Cort Nielsen",
+        "Thomas De Gendt",
+        "Thomas Boudat"
+      ]
+    },
+    {
+      "user": "Moffitt",
+      "name": "Lard Legs",
+      "tid": "8y0f84ff1ed7f305df135ed9fc96cf9cd1d",
+      "team": [
+        "Alejandro Valverde",
+        "Rigoberto Uran",
+        "Warren Barguil",
+        "Daniel Navarro",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Luis Leon Sanchez",
+        "Ian Boswell",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Un Momento Dado",
+      "name": "This Landa Was Made For You And Me",
+      "tid": "15oc63771a7349962fadd4333d864ef309du",
+      "team": [
+        "Primoz Roglic",
+        "Rigoberto Uran",
+        "Mikel Landa",
+        "Adam Yates",
+        "Arnaud Démare",
+        "Jesús Herrada",
+        "Magnus Cort Nielsen",
+        "Toms Skujiņš",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "Lyle",
+      "name": "Powerful Frames",
+      "tid": "662a83e6e8e9cf6c66d4ae88d99ec1359dL",
+      "team": [
+        "Rigoberto Uran",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Philippe Gilbert",
+        "Tiesj Benoot",
+        "Pierre Rolland"
+      ]
+    },
+    {
+      "user": "Mark Perryman",
+      "name": "Les Champions de Mark",
+      "tid": "783a25a3350c11b488c58f1d9cb7610d22m",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Daniel Martin",
+        "Adam Yates",
+        "Arnaud Démare",
+        "Magnus Cort Nielsen",
+        "Thomas De Gendt",
+        "Guillaume Martin",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "Maliax",
+      "name": "Asthmana",
+      "tid": "12s6a2eb4d61768e5f94b13cd49ff501953V",
+      "team": [
+        "Rigoberto Uran",
+        "Geraint Thomas",
+        "Adam Yates",
+        "Romain Bardet",
+        "Dylan Groenewegen",
+        "Daryl Impey",
+        "Damien Gaudin",
+        "Andrea Pasqualon",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Rui Vieira",
+      "name": "RuMi_Power",
+      "tid": "4o50dac7d217e184ff5791a175ba51f9f8r",
+      "team": [
+        "Primoz Roglic",
+        "Julian Alaphilippe",
+        "Ilnur Zakarin",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Tobias Ludvigsson",
+        "Gorka Izagirre",
+        "Omar Fraile",
+        "Vincenzo Nibali"
+      ]
+    },
+    {
+      "user": "Martha ",
+      "name": "MG van Cy",
+      "tid": "10r8dd9d2cf0226d356bc3c174053f571d8m",
+      "team": [
+        "Richie Porte",
+        "Bob Jungels",
+        "Daniel Martin",
+        "Egan Arley Bernal",
+        "Arnaud Démare",
+        "Daryl Impey",
+        "Daniele Bennati",
+        "Maciej Bodnar",
+        "Rigoberto Uran"
+      ]
+    },
+    {
+      "user": "Louis",
+      "name": "Baroudy Project",
+      "tid": "6kfbdc72875fa98e06edda657e96b5e29bl",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Gianni Moscon",
+        "David Gaudu",
+        "Guillaume Martin",
+        "Christophe Laporte"
+      ]
+    },
+    {
+      "user": "Anna Ton",
+      "name": "Someone Still Loves You Laurent Jalabert",
+      "tid": "7n53b602771af51923d81662c52028de65A",
+      "team": [
+        "Christopher Froome",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Domenico Pozzovivo",
+        "Marcel Kittel",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Marcus Burghardt",
+        "Guillaume Martin"
+      ]
+    },
+    {
+      "user": "AwakenTheBacon",
+      "name": "Baconaters United",
+      "tid": "14n925e06a9b37f5eaa4f624815c53e3cabA",
+      "team": [
+        "Tom Dumoulin",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Arnaud Démare",
+        "Stefan Küng",
+        "Guillaume Martin",
+        "Michael Schar",
+        "Jakob Fuglsang"
+      ]
+    },
+    {
+      "user": "Al__S",
+      "name": "VC Taverna Pro Cycling",
+      "tid": "5s90190e732273f7d0c9994c268d9f7f7ea",
+      "team": [
+        "Geraint Thomas",
+        "Tom Dumoulin",
+        "Nairo Quintana",
+        "Adam Yates",
+        "Marcel Kittel",
+        "Patrick Bevin",
+        "Anthony Perez",
+        "Lilian Calmejane",
+        "Toms Skujiņš"
+      ]
+    },
+    {
+      "user": "nacho63",
+      "name": "its coming home",
+      "tid": "734a2a1a411c6cec74a84aacf43a646f3fn",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Marcel Kittel",
+        "Thomas De Gendt",
+        "Gorka Izagirre",
+        "Jack Bauer",
+        "Edvald Boasson Hagen"
+      ]
+    },
+    {
+      "user": "Tony Campagna ",
+      "name": "Bike Loft East",
+      "tid": "11s14a3807a893d9e8892639d34c50a6a12E",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Daniel Martin",
+        "Romain Bardet",
+        "Dylan Groenewegen",
+        "Toms Skujiņš",
+        "Lilian Calmejane",
+        "Luis Leon Sanchez",
+        "Greg Van Avermaet"
+      ]
+    },
+    {
+      "user": "Mark Counsell",
+      "name": "Exclamation Mark",
+      "tid": "1785ac7ce71e533f05e3901d4e77c5c8e34E",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Daniel Martin",
+        "Domenico Pozzovivo",
+        "Peter Sagan",
+        "Tiesj Benoot",
+        "Rudy Molard",
+        "Mathew Hayman",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Will D",
+      "name": "Spin Doctors",
+      "tid": "872d97ebdc21b7c503a567695d3f37ee43W",
+      "team": [
+        "Richie Porte",
+        "Primoz Roglic",
+        "Egan Arley Bernal",
+        "Daniel Navarro",
+        "Dylan Groenewegen",
+        "Daryl Impey",
+        "Jack Bauer",
+        "Chad Haga",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "fullgashurt",
+      "name": "Salbutamol Slurpers",
+      "tid": "9s84d54e7986168e70a496db820c925709w",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Pierre Rolland",
+        "Nairo Quintana",
+        "Peter Sagan",
+        "Jonathan Castroviejo",
+        "Michael Schar",
+        "Jelle Vanendert",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "BaylorOso",
+      "name": "BaylorOso",
+      "tid": "7h63d8694eb6ef928e13ceb3cd6017e52cs",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Mikel Landa",
+        "Egan Arley Bernal",
+        "Marcel Kittel",
+        "Lawson Craddock",
+        "Mathew Hayman",
+        "Maciej Bodnar",
+        "Sylvain Chavanel"
+      ]
+    },
+    {
+      "user": "Brad",
+      "name": "[topical cycling pun]",
+      "tid": "13t306babeae0543c8ca64c942810fadafbt",
+      "team": [
+        "Steven Kruijswijk",
+        "Christopher Froome",
+        "Ilnur Zakarin",
+        "Pierre Latour",
+        "Peter Sagan",
+        "Niki Terpstra",
+        "Timothy Dupont",
+        "Luis Leon Sanchez",
+        "Tiesj Benoot"
+      ]
+    },
+    {
+      "user": "Repli",
+      "name": "Repli",
+      "tid": "5i0b765e50b20501d3d8c2ff1c3b51b3f2R",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Adam Yates",
+        "Rafał Majka",
+        "Fernando Gaviria",
+        "Daryl Impey",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Mikel Nieve"
+      ]
+    },
+    {
+      "user": "Dickey Van Dijk",
+      "name": "Channeling de BDE",
+      "tid": "8o14f556ee700db0bb77e5162886a6dee3c",
+      "team": [
+        "Rigoberto Uran",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Yves Lampaert",
+        "Maciej Bodnar",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Vincent",
+      "name": "l`epo c`est de l`eau",
+      "tid": "11g97cf2b6afd63c98dabd69fd73cb0db52v",
+      "team": [
+        "Primoz Roglic",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Mikel Landa",
+        "Dylan Groenewegen",
+        "Niki Terpstra",
+        "Thomas De Gendt",
+        "Jonathan Castroviejo",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Cletus_awreetus",
+      "name": "Awrightus",
+      "tid": "15sed03e8e749ea0c5458346f80ef6f215cC",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Pierre Rolland",
+        "Marcel Kittel",
+        "Daniele Bennati",
+        "Tony Martin",
+        "Sylvain Chavanel",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Arnout ",
+      "name": "1,2,3,4 5 voor NL! ",
+      "tid": "7zd1d4fadbc28d3363231fa6831c0e2409A",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Peter Sagan",
+        "Jonathan Castroviejo",
+        "Niki Terpstra",
+        "Marcus Burghardt",
+        "Bob Jungels"
+      ]
+    },
+    {
+      "user": "Oliver Farla",
+      "name": "Second breakfast",
+      "tid": "9i86fe5d18e22a26a590f02de9cf348e7dA",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Nairo Quintana",
+        "Rafał Majka",
+        "Marcel Kittel",
+        "Andrea Pasqualon",
+        "Tony Martin",
+        "Imanol Erviti",
+        "Edvald Boasson Hagen"
+      ]
+    },
+    {
+      "user": "Dylan Lynch",
+      "name": "Lounge Chair DS",
+      "tid": "10h430a296c6cbd2304fb952303bf3d41c8D",
+      "team": [
+        "Geraint Thomas",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Domenico Pozzovivo",
+        "Fernando Gaviria",
+        "Lilian Calmejane",
+        "Philippe Gilbert",
+        "Tiesj Benoot",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Goutye",
+      "name": "LesPloucs",
+      "tid": "6ed1c4242629b7328d38a9dc0169e8888bG",
+      "team": [
+        "Julian Alaphilippe",
+        "Tom Dumoulin",
+        "Romain Bardet",
+        "Pierre Latour",
+        "Arnaud Démare",
+        "David Gaudu",
+        "Thomas De Gendt",
+        "Lilian Calmejane",
+        "Warren Barguil"
+      ]
+    },
+    {
+      "user": "Bjorn",
+      "name": "Tardigrades",
+      "tid": "570dc2cc642d9a99c270e95119c521591db",
+      "team": [
+        "Jakob Fuglsang",
+        "Alejandro Valverde",
+        "Daniel Martin",
+        "Adam Yates",
+        "Peter Sagan",
+        "Andrea Pasqualon",
+        "Magnus Cort Nielsen",
+        "Guillaume Martin",
+        "Ilnur Zakarin"
+      ]
+    },
+    {
+      "user": "sluhnd",
+      "name": "Floyd`s Beer",
+      "tid": "8k7f4de8fe62772b075208cd1b6fc23342m",
+      "team": [
+        "Vincenzo Nibali",
+        "Bob Jungels",
+        "Adam Yates",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Sylvain Chavanel",
+        "Simon Gerrans",
+        "Tiesj Benoot",
+        "Warren Barguil"
+      ]
+    },
+    {
+      "user": "Brave Dailsford",
+      "name": "Mikeldonalds",
+      "tid": "10y32125eabed69e4b096a075a3d482fb82c",
+      "team": [
+        "Geraint Thomas",
+        "Primoz Roglic",
+        "Mikel Landa",
+        "Mikel Nieve",
+        "Peter Sagan",
+        "Jack Bauer",
+        "Taylor Phinney",
+        "Oliver Naesen",
+        "Egan Arley Bernal"
+      ]
+    },
+    {
+      "user": "Bontus",
+      "name": "Bontus` Baguettes",
+      "tid": "6s87ceb934fb99dd7f2112d39b0e59da65B",
+      "team": [
+        "Richie Porte",
+        "Julian Alaphilippe",
+        "Nairo Quintana",
+        "Egan Arley Bernal",
+        "Fernando Gaviria",
+        "Magnus Cort Nielsen",
+        "Timothy Dupont",
+        "David Gaudu",
+        "Omar Fraile"
+      ]
+    },
+    {
+      "user": "fewfiet",
+      "name": "I Tori",
+      "tid": "7t6452d69da88fb20c7a44c87e30d34d38F",
+      "team": [
+        "Richie Porte",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Dylan Groenewegen",
+        "Omar Fraile",
+        "David Gaudu",
+        "Niki Terpstra",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "Brano Balogh",
+      "name": "Branci Cycling",
+      "tid": "933b3f5675c4e7a22e6504d2ec527fafaab",
+      "team": [
+        "Richie Porte",
+        "Jakob Fuglsang",
+        "Warren Barguil",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Julien Simon",
+        "Arthur Vichot",
+        "Guillaume Martin",
+        "Thomas De Gendt"
+      ]
+    },
+    {
+      "user": "Dominic Hammond",
+      "name": "hammy`s IX",
+      "tid": "108a72c129ab8891e07ffa2410bc3882754D",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Rafał Majka",
+        "Pierre Latour",
+        "André Greipel",
+        "Greg Van Avermaet",
+        "Axel Domont",
+        "Thomas De Gendt",
+        "Egan Arley Bernal"
+      ]
+    },
+    {
+      "user": "on1879",
+      "name": "Mon Yerself",
+      "tid": "69e33b51b92cebbad23293d12ef1c9d6f8o",
+      "team": [
+        "Vincenzo Nibali",
+        "Bauke Mollema",
+        "Pierre Rolland",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Silvan Dillier",
+        "Tom Dumoulin"
+      ]
+    },
+    {
+      "user": "sosovic",
+      "name": "sosovic",
+      "tid": "7c667621f5009ebc7c4e3955a7935365c4s",
+      "team": [
+        "Christopher Froome",
+        "Ion Izagirre",
+        "Adam Yates",
+        "Daniel Martin",
+        "Peter Sagan",
+        "Jack Bauer",
+        "Imanol Erviti",
+        "Marcus Burghardt",
+        "Philippe Gilbert"
+      ]
+    },
+    {
+      "user": "Jake Morris",
+      "name": "Salbutamolaholic",
+      "tid": "1352547f7d372ecba2642b12762361e5674J",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Warren Barguil",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Thomas De Gendt",
+        "Taylor Phinney",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "sulfuratus",
+      "name": "Afghanistan Cycling Academy",
+      "tid": "10sc584d57a1c6b0109e6060e80447037f2s",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Marcel Kittel",
+        "Thomas De Gendt",
+        "Gorka Izagirre",
+        "Magnus Cort Nielsen",
+        "Alexander Kristoff"
+      ]
+    },
+    {
+      "user": "Juan Rodriguez",
+      "name": "domestiqued",
+      "tid": "6o475fffde43784216f0e5b3be0d692f1bj",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Egan Arley Bernal",
+        "Daniel Felipe Martinez",
+        "Fernando Gaviria",
+        "Jonathan Castroviejo",
+        "Jack Bauer",
+        "Tiesj Benoot",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "John Rauser",
+      "name": "JR Riders",
+      "tid": "7r39d5307f823e80e6b631dccef0261ac5j",
+      "team": [
+        "Christopher Froome",
+        "Primoz Roglic",
+        "Domenico Pozzovivo",
+        "Pierre Rolland",
+        "Peter Sagan",
+        "Philippe Gilbert",
+        "Jack Bauer",
+        "Tiesj Benoot",
+        "Toms Skujiņš"
+      ]
+    },
+    {
+      "user": "Taro Laframboise",
+      "name": "We take no L`s",
+      "tid": "15e9b8b923013193b42d1e53eac7f212d31T",
+      "team": [
+        "Geraint Thomas",
+        "Ion Izagirre",
+        "Romain Bardet",
+        "Egan Arley Bernal",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "Greg Van Avermaet",
+        "Jonathan Castroviejo",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Franchino Moser",
+      "name": "Pink panther",
+      "tid": "609604c3b0292cd808039363965d930563b",
+      "team": [
+        "Julian Alaphilippe",
+        "Rigoberto Uran",
+        "Warren Barguil",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Magnus Cort Nielsen",
+        "Michael Schar",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "TC",
+      "name": "Not the road captain ",
+      "tid": "771f63d9c03bffb40e15cd385e5261d42aF",
+      "team": [
+        "Vincenzo Nibali",
+        "Tom Dumoulin",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Peter Sagan",
+        "Tiesj Benoot",
+        "Gianni Moscon",
+        "Jack Bauer",
+        "Michael Hepburn"
+      ]
+    },
+    {
+      "user": "Buck C. Canyon",
+      "name": "BardetYellow",
+      "tid": "12h3898098e35b92056a6f9ab11fea27a3ed",
+      "team": [
+        "Richie Porte",
+        "Geraint Thomas",
+        "Romain Bardet",
+        "Egan Arley Bernal",
+        "Peter Sagan",
+        "David Gaudu",
+        "Andrea Pasqualon",
+        "Marcus Burghardt",
+        "Chad Haga"
+      ]
+    },
+    {
+      "user": "Seldon",
+      "name": "Foundation",
+      "tid": "3f1d3c331ef859c185bf35fffaf2fd8f68j",
+      "team": [
+        "Tom Dumoulin",
+        "Primoz Roglic",
+        "Rafał Majka",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "Marcus Burghardt",
+        "Michael Schar",
+        "Thomas De Gendt",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Enchanic",
+      "name": "Birdland",
+      "tid": "8c12cc885f9271aa9bcae232c2415f642fE",
+      "team": [
+        "Primoz Roglic",
+        "Richie Porte",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Dylan Groenewegen",
+        "Chad Haga",
+        "Imanol Erviti",
+        "Tim Declercq",
+        "Magnus Cort Nielsen"
+      ]
+    },
+    {
+      "user": "I_am_the_party",
+      "name": "The Deadly Rhythm",
+      "tid": "6ied29ee4443af79a3630599b875d9fa4ed",
+      "team": [
+        "Primoz Roglic",
+        "Bauke Mollema",
+        "Mikel Landa",
+        "Romain Bardet",
+        "Arnaud Démare",
+        "Greg Van Avermaet",
+        "Lilian Calmejane",
+        "David Gaudu",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "labadal",
+      "name": "koene riders",
+      "tid": "7l89226c67236e36fbe009a12b1f8558b9l",
+      "team": [
+        "Vincenzo Nibali",
+        "Alejandro Valverde",
+        "Romain Bardet",
+        "Pierre Rolland",
+        "Arnaud Démare",
+        "Maciej Bodnar",
+        "Thomas De Gendt",
+        "Philippe Gilbert",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Brakka",
+      "name": "Brakka",
+      "tid": "14fb9a025d095de81904e257552e116a00eD",
+      "team": [
+        "Alejandro Valverde",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Peter Sagan",
+        "Timothy Dupont",
+        "Gianni Moscon",
+        "David Gaudu",
+        "Sonny Colbrelli"
+      ]
+    },
+    {
+      "user": "5704m",
+      "name": "palpatine is not evil",
+      "tid": "5m9ccf4ddbbebbbea6fc630939f5af0a155",
+      "team": [
+        "Bob Jungels",
+        "Julian Alaphilippe",
+        "Adam Yates",
+        "Nairo Quintana",
+        "Fernando Gaviria",
+        "Magnus Cort Nielsen",
+        "Jesús Herrada",
+        "Arthur Vichot",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Linkador",
+      "name": "Linkadors",
+      "tid": "8re0fb96aa59d1965d9b82d111aebb17c1L",
+      "team": [
+        "Primoz Roglic",
+        "Ion Izagirre",
+        "Mikel Landa",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Tony Martin",
+        "Guillaume Martin",
+        "Thomas De Gendt",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "SÃ¸ren T",
+      "name": "Team Thooooooooooorsen",
+      "tid": "11n02a7fe1600b99f9c24bb6832ff50b9efu",
+      "team": [
+        "Primoz Roglic",
+        "Christopher Froome",
+        "Pierre Latour",
+        "Romain Bardet",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "Michael Valgren",
+        "Timothy Dupont",
+        "Guillaume Martin"
+      ]
+    },
+    {
+      "user": "fat_cat_lombardi",
+      "name": "Like Herding Cats",
+      "tid": "16i36f1ee016ebbfad89442497ff41e0714f",
+      "team": [
+        "Vincenzo Nibali",
+        "Tom Dumoulin",
+        "Adam Yates",
+        "Domenico Pozzovivo",
+        "Peter Sagan",
+        "Luke Durbridge",
+        "Sylvain Chavanel",
+        "Mathew Hayman",
+        "Rafał Majka"
+      ]
+    },
+    {
+      "user": "Yellow 52",
+      "name": "One-eyed Jim",
+      "tid": "820deff6a379268107937d4e801c5ad708y",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Domenico Pozzovivo",
+        "Warren Barguil",
+        "Michael Matthews",
+        "Gianni Moscon",
+        "Daryl Impey",
+        "Sylvain Chavanel",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Thogon",
+      "name": "Pizza Guy Racing",
+      "tid": "9nf63ab2efde89bf7a1342b35f8356d31bH",
+      "team": [
+        "Julian Alaphilippe",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Mark Cavendish",
+        "Magnus Cort Nielsen",
+        "Philippe Gilbert",
+        "Greg Van Avermaet",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "OldBearMan",
+      "name": "Eau De Armstrong",
+      "tid": "10na9b2a712e9f90d971596c407304b2310O",
+      "team": [
+        "Julian Alaphilippe",
+        "Richie Porte",
+        "Romain Bardet",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Philippe Gilbert",
+        "Nikias Arndt",
+        "Dmitriy Gruzdev",
+        "Serge Pauwels"
+      ]
+    },
+    {
+      "user": "AYYYYY",
+      "name": "Despacito 2",
+      "tid": "13l44c799eb02e959a13eb1ffb58d5f83b9C",
+      "team": [
+        "Christopher Froome",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Warren Barguil",
+        "Marcel Kittel",
+        "Daryl Impey",
+        "Magnus Cort Nielsen",
+        "Yves Lampaert",
+        "Marcus Burghardt"
+      ]
+    },
+    {
+      "user": "ToXiC",
+      "name": "Salbutamol Cat",
+      "tid": "5C6956ef0ee1891ea595377b5418edf6e0T",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Ilnur Zakarin",
+        "Nairo Quintana",
+        "Marcel Kittel",
+        "David Gaudu",
+        "Tony Martin",
+        "Yves Lampaert",
+        "Tom Dumoulin"
+      ]
+    },
+    {
+      "user": "bdrammel",
+      "name": "Froome de Farce",
+      "tid": "8lb6545a047dae8baf6a7bd69e6c748e5cb",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Romain Bardet",
+        "Nairo Quintana",
+        "Fernando Gaviria",
+        "Damien Gaudin",
+        "David Gaudu",
+        "Niki Terpstra",
+        "Pierre Rolland"
+      ]
+    },
+    {
+      "user": "Niels ",
+      "name": "AllesOpRood",
+      "tid": "11d19b2778e1b947ace3bfbaef5304faa93A",
+      "team": [
+        "Alejandro Valverde",
+        "Julian Alaphilippe",
+        "Marc Soler",
+        "Mikel Nieve",
+        "Dylan Groenewegen",
+        "Koen De Kort",
+        "Tiesj Benoot",
+        "Daryl Impey",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "edlll91",
+      "name": "No topo",
+      "tid": "713dd8905f393ae751d21a83a5d566fe73E",
+      "team": [
+        "Tom Dumoulin",
+        "Vincenzo Nibali",
+        "Nairo Quintana",
+        "Mikel Landa",
+        "André Greipel",
+        "Guillaume Martin",
+        "Andrea Pasqualon",
+        "Guillaume Van Keirsbulck",
+        "Alexander Kristoff"
+      ]
+    },
+    {
+      "user": "TG",
+      "name": "Rouleurs ",
+      "tid": "7x3a240dd7f2a963cb758c94cdf8961d17V",
+      "team": [
+        "Vincenzo Nibali",
+        "Bauke Mollema",
+        "Nairo Quintana",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Elie Gesbert",
+        "Andrea Pasqualon",
+        "Ilnur Zakarin"
+      ]
+    },
+    {
+      "user": "Wielememe",
+      "name": "Saltybutamol",
+      "tid": "9a0e022127a2482e22638f7ae58d916ba1p",
+      "team": [
+        "Rigoberto Uran",
+        "Julian Alaphilippe",
+        "Nairo Quintana",
+        "Warren Barguil",
+        "Fernando Gaviria",
+        "Omar Fraile",
+        "Imanol Erviti",
+        "Tim Declercq",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Macroscope",
+      "name": "Yates`s Wine Lodge",
+      "tid": "10e141c9f3927f94e84f30358ac1f2e96acM",
+      "team": [
+        "Richie Porte",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Marc Soler",
+        "Dylan Groenewegen",
+        "Daryl Impey",
+        "Koen De Kort",
+        "Marcus Burghardt",
+        "Daniel Martin"
+      ]
+    },
+    {
+      "user": "Ooh Artwright",
+      "name": "Scotch Eggs",
+      "tid": "6b5333b00201e85677c46b0f0041469c1aa",
+      "team": [
+        "Vincenzo Nibali",
+        "Primoz Roglic",
+        "Nairo Quintana",
+        "Mikel Landa",
+        "Fernando Gaviria",
+        "Ian Boswell",
+        "Jay Robert Thomson",
+        "Julien Vermote",
+        "Michael Valgren"
+      ]
+    },
+    {
+      "user": "test",
+      "name": "test",
+      "tid": "7ee05a0e07eb357ee0f041b355054e144dv",
+      "team": [
+        "Primoz Roglic",
+        "Tom Dumoulin",
+        "Romain Bardet",
+        "Marc Soler",
+        "Fernando Gaviria",
+        "Lilian Calmejane",
+        "Philippe Gilbert",
+        "Maciej Bodnar",
+        "André Greipel"
+      ]
+    },
+    {
+      "user": "caz",
+      "name": "KCC-Bernard Hinault",
+      "tid": "4zeede525ccbdf8977db7b350cd22a3d87c",
+      "team": [
+        "Geraint Thomas",
+        "Primoz Roglic",
+        "Mikel Landa",
+        "Egan Arley Bernal",
+        "Fernando Gaviria",
+        "Jonathan Castroviejo",
+        "Michael Schar",
+        "Tobias Ludvigsson",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "Samuel J Overend",
+      "name": "Beerwulves",
+      "tid": "8f274592e4b5ac949bf2a6a65d5ca806bbB",
+      "team": [
+        "Bob Jungels",
+        "Steven Kruijswijk",
+        "Adam Yates",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Andrea Pasqualon",
+        "David Gaudu",
+        "Tim Declercq",
+        "Nairo Quintana"
+      ]
+    },
+    {
+      "user": "Bill Smythe",
+      "name": "Whiffenpoofs",
+      "tid": "10t5cca733a245e72f4609305317aca9f84p",
+      "team": [
+        "Primoz Roglic",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Julien Bernard",
+        "Marcus Burghardt",
+        "Omar Fraile",
+        "Nairo Quintana"
+      ]
+    },
+    {
+      "user": "DerpTrain",
+      "name": "Yeet on the seat",
+      "tid": "6r37199fae2b51e38420375197c1d45817A",
+      "team": [
+        "Rigoberto Uran",
+        "Jakob Fuglsang",
+        "Pierre Latour",
+        "Mikel Nieve",
+        "Peter Sagan",
+        "Tiesj Benoot",
+        "Marcus Burghardt",
+        "Guillaume Van Keirsbulck",
+        "Richie Porte"
+      ]
+    },
+    {
+      "user": "Andrew",
+      "name": "Andrew",
+      "tid": "7s65a84e94f09ce2e5299e7e81eb912298m",
+      "team": [
+        "Jakob Fuglsang",
+        "Geraint Thomas",
+        "Adam Yates",
+        "Rafał Majka",
+        "Mark Cavendish",
+        "Luis Leon Sanchez",
+        "Greg Van Avermaet",
+        "Jesús Herrada",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Erling",
+      "name": "Velokay",
+      "tid": "8ybec7449f22083b073a8e1ffeb70915d1E",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Romain Bardet",
+        "Adam Yates",
+        "Fernando Gaviria",
+        "Søren Kragh Andersen",
+        "Magnus Cort Nielsen",
+        "Jérôme Cousin",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "Tommy D's Starship Captain",
+      "name": "Tommy D`s Starship",
+      "tid": "15rce2e6ed85af8c5a88bd784f596efbe91J",
+      "team": [
+        "Tom Dumoulin",
+        "Wout Poels",
+        "Adam Yates",
+        "Warren Barguil",
+        "Marcel Kittel",
+        "Niki Terpstra",
+        "Koen De Kort",
+        "Maciej Bodnar",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Sergio Conceicao",
+      "name": "Faz-me um filho Sergio Conceicao",
+      "tid": "66d96ace5d4cc07d36bd34e4bb9bd9867ej",
+      "team": [
+        "Jakob Fuglsang",
+        "Geraint Thomas",
+        "Daniel Martin",
+        "Egan Arley Bernal",
+        "Fernando Gaviria",
+        "Tiesj Benoot",
+        "David Gaudu",
+        "Guillaume Martin",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Tolson",
+      "name": "Krisf Rooms Uggs",
+      "tid": "7b5664ee0aeeb573d49e37198032ee548at",
+      "team": [
+        "Jakob Fuglsang",
+        "Alejandro Valverde",
+        "Mikel Landa",
+        "Rafał Majka",
+        "Peter Sagan",
+        "Magnus Cort Nielsen",
+        "Omar Fraile",
+        "Nicolas Edet",
+        "Pierre Latour"
+      ]
+    },
+    {
+      "user": "carrotrocket",
+      "name": "boring summer",
+      "tid": "12t4255e5dbcda9ada6d933056a72514b85c",
+      "team": [
+        "Primoz Roglic",
+        "Jakob Fuglsang",
+        "Adam Yates",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Marcus Burghardt",
+        "Michael Schar",
+        "Guillaume Martin",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "lihamt",
+      "name": "Aspiring Deadweight",
+      "tid": "10r8f70ca07fefbea8c7a64301e8d0280abL",
+      "team": [
+        "Primoz Roglic",
+        "Christopher Froome",
+        "Egan Arley Bernal",
+        "Mathias Frank",
+        "Mark Cavendish",
+        "Ian Boswell",
+        "Kristijan Durasek",
+        "Julien Simon",
+        "Mikel Landa"
+      ]
+    },
+    {
+      "user": "Alexandre Barros",
+      "name": "Kathrein",
+      "tid": "6l9fa8e8f9c1e6a516eaccc828c7c762a8d",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Daniel Martin",
+        "Ilnur Zakarin",
+        "Peter Sagan",
+        "Michael Schar",
+        "Jonathan Castroviejo",
+        "Imanol Erviti",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "entlein",
+      "name": "Platypus Tricycle",
+      "tid": "7n5f8cad6384fbcdd6a38d3a57008f2e91e",
+      "team": [
+        "Rigoberto Uran",
+        "Tom Dumoulin",
+        "Romain Bardet",
+        "Serge Pauwels",
+        "Michael Matthews",
+        "Lilian Calmejane",
+        "Jasper De Buyst",
+        "Tiesj Benoot",
+        "Nairo Quintana"
+      ]
+    },
+    {
+      "user": "bouncingchecks",
+      "name": "Just Two Puffs",
+      "tid": "14s6e1fedb9aabb95e507d496638df3ce4eb",
+      "team": [
+        "Richie Porte",
+        "Primoz Roglic",
+        "Rafał Majka",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Ian Boswell",
+        "David Gaudu",
+        "Chad Haga",
+        "Jack Bauer"
+      ]
+    },
+    {
+      "user": "Gentner",
+      "name": "GSK-Deliveroo Pro Cycling",
+      "tid": "5tf429624a147b4f07de3eca572296678cc",
+      "team": [
+        "Jakob Fuglsang",
+        "Alejandro Valverde",
+        "Daniel Martin",
+        "Romain Bardet",
+        "Christophe Laporte",
+        "David Gaudu",
+        "Lilian Calmejane",
+        "Guillaume Martin",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Msfan93 ",
+      "name": "Msfan93 ",
+      "tid": "73d19f68ee084721188c9cab7ef771250dM",
+      "team": [
+        "Bob Jungels",
+        "Vincenzo Nibali",
+        "Warren Barguil",
+        "Romain Bardet",
+        "Michael Matthews",
+        "Daryl Impey",
+        "Guillaume Martin",
+        "Greg Van Avermaet",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "goldie",
+      "name": "Mont Jontoux",
+      "tid": "11s68cebeffec27268e51e32d7c9fca4b21g",
+      "team": [
+        "Primoz Roglic",
+        "Vincenzo Nibali",
+        "Adam Yates",
+        "Daniel Navarro",
+        "Peter Sagan",
+        "Timothy Dupont",
+        "David Gaudu",
+        "Andrea Pasqualon",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "luke m-t",
+      "name": "yellow bellies",
+      "tid": "17s210bfcfedc058c7808cec7408617c4b5l",
+      "team": [
+        "Christopher Froome",
+        "Julian Alaphilippe",
+        "Rafał Majka",
+        "Daniel Martin",
+        "Fernando Gaviria",
+        "Jonathan Castroviejo",
+        "Thomas De Gendt",
+        "Tanel Kangert",
+        "Michael Valgren"
+      ]
+    },
+    {
+      "user": "shadowmoon",
+      "name": "BloodFalls",
+      "tid": "87988418bcd4d4b5ff4c9b51361d35e7e5v",
+      "team": [
+        "Jakob Fuglsang",
+        "Rigoberto Uran",
+        "Daniel Martin",
+        "Ilnur Zakarin",
+        "Fernando Gaviria",
+        "Magnus Cort Nielsen",
+        "David Gaudu",
+        "Julien Simon",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Daniel Giles",
+      "name": "Wheelie Bad Team Name",
+      "tid": "9sa76cf068295e52a7218360508ac82e2fG",
+      "team": [
+        "Richie Porte",
+        "Jakob Fuglsang",
+        "Ilnur Zakarin",
+        "Marc Soler",
+        "Peter Sagan",
+        "Greg Van Avermaet",
+        "Michael Schar",
+        "Omar Fraile",
+        "Philippe Gilbert"
+      ]
+    },
+    {
+      "user": "Anonomi",
+      "name": "We Wont Tyre",
+      "tid": "7ied5cff4390e8540c99e7927c478e2433A",
+      "team": [
+        "Christopher Froome",
+        "Tejay Van Garderen",
+        "Warren Barguil",
+        "Daniel Navarro",
+        "Peter Sagan",
+        "Tony Martin",
+        "Jack Bauer",
+        "Philippe Gilbert",
+        "Edvald Boasson Hagen"
+      ]
+    },
+    {
+      "user": "TelepathicCow",
+      "name": "Dan4MaillotJaune",
+      "tid": "13w44f42f8cafab59fbe7eabebf9a11d1e5T",
+      "team": [
+        "Vincenzo Nibali",
+        "Rigoberto Uran",
+        "Daniel Martin",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "David Gaudu",
+        "Philippe Gilbert",
+        "Michael Schar",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "ichti",
+      "name": "Lots o Huggin Bear",
+      "tid": "5iee07a7ab3b74b90ebca1a3bb34b68beei",
+      "team": [
+        "Primoz Roglic",
+        "Geraint Thomas",
+        "Egan Arley Bernal",
+        "Daniel Felipe Martinez",
+        "Peter Sagan",
+        "Magnus Cort Nielsen",
+        "Tanel Kangert",
+        "Daryl Impey",
+        "Jakob Fuglsang"
+      ]
+    },
+    {
+      "user": "Caramelo",
+      "name": "Triciclistas",
+      "tid": "8o1fd6f0f4cfb25aebf0de74b52cd77b32C",
+      "team": [
+        "Vincenzo Nibali",
+        "Bob Jungels",
+        "Adam Yates",
+        "Pierre Latour",
+        "Fernando Gaviria",
+        "Thomas De Gendt",
+        "Stefan Küng",
+        "Greg Van Avermaet",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "Ryan Litterick",
+      "name": "Rippers ",
+      "tid": "11kef3d8ae7f95f00c4e16a8343e63869c7R",
+      "team": [
+        "Geraint Thomas",
+        "Julian Alaphilippe",
+        "Adam Yates",
+        "Marc Soler",
+        "Mark Cavendish",
+        "Daryl Impey",
+        "Thomas De Gendt",
+        "Tiesj Benoot",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Jill and Rob",
+      "name": "SlowBirds",
+      "tid": "15t071cbdb7df2523d9612293d98ccf0bf8m",
+      "team": [
+        "Primoz Roglic",
+        "Bob Jungels",
+        "Adam Yates",
+        "Pierre Latour",
+        "Fernando Gaviria",
+        "Daryl Impey",
+        "Luis Leon Sanchez",
+        "Thomas De Gendt",
+        "Jakob Fuglsang"
+      ]
+    },
+    {
+      "user": "James McKellar",
+      "name": "Team Amazing 4. Amazing just got real",
+      "tid": "8024d7c68b722cfab9f30b4d5ce604f529m",
+      "team": [
+        "Christopher Froome",
+        "Bauke Mollema",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Peter Sagan",
+        "Julien Vermote",
+        "Stefan Küng",
+        "Jack Bauer",
+        "Oliver Naesen"
+      ]
+    },
+    {
+      "user": "TdFirst",
+      "name": "Amberjack",
+      "tid": "9kc989fba069070329d627afce20078331A",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Fernando Gaviria",
+        "Greg Van Avermaet",
+        "Jonathan Castroviejo",
+        "Luis Leon Sanchez",
+        "Chad Haga"
+      ]
+    },
+    {
+      "user": "Jacob B #GRAPPA",
+      "name": "La Vie Eclair",
+      "tid": "10he36093c5aa89a6f0f38ba60cdc7c0f89M",
+      "team": [
+        "Vincenzo Nibali",
+        "Bauke Mollema",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Peter Sagan",
+        "Thomas De Gendt",
+        "Luis Leon Sanchez",
+        "Sep Vanmarcke",
+        "Magnus Cort Nielsen"
+      ]
+    },
+    {
+      "user": "Dr. Salbutamol",
+      "name": "La Tisaniere Racing Team",
+      "tid": "6gf9478e20c99d873376c47d59985dada3v",
+      "team": [
+        "Primoz Roglic",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Pierre Rolland",
+        "Fernando Gaviria",
+        "Jonathan Castroviejo",
+        "Michael Schar",
+        "Imanol Erviti",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Nathan Parkhurst",
+      "name": "Council of Riders",
+      "tid": "5799a1faf650d34c6e5ea6465bb0f40e36N",
+      "team": [
+        "Vincenzo Nibali",
+        "Geraint Thomas",
+        "Mikel Landa",
+        "Romain Bardet",
+        "Michael Matthews",
+        "Marcus Burghardt",
+        "Tim Declercq",
+        "Greg Van Avermaet",
+        "Daniel Martin"
+      ]
+    },
+    {
+      "user": "Derwipok",
+      "name": "Borussia Derwipok",
+      "tid": "8kf37578b24151229371c07bbe9131d595d",
+      "team": [
+        "Rigoberto Uran",
+        "Christopher Froome",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Dylan Groenewegen",
+        "Timothy Dupont",
+        "Magnus Cort Nielsen",
+        "David Gaudu",
+        "Christophe Laporte"
+      ]
+    },
+    {
+      "user": "Nate",
+      "name": "The Rope Gun Squad",
+      "tid": "10y390799225b9574597b0f6be68c45038en",
+      "team": [
+        "Primoz Roglic",
+        "Rigoberto Uran",
+        "Egan Arley Bernal",
+        "Jarlinson Pantano",
+        "Fernando Gaviria",
+        "Greg Van Avermaet",
+        "Oliver Naesen",
+        "Niki Terpstra",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "Oguzhan Y.",
+      "name": "La Rosiere Espace San Bernardo",
+      "tid": "6sa82be55adfc5e9e2d6c9acbbb672bb2bR",
+      "team": [
+        "Christopher Froome",
+        "Tom Dumoulin",
+        "Ilnur Zakarin",
+        "Pierre Latour",
+        "Michael Matthews",
+        "Magnus Cort Nielsen",
+        "David Gaudu",
+        "Andrea Pasqualon",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Sappert",
+      "name": "Sappert smells like French cheese",
+      "tid": "7taa2f9728b7487dc65230409c1d9504ddS",
+      "team": [
+        "Christopher Froome",
+        "Bauke Mollema",
+        "Romain Bardet",
+        "Adam Yates",
+        "Arnaud Démare",
+        "David Gaudu",
+        "Timothy Dupont",
+        "Elie Gesbert",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Dugarry23",
+      "name": "Chandroni",
+      "tid": "93ee1b81c84cccc57d094f75edbda29049d",
+      "team": [
+        "Julian Alaphilippe",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Adam Yates",
+        "Dylan Groenewegen",
+        "Imanol Erviti",
+        "Jonathan Castroviejo",
+        "Michael Schar",
+        "Peter Sagan"
+      ]
+    },
+    {
+      "user": "McEwan",
+      "name": "McEwan",
+      "tid": "10a38d1eb8d77b8def8a7bd15ab6220215av",
+      "team": [
+        "Alejandro Valverde",
+        "Geraint Thomas",
+        "Adam Yates",
+        "Daniel Martin",
+        "Fernando Gaviria",
+        "Luke Rowe",
+        "Jonathan Castroviejo",
+        "Imanol Erviti",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "huloca",
+      "name": "hallo jumbo",
+      "tid": "6a47e32e069ec9fa8d9c61604c3c2ebd58h",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Antwan Tolhoek",
+        "Dylan Groenewegen",
+        "Magnus Cort Nielsen",
+        "Andrea Pasqualon",
+        "Chad Haga",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "Nero Coaching",
+      "name": "These Hubbards Won`t Win",
+      "tid": "7Cb8b2600b58a1bab78c84927a1fd136d5D",
+      "team": [
+        "Richie Porte",
+        "Julian Alaphilippe",
+        "Nairo Quintana",
+        "Daniel Martin",
+        "Michael Matthews",
+        "Thomas De Gendt",
+        "Michael Schar",
+        "Jack Bauer",
+        "Mark Cavendish"
+      ]
+    },
+    {
+      "user": "EPO and chill",
+      "name": "Tiocfaidh ar la",
+      "tid": "13aa49ce44882ecd8baa32ef2e2a0d759d5T",
+      "team": [
+        "Richie Porte",
+        "Rigoberto Uran",
+        "Daniel Martin",
+        "Mikel Landa",
+        "Peter Sagan",
+        "Damien Gaudin",
+        "Andrea Pasqualon",
+        "Guillaume Martin",
+        "Julien Simon"
+      ]
+    },
+    {
+      "user": "Andre Dias",
+      "name": "Gregarios",
+      "tid": "10sc7bf61d292247744e450c11fa906dd8aa",
+      "team": [
+        "Christopher Froome",
+        "Rigoberto Uran",
+        "Egan Arley Bernal",
+        "Daniel Navarro",
+        "Michael Matthews",
+        "Luis Leon Sanchez",
+        "Niki Terpstra",
+        "Tiesj Benoot",
+        "Julian Alaphilippe"
+      ]
+    },
+    {
+      "user": "Joyako",
+      "name": "Whatever",
+      "tid": "6o5311be227b5c95cc01792cfb46654806J",
+      "team": [
+        "Geraint Thomas",
+        "Julian Alaphilippe",
+        "Pierre Latour",
+        "Marc Soler",
+        "Arnaud Démare",
+        "Søren Kragh Andersen",
+        "Thomas De Gendt",
+        "Gianni Moscon",
+        "Christopher Froome"
+      ]
+    },
+    {
+      "user": "Vestan Pance",
+      "name": "Bile Beans",
+      "tid": "7r89059d57af5b7e381dfcf6f6165ec562n",
+      "team": [
+        "Geraint Thomas",
+        "Richie Porte",
+        "Adam Yates",
+        "Ilnur Zakarin",
+        "Sonny Colbrelli",
+        "David Gaudu",
+        "Michael Gogl",
+        "Omar Fraile",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "HaraldGreycloak",
+      "name": "Van Diemens",
+      "tid": "15k39587f329234887d4cc9df40e4bf7b7cH",
+      "team": [
+        "Richie Porte",
+        "Primoz Roglic",
+        "Egan Arley Bernal",
+        "Daniel Martin",
+        "Peter Sagan",
+        "Tobias Ludvigsson",
+        "Rory Sutherland",
+        "Marcus Burghardt",
+        "Greg Van Avermaet"
+      ]
+    },
+    {
+      "user": "River ",
+      "name": "River`s team",
+      "tid": "610675693dfe365ef58b7c1b65329a6084r",
+      "team": [
+        "Alejandro Valverde",
+        "Julian Alaphilippe",
+        "Egan Arley Bernal",
+        "Romain Bardet",
+        "Michael Matthews",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Luis Leon Sanchez",
+        "Geraint Thomas"
+      ]
+    },
+    {
+      "user": "epi_counts",
+      "name": "The Housemartins",
+      "tid": "77369d2291b004a3c8b245b40b052bfddel",
+      "team": [
+        "Steven Kruijswijk",
+        "Vincenzo Nibali",
+        "Ilnur Zakarin",
+        "Daniel Martin",
+        "Fernando Gaviria",
+        "Tony Martin",
+        "Michael Valgren",
+        "Guillaume Martin",
+        "Primoz Roglic"
+      ]
+    },
+    {
+      "user": "Tom Crofts",
+      "name": "Sean Kelly`s Dangermen",
+      "tid": "12lb1efe218c5a94cb4232003e2cc4a470et",
+      "team": [
+        "Christopher Froome",
+        "Primoz Roglic",
+        "Warren Barguil",
+        "John Darwin Atapuma",
+        "Peter Sagan",
+        "Jack Bauer",
+        "Marcel Sieberg",
+        "David Gaudu",
+        "Bob Jungels"
+      ]
+    },
+    {
+      "user": "RGP",
+      "name": "Baby`s First Bike Team",
+      "tid": "3Pa3f7c11a014d775d64b7c5d6aee29f48R",
+      "team": [
+        "Michal Kwiatkowski",
+        "Christopher Froome",
+        "Alexis Vuillermoz",
+        "Egan Arley Bernal",
+        "Fernando Gaviria",
+        "Jonathan Castroviejo",
+        "David Gaudu",
+        "Gianni Moscon",
+        "Lilian Calmejane"
+      ]
+    },
+    {
+      "user": "W",
+      "name": "US Postal forever",
+      "tid": "8e95aa8ed1c3ce0d85d0f2cd052aef22cdm",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Fernando Gaviria",
+        "Tiesj Benoot",
+        "Magnus Cort Nielsen",
+        "Michael Schar",
+        "Michael Matthews"
+      ]
+    },
+    {
+      "user": "A P",
+      "name": "Just Beat Sky",
+      "tid": "6ifb0f5dfc6734519e4b0285fb430da36da",
+      "team": [
+        "Tom Dumoulin",
+        "Jakob Fuglsang",
+        "Mikel Landa",
+        "Romain Bardet",
+        "Marcel Kittel",
+        "Greg Van Avermaet",
+        "Silvan Dillier",
+        "Luis Leon Sanchez",
+        "Niki Terpstra"
+      ]
+    },
+    {
+      "user": "daniel",
+      "name": "Tour de Bantz ",
+      "tid": "7me5ca82d2dd13ac54d9da0b9eb0a90533V",
+      "team": [
+        "Geraint Thomas",
+        "Rigoberto Uran",
+        "Mikel Landa",
+        "Daniel Martin",
+        "Peter Sagan",
+        "Jonathan Castroviejo",
+        "Imanol Erviti",
+        "Jack Bauer",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "ConspicuousSam",
+      "name": "Richie Falls Short",
+      "tid": "14m075281bc76496249f808df700b483f33C",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Adam Yates",
+        "Mikel Nieve",
+        "Dylan Groenewegen",
+        "Tiesj Benoot",
+        "Greg Van Avermaet",
+        "Guillaume Van Keirsbulck",
+        "Damien Howson"
+      ]
+    },
+    {
+      "user": "Frederik",
+      "name": "still salty about wc",
+      "tid": "5q0199150c9ec73e4f9bcd41343f836f08C",
+      "team": [
+        "Jakob Fuglsang",
+        "Julian Alaphilippe",
+        "Nairo Quintana",
+        "Adam Yates",
+        "Peter Sagan",
+        "Søren Kragh Andersen",
+        "Magnus Cort Nielsen",
+        "David Gaudu",
+        "Michael Valgren"
+      ]
+    },
+    {
+      "user": "Grimolas",
+      "name": "Team Grimolas",
+      "tid": "8sdc0441b6467e32c8eac722e0365aa54cG",
+      "team": [
+        "Vincenzo Nibali",
+        "Bob Jungels",
+        "Adam Yates",
+        "Daniel Martin",
+        "Arnaud Démare",
+        "Thomas De Gendt",
+        "Michael Valgren",
+        "Thomas Boudat",
+        "Fernando Gaviria"
+      ]
+    },
+    {
+      "user": "Dev",
+      "name": "Team Pie",
+      "tid": "11n1ebc154600a2b1ed5b8c760bedf36243d",
+      "team": [
+        "Christopher Froome",
+        "Bob Jungels",
+        "Adam Yates",
+        "Mikel Nieve",
+        "Peter Sagan",
+        "Simon Clarke",
+        "Jack Bauer",
+        "Tanel Kangert",
+        "Pierre Rolland"
+      ]
+    },
+    {
+      "user": "Francesco Bianchi",
+      "name": "Hotwheels",
+      "tid": "16i8ae8c1647881f752d8bad5568008dbe9F",
+      "team": [
+        "Julian Alaphilippe",
+        "Richie Porte",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Fernando Gaviria",
+        "Timothy Dupont",
+        "Thomas Degand",
+        "Magnus Cort Nielsen",
+        "Arthur Vichot"
+      ]
+    },
+    {
+      "user": "dick dastardly",
+      "name": "Pidgeon Pile up",
+      "tid": "822fe3effbd473e17ec39c3e6a854ab4e9B",
+      "team": [
+        "Bob Jungels",
+        "Primoz Roglic",
+        "Nairo Quintana",
+        "Warren Barguil",
+        "Marcel Kittel",
+        "Lilian Calmejane",
+        "Tiesj Benoot",
+        "Philippe Gilbert",
+        "Wout Poels"
+      ]
+    },
+    {
+      "user": "jd_singer",
+      "name": "Bartali Rockets",
+      "tid": "9r4a3e67479227158e2173dcb0c84424c5j",
+      "team": [
+        "Vincenzo Nibali",
+        "Julian Alaphilippe",
+        "Romain Bardet",
+        "Ilnur Zakarin",
+        "Dylan Groenewegen",
+        "Guillaume Martin",
+        "Niki Terpstra",
+        "David Gaudu",
+        "Nairo Quintana"
+      ]
+    },
+    {
+      "user": "Runemann",
+      "name": "RÃ¸sok Velocipedklubb",
+      "tid": "10nb89c663e20647046b6936d5a1a59469cr",
+      "team": [
+        "Julian Alaphilippe",
+        "Primoz Roglic",
+        "Adam Yates",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Søren Kragh Andersen",
+        "Tiesj Benoot",
+        "Niki Terpstra",
+        "Edvald Boasson Hagen"
+      ]
+    },
+    {
+      "user": "RODRIGO",
+      "name": "CHASKI`s",
+      "tid": "13oc09e884e9bf5e31ab523dfcbb07ee09bC",
+      "team": [
+        "Christopher Froome",
+        "Julian Alaphilippe",
+        "Egan Arley Bernal",
+        "Pierre Latour",
+        "Fernando Gaviria",
+        "Yves Lampaert",
+        "Arthur Vichot",
+        "Andrea Pasqualon",
+        "Daniel Martin"
+      ]
+    },
+    {
+      "user": "Filipe Duarte",
+      "name": "Clg gaming",
+      "tid": "5d3e74dc587e2e8f59daf3a3931d8a7df2f",
+      "team": [
+        "Primoz Roglic",
+        "Tom Dumoulin",
+        "Warren Barguil",
+        "Rafał Majka",
+        "Marcel Kittel",
+        "Tiesj Benoot",
+        "Thomas De Gendt",
+        "Greg Van Avermaet",
+        "Romain Bardet"
+      ]
+    },
+    {
+      "user": "Petter Hindal",
+      "name": "CK Hindal",
+      "tid": "8n4dda3140d12714eaf912e078ccca2b60h",
+      "team": [
+        "Christopher Froome",
+        "Bob Jungels",
+        "Romain Bardet",
+        "Warren Barguil",
+        "Peter Sagan",
+        "Jack Bauer",
+        "Thomas Degand",
+        "Søren Kragh Andersen",
+        "Stefan Küng"
+      ]
+    },
+    {
+      "user": "Murray",
+      "name": "Rigo's Riders",
+      "tid": "11e068e35cf29d75204d56f185552fac728h",
+      "team": [
+        "Geraint Thomas",
+        "Rigoberto Uran",
+        "Mikel Landa",
+        "Romain Bardet",
+        "Peter Sagan",
+        "Gianni Moscon",
+        "Chad Haga",
+        "Jonathan Castroviejo",
+        "Guillaume Martin"
+      ]
+    },
+    {
+      "user": "Hulli",
+      "name": "Epo Guys",
+      "tid": "728b23c332a04fc99f355362c6df91a136h",
+      "team": [
+        "Jakob Fuglsang",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Daniel Martin",
+        "Peter Sagan",
+        "Gorka Izagirre",
+        "Tim Declercq",
+        "Søren Kragh Andersen",
+        "Sonny Colbrelli"
+      ]
+    },
+    {
+      "user": "Jules",
+      "name": "Salbutamol Huffers",
+      "tid": "7x7f815b64cb702fb5fc2d66ecf8bf2a88J",
+      "team": [
+        "Christopher Froome",
+        "Julian Alaphilippe",
+        "Daniel Felipe Martinez",
+        "Antwan Tolhoek",
+        "Peter Sagan",
+        "Jonathan Castroviejo",
+        "Tony Martin",
+        "Guillaume Martin",
+        "Dylan Groenewegen"
+      ]
+    },
+    {
+      "user": "jlppereira",
+      "name": "mancos",
+      "tid": "9a1ccec16b54f49b0b3b6e3687f3ee758cj",
+      "team": [
+        "Richie Porte",
+        "Geraint Thomas",
+        "Rafał Majka",
+        "Alexis Vuillermoz",
+        "Fernando Gaviria",
+        "Daryl Impey",
+        "Stefan Küng",
+        "Magnus Cort Nielsen",
+        "Marcel Kittel"
+      ]
+    },
+    {
+      "user": "JDdieSonne",
+      "name": "JD Action Team",
+      "tid": "10ef80f2fa7529fd16b6ae0c3e8ea307f13j",
+      "team": [
+        "Richie Porte",
+        "Vincenzo Nibali",
+        "Romain Bardet",
+        "Marc Soler",
+        "Michael Matthews",
+        "David Gaudu",
+        "Tiesj Benoot",
+        "Timothy Dupont",
+        "Bob Jungels"
+      ]
+    },
+    {
+      "user": "ser-seaworth",
+      "name": "Jesus take the handlebars",
+      "tid": "6Da47f9648179690802a474ff7af05072aM",
+      "team": [
+        "Vincenzo Nibali",
+        "Jakob Fuglsang",
+        "Nairo Quintana",
+        "Romain Bardet",
+        "Marcel Kittel",
+        "Timothy Dupont",
+        "Søren Kragh Andersen",
+        "Andrea Pasqualon",
+        "Arnaud Démare"
+      ]
+    },
+    {
+      "user": "Florent",
+      "name": "Mami Wata Cycling Club",
+      "tid": "7ee564f53454dc3b0ab9595db6e5cd02c1l",
+      "team": [
+        "Jakob Fuglsang",
+        "Richie Porte",
+        "Mikel Landa",
+        "Romain Bardet",
+        "Marcel Kittel",
+        "Fabien Grellier",
+        "Timothy Dupont",
+        "David Gaudu",
+        "Pierre Latour"
+      ]
+    }
+  ]
+}
