@@ -1,3 +1,5 @@
+.venv
+.env
 *.raw.json
 *_files/
 /*.html
