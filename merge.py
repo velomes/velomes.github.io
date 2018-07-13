@@ -85,9 +85,9 @@ def main(scores_dir, teams=None):
         print_league(teams, scores)
 
 if __name__ == '__main__':
-    league = None
     if len(sys.argv) > 2:
         with open(sys.argv[2], 'r', encoding='utf-8') as f:
             league = json.load(f)
-
-    main(sys.argv[1], league['teams'])
+            main(sys.argv[1], league['teams'])
+    else:
+        main(sys.argv[1])
