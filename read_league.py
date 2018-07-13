@@ -93,7 +93,7 @@ if __name__ == '__main__':
     for n, team in enumerate(teams):
         print('.', end='', flush=True)
         team['team'] = load_team(team['tid'])
-        time.sleep(0.25)
+        time.sleep(0.666)
     print('DONE')
 
     league = {

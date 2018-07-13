@@ -12,17 +12,48 @@ LENGTH_MISMATCH = 9
 
 # ([\d▲▼-]+\t)+([^\t]+)\t.*
 
+team_codes = {
+  "AG2R La Mondiale": "ALM",
+  "Astana Pro Team": "AST",
+  "Bahrain Merida Pro Cycling Team": "TBM",
+  "BMC Racing Team": "BMC",
+  "BORA - hansgrohe": "BOH",
+  "Groupama - FDJ": "GFC",
+  "Lotto Soudal": "LTS",
+  "Mitchelton-Scott": "MTS",
+  "Movistar Team": "MOV",
+  "Quick-Step Floors": "QST",
+  "Dimension Data": "DDD",
+  "EF Education First-Drapac p/b Cannondale": "EFD",
+  "Team Katusha - Alpecin": "TKA",
+  "Team LottoNL-Jumbo": "TLJ",
+  "Team Sky": "SKY",
+  "Team Sunweb": "SUN",
+  "Trek - Segafredo": "TFS",
+  "UAE-Team Emirates": "UAD",
+  "Fortuneo - Samsic": "FST",
+  "Wanty - Groupe Gobert": "WGG",
+  "Direct Energie": "TDE",
+  "Cofidis Solutions Crédits": "COF",
+}
+
+def swap_team_code(entries, key):
+    entries[key] = [team_codes[t] for t in entries[key]]
+
+
 def normalize_names(results, names):
     if results['type'] == 'road':
         _normalize_keys(results, names, ['Stg','Spr', 'hc', 'cat1', 'Bky'])
     _normalize_keys(results, names, ['GC', 'PC', 'KOM', 'abandons'])
 
 
-def normalize_teams(results, teams):
+def normalize_teams(results):
     if results['type'] == 'ttt':
-        _normalize_keys(results, teams, ['Stg'])
-    if 'assists' in results:
-        _normalize_keys(results['assists'], teams, ['TC'])
+        _normalize_keys(results, team_codes, ['Stg'])
+        swap_team_code(results, 'Stg')
+    if 'Ass' in results:
+        _normalize_keys(results['Ass'], team_codes, ['TC'])
+        swap_team_code(results['Ass'], 'TC')
 
 
 def _normalize_keys(results, data, keys):
@@ -66,7 +97,7 @@ if __name__ == '__main__':
         with open(result_file, 'r', encoding='utf-8') as f:
             results = json.load(f)
             normalize_names(results, names)
-            normalize_teams(results, teams)
+            normalize_teams(results)
 
         out_file = result_file.split('.')[0] + '.fix.json'
         print(f'Saving to "{out_file}"')

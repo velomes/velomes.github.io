@@ -1,882 +1,882 @@
 [
   {
     "name": "Christopher Froome",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 26
   },
   {
     "name": "Richie Porte",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 22
   },
   {
     "name": "Peter Sagan",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 20
   },
   {
     "name": "Nairo Quintana",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 18
   },
   {
     "name": "Vincenzo Nibali",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 16
   },
   {
     "name": "Tom Dumoulin",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 16
   },
   {
     "name": "Mikel Landa",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 16
   },
   {
     "name": "Fernando Gaviria",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 16
   },
   {
     "name": "Romain Bardet",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 14
   },
   {
     "name": "Dylan Groenewegen",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 14
   },
   {
     "name": "Primoz Roglic",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 14
   },
   {
     "name": "Jakob Fuglsang",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 14
   },
   {
     "name": "Geraint Thomas",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 14
   },
   {
     "name": "Adam Yates",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 14
   },
   {
     "name": "Alejandro Valverde",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 14
   },
   {
     "name": "Marcel Kittel",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 12
   },
   {
     "name": "Egan Arley Bernal",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 12
   },
   {
     "name": "Michal Kwiatkowski",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 12
   },
   {
     "name": "Wout Poels",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 12
   },
   {
     "name": "Rigoberto Uran",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 12
   },
   {
     "name": "Michael Matthews",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 12
   },
   {
     "name": "Arnaud Démare",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 12
   },
   {
     "name": "Daniel Martin",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 12
   },
   {
     "name": "Ilnur Zakarin",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 10
   },
   {
     "name": "André Greipel",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 10
   },
   {
     "name": "Mark Cavendish",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 10
   },
   {
     "name": "Steven Kruijswijk",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 10
   },
   {
     "name": "Warren Barguil",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 10
   },
   {
     "name": "Julian Alaphilippe",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 10
   },
   {
     "name": "Bauke Mollema",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 10
   },
   {
     "name": "Rafał Majka",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 10
   },
   {
     "name": "Bob Jungels",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 10
   },
   {
     "name": "Alexander Kristoff",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 10
   },
   {
     "name": "Pierre Latour",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 8
   },
   {
     "name": "Tiesj Benoot",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 8
   },
   {
     "name": "Thomas De Gendt",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 8
   },
   {
     "name": "Robert Gesink",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 8
   },
   {
     "name": "Edvald Boasson Hagen",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 8
   },
   {
     "name": "Lilian Calmejane",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 8
   },
   {
     "name": "Luis Leon Sanchez",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 8
   },
   {
     "name": "Sonny Colbrelli",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 8
   },
   {
     "name": "Daryl Impey",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 8
   },
   {
     "name": "Gianni Moscon",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 8
   },
   {
     "name": "Ion Izagirre",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 8
   },
   {
     "name": "Mikel Nieve",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 8
   },
   {
     "name": "Andrey Amador",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 8
   },
   {
     "name": "Domenico Pozzovivo",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 8
   },
   {
     "name": "Marc Soler",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 8
   },
   {
     "name": "Damiano Caruso",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 8
   },
   {
     "name": "Greg Van Avermaet",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 8
   },
   {
     "name": "Tejay Van Garderen",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 8
   },
   {
     "name": "John Degenkolb",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 8
   },
   {
     "name": "Philippe Gilbert",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 8
   },
   {
     "name": "Jasper Stuyven",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 8
   },
   {
     "name": "Nicolas Edet",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 6
   },
   {
     "name": "Silvan Dillier",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 6
   },
   {
     "name": "Axel Domont",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 6
   },
   {
     "name": "Jesús Herrada",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 6
   },
   {
     "name": "Mathias Frank",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 6
   },
   {
     "name": "Christophe Laporte",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 6
   },
   {
     "name": "Tony Gallopin",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 6
   },
   {
     "name": "Ian Boswell",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 6
   },
   {
     "name": "Daniel Navarro",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 6
   },
   {
     "name": "Anthony Perez",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 6
   },
   {
     "name": "Oliver Naesen",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 6
   },
   {
     "name": "Guillaume Martin",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 6
   },
   {
     "name": "Robert Kišerlovski",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 6
   },
   {
     "name": "Yoann Offredo",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 6
   },
   {
     "name": "Alexis Vuillermoz",
-    "team": "AG2R La Mondiale",
+    "team": "ALM",
     "cost": 6
   },
   {
     "name": "Dion Smith",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 6
   },
   {
     "name": "Tony Martin",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 6
   },
   {
     "name": "Nils Politt",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 6
   },
   {
     "name": "Jasper De Buyst",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 6
   },
   {
     "name": "Rick Zabel",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 6
   },
   {
     "name": "Jens Keukeleire",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 6
   },
   {
     "name": "Tomasz Marczynski",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 6
   },
   {
     "name": "Amund Grondahl Jansen",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 6
   },
   {
     "name": "Jelle Vanendert",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 6
   },
   {
     "name": "Paul Martens",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 6
   },
   {
     "name": "Timo Roosen",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 6
   },
   {
     "name": "Reinardt Janse Van Rensburg",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 6
   },
   {
     "name": "Antwan Tolhoek",
-    "team": "Team LottoNL-Jumbo",
+    "team": "TLJ",
     "cost": 6
   },
   {
     "name": "Magnus Cort Nielsen",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 6
   },
   {
     "name": "Serge Pauwels",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 6
   },
   {
     "name": "Mark Renshaw",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 6
   },
   {
     "name": "Tom-Jelte Slagter",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 6
   },
   {
     "name": "Omar Fraile",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 6
   },
   {
     "name": "Thomas Boudat",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 6
   },
   {
     "name": "Jesper Hansen",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 6
   },
   {
     "name": "Sylvain Chavanel",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 6
   },
   {
     "name": "Tanel Kangert",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 6
   },
   {
     "name": "Jonathan Castroviejo",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 6
   },
   {
     "name": "Michael Valgren",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 6
   },
   {
     "name": "Romain Sicard",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 6
   },
   {
     "name": "Luke Durbridge",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 6
   },
   {
     "name": "Rein Taaramäe",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 6
   },
   {
     "name": "Damien Howson",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 6
   },
   {
     "name": "Simon Clarke",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 6
   },
   {
     "name": "Lawson Craddock",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 6
   },
   {
     "name": "Heinrich Haussler",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 6
   },
   {
     "name": "Gorka Izagirre",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 6
   },
   {
     "name": "Luke Rowe",
-    "team": "Team Sky",
+    "team": "SKY",
     "cost": 6
   },
   {
     "name": "Daniel Felipe Martinez",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 6
   },
   {
     "name": "Franco Pellizotti",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 6
   },
   {
     "name": "Taylor Phinney",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 6
   },
   {
     "name": "Søren Kragh Andersen",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 6
   },
   {
     "name": "Pierre Rolland",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 6
   },
   {
     "name": "Nikias Arndt",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 6
   },
   {
     "name": "Daniele Bennati",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 6
   },
   {
     "name": "Sep Vanmarcke",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 6
   },
   {
     "name": "Simon Geschke",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 6
   },
   {
     "name": "Laurens Ten Dam",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 6
   },
   {
     "name": "José Joaquín Rojas",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 6
   },
   {
     "name": "Edward Theuns",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 6
   },
   {
     "name": "Patrick Bevin",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 6
   },
   {
     "name": "David Gaudu",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 6
   },
   {
     "name": "Simon Gerrans",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 6
   },
   {
     "name": "Jacopo Guarnieri",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 6
   },
   {
     "name": "Stefan Küng",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 6
   },
   {
     "name": "Olivier Le Gac",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 6
   },
   {
     "name": "Rudy Molard",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 6
   },
   {
     "name": "Ramon Sinkeldam",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 6
   },
   {
     "name": "Maciej Bodnar",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 6
   },
   {
     "name": "Arthur Vichot",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 6
   },
   {
     "name": "Tsgabu Grmay",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 6
   },
   {
     "name": "Maxime Bouet",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 6
   },
   {
     "name": "Gregor Mühlberger",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 6
   },
   {
     "name": "Daniel Oss",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 6
   },
   {
     "name": "Toms Skujiņš",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 6
   },
   {
     "name": "Romain Hardy",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 6
   },
   {
     "name": "Pawel Poljanski",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 6
   },
   {
     "name": "Yves Lampaert",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 6
   },
   {
     "name": "Lukas Pöstlberger",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 6
   },
   {
     "name": "John Darwin Atapuma",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 6
   },
   {
     "name": "Amaël Moinard",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 6
   },
   {
     "name": "Ariel Maximiliano Richeze",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 6
   },
   {
     "name": "Florian Vachon",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 6
   },
   {
     "name": "Kristijan Durasek",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 6
   },
   {
     "name": "Roberto Ferrari",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 6
   },
   {
     "name": "Niki Terpstra",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 6
   },
   {
     "name": "Marco Marcato",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 6
   },
   {
     "name": "Dimitri Claeys",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 4
   },
   {
     "name": "Thomas Degand",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 4
   },
   {
     "name": "Timothy Dupont",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 4
   },
   {
     "name": "Julien Simon",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 4
   },
   {
     "name": "Anthony Turgis",
-    "team": "Cofidis Solutions Crédits",
+    "team": "COF",
     "cost": 4
   },
   {
     "name": "Pavel Kochetkov",
-    "team": "Team Katusha - Alpecin",
+    "team": "TKA",
     "cost": 4
   },
   {
     "name": "Marco Minnaard",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 4
   },
   {
     "name": "Andrea Pasqualon",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 4
   },
   {
     "name": "Guillaume Van Keirsbulck",
-    "team": "Wanty - Groupe Gobert",
+    "team": "WGG",
     "cost": 4
   },
   {
     "name": "Marcel Sieberg",
-    "team": "Lotto Soudal",
+    "team": "LTS",
     "cost": 4
   },
   {
     "name": "Jay Robert Thomson",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 4
   },
   {
     "name": "Julien Vermote",
-    "team": "Dimension Data",
+    "team": "DDD",
     "cost": 4
   },
   {
     "name": "Dmitriy Gruzdev",
-    "team": "Astana Pro Team",
+    "team": "AST",
     "cost": 4
   },
   {
     "name": "Jérôme Cousin",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 4
   },
   {
     "name": "Damien Gaudin",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 4
   },
   {
     "name": "Fabien Grellier",
-    "team": "Direct Energie",
+    "team": "TDE",
     "cost": 4
   },
   {
     "name": "Jack Bauer",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 4
   },
   {
     "name": "Mathew Hayman",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 4
   },
   {
     "name": "Michael Hepburn",
-    "team": "Mitchelton-Scott",
+    "team": "MTS",
     "cost": 4
   },
   {
     "name": "Kristijan Koren",
-    "team": "Bahrain Merida Pro Cycling Team",
+    "team": "TBM",
     "cost": 4
   },
   {
     "name": "Thomas Scully",
-    "team": "EF Education First-Drapac p/b Cannondale",
+    "team": "EFD",
     "cost": 4
   },
   {
     "name": "Chad Haga",
-    "team": "Team Sunweb",
+    "team": "SUN",
     "cost": 4
   },
   {
     "name": "Imanol Erviti",
-    "team": "Movistar Team",
+    "team": "MOV",
     "cost": 4
   },
   {
     "name": "Tobias Ludvigsson",
-    "team": "Groupama - FDJ",
+    "team": "GFC",
     "cost": 4
   },
   {
     "name": "Michael Schar",
-    "team": "BMC Racing Team",
+    "team": "BMC",
     "cost": 4
   },
   {
     "name": "Julien Bernard",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 4
   },
   {
     "name": "Koen De Kort",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 4
   },
   {
     "name": "Michael Gogl",
-    "team": "Trek - Segafredo",
+    "team": "TFS",
     "cost": 4
   },
   {
     "name": "Marcus Burghardt",
-    "team": "BORA - hansgrohe",
+    "team": "BOH",
     "cost": 4
   },
   {
     "name": "Tim Declercq",
-    "team": "Quick-Step Floors",
+    "team": "QST",
     "cost": 4
   },
   {
     "name": "Elie Gesbert",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 4
   },
   {
     "name": "Kevin Ledanois",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 4
   },
   {
     "name": "Laurent Pichon",
-    "team": "Fortuneo - Samsic",
+    "team": "FST",
     "cost": 4
   },
   {
     "name": "Rory Sutherland",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 4
   },
   {
     "name": "Oliviero Troia",
-    "team": "UAE-Team Emirates",
+    "team": "UAD",
     "cost": 4
   }
 ]
