@@ -60,8 +60,9 @@ def calculate_stage(scores, results):
 
     for key in ['hc', 'cat1']:
         print(key, end=' ')
-        score = score_key(results['Sum'][key], SCORE_DATA[key])
-        add_points(scores['riders'], 'Sum', score)
+        for hill in results['Sum'][key]:
+            score = score_key(hill, SCORE_DATA[key])
+            add_points(scores['riders'], 'Sum', score)
 
     print('DONE')
 
