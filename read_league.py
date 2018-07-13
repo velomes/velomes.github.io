@@ -5,6 +5,7 @@ import os
 import sys
 import json
 import time
+import string
 
 from bs4 import BeautifulSoup as bs
 import requests
@@ -24,6 +25,7 @@ def get_soup(url):
 def laod_league_name(team_id, league_id):
     url = TEAM_URL.format(tid=team_id)
     soup = get_soup(url)
+    valid_chars = string.ascii_lowercase + string.digits
 
     for a in soup.find_all('a'):
         h = a.get('href')
@@ -33,7 +35,7 @@ def laod_league_name(team_id, league_id):
     else:
         name = str(league_id)
 
-    return name, ''.join(ch for ch in name.lower() if ch in '-_abcdefghijklmnopqrstuvwxyz0123456789')
+    return name, ''.join(ch for ch in name.lower() if ch in valid_chars)
 
 
 def load_league(league_id):
@@ -93,7 +95,7 @@ if __name__ == '__main__':
     for n, team in enumerate(teams):
         print('.', end='', flush=True)
         team['team'] = load_team(team['tid'])
-        time.sleep(0.666)
+        time.sleep(0.456)
     print('DONE')
 
     league = {
