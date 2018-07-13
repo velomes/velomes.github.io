@@ -21,6 +21,21 @@ def get_soup(url):
     return bs(r.text, 'html.parser')
 
 
+def laod_league_name(team_id, league_id):
+    url = TEAM_URL.format(tid=team_id)
+    soup = get_soup(url)
+
+    for a in soup.find_all('a'):
+        h = a.get('href')
+        if h == 'leaguescores.php?league={}'.format(league_id):
+            name = a.string
+            break
+    else:
+        name = str(league_id)
+
+    return name, ''.join(ch for ch in name.lower() if ch in '-_abcdefghijklmnopqrstuvwxyz0123456789')
+
+
 def load_league(league_id):
     url = LEAGUE_URL.format(league_id=league_id)
     soup = get_soup(url)
@@ -64,17 +79,15 @@ def load_team(tid):
 
 if __name__ == '__main__':
     league_id = sys.argv[1]
-    name = sys.argv[2] if len(sys.argv) > 1 else str(league_id)
-    shortname = name.lower()
-    for ch in [' ', '-', '/', '_', '\'', ':']:
-        shortname = shortname.replace(ch, '')
-
-    if os.path.isfile(f'leagues/{shortname}.json'):
-        print(f'League "{name}" ({shortname}) already exists')
-        sys.exit(1)
 
     teams = load_league(league_id)
     print('Found {} teams'.format(len(teams)))
+
+    fullname, shortname = laod_league_name(teams[0]['tid'], league_id)
+
+    if os.path.isfile(f'leagues/{shortname}.json'):
+        print(f'League "{fullname}" ({shortname}) already exists')
+        sys.exit(1)
 
     print('Loading', end='', flush=True)
     for n, team in enumerate(teams):
@@ -84,7 +97,7 @@ if __name__ == '__main__':
     print('DONE')
 
     league = {
-        'name': name,
+        'name': fullname,
         'teams': teams,
     }
 
