@@ -38,7 +38,7 @@ team_codes = {
 }
 
 def swap_team_code(entries, key):
-    entries[key] = [team_codes[t] for t in entries[key]]
+    entries[key] = [t if t in team_codes.values() else team_codes[t] for t in entries[key]]
 
 
 def normalize_names(results, names):
@@ -65,6 +65,9 @@ def _normalize_keys(results, data, keys):
 
         for i, entry in enumerate(results[key]):
             if entry in data:
+                continue
+
+            if entry in data.values():
                 continue
 
             match, ratio = process.extractOne(entry.title(), data.keys())

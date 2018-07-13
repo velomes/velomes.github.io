@@ -1,1 +1,190 @@
-{"stage": 1, "type": "road", "riders": {"Fernando Gaviria": {"Stg": 200, "Spr": 8, "GC": 25, "PC": 10, "Ass": 6}, "Peter Sagan": {"Stg": 150, "Spr": 2, "GC": 22, "PC": 6, "Ass": 2}, "Marcel Kittel": {"Stg": 120, "GC": 20, "PC": 4}, "Alexander Kristoff": {"Stg": 100, "Spr": 1, "GC": 16, "PC": 3}, "Christophe Laporte": {"Stg": 80, "GC": 15}, "Dylan Groenewegen": {"Stg": 70, "GC": 14}, "Michael Matthews": {"Stg": 60, "GC": 13}, "John Degenkolb": {"Stg": 50, "GC": 12}, "Jakob Fuglsang": {"Stg": 40, "GC": 11, "Ass": 4}, "Rafa\u0142 Majka": {"Stg": 30, "GC": 10, "Ass": 10}, "Vincenzo Nibali": {"Stg": 25, "GC": 9}, "Timothy Dupont": {"Stg": 20, "GC": 8}, "Thomas Boudat": {"Stg": 15, "GC": 7}, "Geraint Thomas": {"Stg": 10, "GC": 6}, "Bob Jungels": {"Stg": 5, "GC": 5, "Ass": 18}, "J\u00e9r\u00f4me Cousin": {"Spr": 15, "Bky": 15, "PC": 2}, "Kevin Ledanois": {"Spr": 12, "Bky": 15, "PC": 1, "KOM": 10}, "Yoann Offredo": {"Spr": 10, "Bky": 15}, "Andr\u00e9 Greipel": {"Spr": 6}, "Arnaud D\u00e9mare": {"Spr": 5}, "Maciej Bodnar": {"Spr": 4, "Ass": 10}, "Mark Cavendish": {"Spr": 3}, "Oliver Naesen": {"GC": 18}, "Michael Valgren": {"GC": 4, "Ass": 4}, "Ariel Maximiliano Richeze": {"GC": 3, "Ass": 18}, "Philippe Gilbert": {"GC": 2, "Ass": 18}, "Edvald Boasson Hagen": {"GC": 1}, "Ilnur Zakarin": {"Ass": 4}, "Julian Alaphilippe": {"Ass": 18}, "Luis Leon Sanchez": {"Ass": 4}, "Ian Boswell": {"Ass": 4}, "Robert Ki\u0161erlovski": {"Ass": 4}, "Tony Martin": {"Ass": 4}, "Nils Politt": {"Ass": 4}, "Rick Zabel": {"Ass": 4}, "Magnus Cort Nielsen": {"Ass": 4}, "Omar Fraile": {"Ass": 4}, "Jesper Hansen": {"Ass": 4}, "Tanel Kangert": {"Ass": 4}, "Gregor M\u00fchlberger": {"Ass": 10}, "Daniel Oss": {"Ass": 10}, "Pawel Poljanski": {"Ass": 10}, "Yves Lampaert": {"Ass": 18}, "Lukas P\u00f6stlberger": {"Ass": 10}, "Niki Terpstra": {"Ass": 18}, "Pavel Kochetkov": {"Ass": 4}, "Dmitriy Gruzdev": {"Ass": 4}, "Marcus Burghardt": {"Ass": 10}, "Tim Declercq": {"Ass": 18}}}
+{
+  "stage": 1,
+  "type": "road",
+  "riders": {
+    "Fernando Gaviria": {
+      "Stg": 200,
+      "Spr": 8,
+      "GC": 25,
+      "PC": 10,
+      "Ass": 6
+    },
+    "Peter Sagan": {
+      "Stg": 150,
+      "Spr": 2,
+      "GC": 22,
+      "PC": 6,
+      "Ass": 2
+    },
+    "Marcel Kittel": {
+      "Stg": 120,
+      "GC": 20,
+      "PC": 4
+    },
+    "Alexander Kristoff": {
+      "Stg": 100,
+      "Spr": 1,
+      "GC": 16,
+      "PC": 3
+    },
+    "Christophe Laporte": {
+      "Stg": 80,
+      "GC": 15
+    },
+    "Dylan Groenewegen": {
+      "Stg": 70,
+      "GC": 14
+    },
+    "Michael Matthews": {
+      "Stg": 60,
+      "GC": 13
+    },
+    "John Degenkolb": {
+      "Stg": 50,
+      "GC": 12
+    },
+    "Jakob Fuglsang": {
+      "Stg": 40,
+      "GC": 11,
+      "Ass": 4
+    },
+    "Rafał Majka": {
+      "Stg": 30,
+      "GC": 10,
+      "Ass": 10
+    },
+    "Vincenzo Nibali": {
+      "Stg": 25,
+      "GC": 9
+    },
+    "Timothy Dupont": {
+      "Stg": 20,
+      "GC": 8
+    },
+    "Thomas Boudat": {
+      "Stg": 15,
+      "GC": 7
+    },
+    "Geraint Thomas": {
+      "Stg": 10,
+      "GC": 6
+    },
+    "Bob Jungels": {
+      "Stg": 5,
+      "GC": 5,
+      "Ass": 18
+    },
+    "Jérôme Cousin": {
+      "Spr": 15,
+      "Bky": 15,
+      "PC": 2
+    },
+    "Kevin Ledanois": {
+      "Spr": 12,
+      "Bky": 15,
+      "PC": 1,
+      "KOM": 10
+    },
+    "Yoann Offredo": {
+      "Spr": 10,
+      "Bky": 15
+    },
+    "André Greipel": {
+      "Spr": 6
+    },
+    "Arnaud Démare": {
+      "Spr": 5
+    },
+    "Maciej Bodnar": {
+      "Spr": 4,
+      "Ass": 10
+    },
+    "Mark Cavendish": {
+      "Spr": 3
+    },
+    "Oliver Naesen": {
+      "GC": 18
+    },
+    "Michael Valgren": {
+      "GC": 4,
+      "Ass": 4
+    },
+    "Ariel Maximiliano Richeze": {
+      "GC": 3,
+      "Ass": 18
+    },
+    "Philippe Gilbert": {
+      "GC": 2,
+      "Ass": 18
+    },
+    "Edvald Boasson Hagen": {
+      "GC": 1
+    },
+    "Ilnur Zakarin": {
+      "Ass": 4
+    },
+    "Julian Alaphilippe": {
+      "Ass": 18
+    },
+    "Luis Leon Sanchez": {
+      "Ass": 4
+    },
+    "Ian Boswell": {
+      "Ass": 4
+    },
+    "Robert Kišerlovski": {
+      "Ass": 4
+    },
+    "Tony Martin": {
+      "Ass": 4
+    },
+    "Nils Politt": {
+      "Ass": 4
+    },
+    "Rick Zabel": {
+      "Ass": 4
+    },
+    "Magnus Cort Nielsen": {
+      "Ass": 4
+    },
+    "Omar Fraile": {
+      "Ass": 4
+    },
+    "Jesper Hansen": {
+      "Ass": 4
+    },
+    "Tanel Kangert": {
+      "Ass": 4
+    },
+    "Gregor Mühlberger": {
+      "Ass": 10
+    },
+    "Daniel Oss": {
+      "Ass": 10
+    },
+    "Pawel Poljanski": {
+      "Ass": 10
+    },
+    "Yves Lampaert": {
+      "Ass": 18
+    },
+    "Lukas Pöstlberger": {
+      "Ass": 10
+    },
+    "Niki Terpstra": {
+      "Ass": 18
+    },
+    "Pavel Kochetkov": {
+      "Ass": 4
+    },
+    "Dmitriy Gruzdev": {
+      "Ass": 4
+    },
+    "Marcus Burghardt": {
+      "Ass": 10
+    },
+    "Tim Declercq": {
+      "Ass": 18
+    }
+  }
+}
