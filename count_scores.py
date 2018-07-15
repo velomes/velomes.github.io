@@ -94,7 +94,7 @@ def calculate_assists(teamscores, assistscores, results):
 
 
 def main(riders, stages):
-    names = {rider['name']: rider['team'] for rider in riders}
+    rider_list = [{'name': rider, 'team': riders[rider]['team']} for rider in riders]
 
     for stage in map(int, stages):
         print(f'Processing stage {stage:02d}...')
@@ -120,7 +120,7 @@ def main(riders, stages):
 
         # convert team/assist points
         abandons = set(results['abandons'])
-        for rider in riders:
+        for rider in rider_list:
             if rider['name'] in abandons:
                 continue
 
@@ -131,7 +131,7 @@ def main(riders, stages):
             for mate in assistscores:
                 if mate == rider['name']:
                     continue
-                if names[mate] == names[rider['name']]:
+                if riders[mate] == riders[rider['name']]:
                     scores['riders'][rider['name']]['Ass'] += assistscores[mate]['Ass']
 
         total = 0

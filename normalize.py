@@ -67,10 +67,11 @@ def _normalize_keys(results, data, keys):
             if entry in data:
                 continue
 
-            if entry in data.values():
+            if type(data) is dict and entry in data.values():
                 continue
 
-            match, ratio = process.extractOne(entry.title(), data.keys())
+            keys = data.keys() if type(data) is dict else data
+            match, ratio = process.extractOne(entry.title(), keys)
             if ratio < MAGIC_RATIO or abs(len(match) - len(entry)) > LENGTH_MISMATCH:
                 print('Uknown entry: "{}" (matched "{}" @{})'.format(entry, match, ratio))
                 continue
@@ -90,8 +91,8 @@ if __name__ == '__main__':
     with open('riders.json', 'r', encoding='utf-8') as r:
         riders = json.load(r)
 
-    names = {rider['name']: True for rider in riders}
-    teams = {rider['team']: True for rider in riders}
+    names = set(riders.keys())
+    teams = {rider['team'] for rider in riders.values()}
 
     print('Loaded {} unique riders from {} teams'.format(len(names), len(teams)))
 

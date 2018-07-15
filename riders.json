@@ -1,882 +1,706 @@
-[
-  {
-    "name": "Christopher Froome",
+{
+  "Christopher Froome": {
     "team": "SKY",
     "cost": 26
   },
-  {
-    "name": "Richie Porte",
+  "Richie Porte": {
     "team": "BMC",
     "cost": 22
   },
-  {
-    "name": "Peter Sagan",
+  "Peter Sagan": {
     "team": "BOH",
     "cost": 20
   },
-  {
-    "name": "Nairo Quintana",
+  "Nairo Quintana": {
     "team": "MOV",
     "cost": 18
   },
-  {
-    "name": "Vincenzo Nibali",
+  "Vincenzo Nibali": {
     "team": "TBM",
     "cost": 16
   },
-  {
-    "name": "Tom Dumoulin",
+  "Tom Dumoulin": {
     "team": "SUN",
     "cost": 16
   },
-  {
-    "name": "Mikel Landa",
+  "Mikel Landa": {
     "team": "MOV",
     "cost": 16
   },
-  {
-    "name": "Fernando Gaviria",
+  "Fernando Gaviria": {
     "team": "QST",
     "cost": 16
   },
-  {
-    "name": "Romain Bardet",
+  "Romain Bardet": {
     "team": "ALM",
     "cost": 14
   },
-  {
-    "name": "Dylan Groenewegen",
+  "Dylan Groenewegen": {
     "team": "TLJ",
     "cost": 14
   },
-  {
-    "name": "Primoz Roglic",
+  "Primoz Roglic": {
     "team": "TLJ",
     "cost": 14
   },
-  {
-    "name": "Jakob Fuglsang",
+  "Jakob Fuglsang": {
     "team": "AST",
     "cost": 14
   },
-  {
-    "name": "Geraint Thomas",
+  "Geraint Thomas": {
     "team": "SKY",
     "cost": 14
   },
-  {
-    "name": "Adam Yates",
+  "Adam Yates": {
     "team": "MTS",
     "cost": 14
   },
-  {
-    "name": "Alejandro Valverde",
+  "Alejandro Valverde": {
     "team": "MOV",
     "cost": 14
   },
-  {
-    "name": "Marcel Kittel",
+  "Marcel Kittel": {
     "team": "TKA",
     "cost": 12
   },
-  {
-    "name": "Egan Arley Bernal",
+  "Egan Arley Bernal": {
     "team": "SKY",
     "cost": 12
   },
-  {
-    "name": "Michal Kwiatkowski",
+  "Michal Kwiatkowski": {
     "team": "SKY",
     "cost": 12
   },
-  {
-    "name": "Wout Poels",
+  "Wout Poels": {
     "team": "SKY",
     "cost": 12
   },
-  {
-    "name": "Rigoberto Uran",
+  "Rigoberto Uran": {
     "team": "EFD",
     "cost": 12
   },
-  {
-    "name": "Michael Matthews",
+  "Michael Matthews": {
     "team": "SUN",
     "cost": 12
   },
-  {
-    "name": "Arnaud Démare",
+  "Arnaud Démare": {
     "team": "GFC",
     "cost": 12
   },
-  {
-    "name": "Daniel Martin",
+  "Daniel Martin": {
     "team": "UAD",
     "cost": 12
   },
-  {
-    "name": "Ilnur Zakarin",
+  "Ilnur Zakarin": {
     "team": "TKA",
     "cost": 10
   },
-  {
-    "name": "André Greipel",
+  "André Greipel": {
     "team": "LTS",
     "cost": 10
   },
-  {
-    "name": "Mark Cavendish",
+  "Mark Cavendish": {
     "team": "DDD",
     "cost": 10
   },
-  {
-    "name": "Steven Kruijswijk",
+  "Steven Kruijswijk": {
     "team": "TLJ",
     "cost": 10
   },
-  {
-    "name": "Warren Barguil",
+  "Warren Barguil": {
     "team": "FST",
     "cost": 10
   },
-  {
-    "name": "Julian Alaphilippe",
+  "Julian Alaphilippe": {
     "team": "QST",
     "cost": 10
   },
-  {
-    "name": "Bauke Mollema",
+  "Bauke Mollema": {
     "team": "TFS",
     "cost": 10
   },
-  {
-    "name": "Rafał Majka",
+  "Rafał Majka": {
     "team": "BOH",
     "cost": 10
   },
-  {
-    "name": "Bob Jungels",
+  "Bob Jungels": {
     "team": "QST",
     "cost": 10
   },
-  {
-    "name": "Alexander Kristoff",
+  "Alexander Kristoff": {
     "team": "UAD",
     "cost": 10
   },
-  {
-    "name": "Pierre Latour",
+  "Pierre Latour": {
     "team": "ALM",
     "cost": 8
   },
-  {
-    "name": "Tiesj Benoot",
+  "Tiesj Benoot": {
     "team": "LTS",
     "cost": 8
   },
-  {
-    "name": "Thomas De Gendt",
+  "Thomas De Gendt": {
     "team": "LTS",
     "cost": 8
   },
-  {
-    "name": "Robert Gesink",
+  "Robert Gesink": {
     "team": "TLJ",
     "cost": 8
   },
-  {
-    "name": "Edvald Boasson Hagen",
+  "Edvald Boasson Hagen": {
     "team": "DDD",
     "cost": 8
   },
-  {
-    "name": "Lilian Calmejane",
+  "Lilian Calmejane": {
     "team": "TDE",
     "cost": 8
   },
-  {
-    "name": "Luis Leon Sanchez",
+  "Luis Leon Sanchez": {
     "team": "AST",
     "cost": 8
   },
-  {
-    "name": "Sonny Colbrelli",
+  "Sonny Colbrelli": {
     "team": "TBM",
     "cost": 8
   },
-  {
-    "name": "Daryl Impey",
+  "Daryl Impey": {
     "team": "MTS",
     "cost": 8
   },
-  {
-    "name": "Gianni Moscon",
+  "Gianni Moscon": {
     "team": "SKY",
     "cost": 8
   },
-  {
-    "name": "Ion Izagirre",
+  "Ion Izagirre": {
     "team": "TBM",
     "cost": 8
   },
-  {
-    "name": "Mikel Nieve",
+  "Mikel Nieve": {
     "team": "MTS",
     "cost": 8
   },
-  {
-    "name": "Andrey Amador",
+  "Andrey Amador": {
     "team": "MOV",
     "cost": 8
   },
-  {
-    "name": "Domenico Pozzovivo",
+  "Domenico Pozzovivo": {
     "team": "TBM",
     "cost": 8
   },
-  {
-    "name": "Marc Soler",
+  "Marc Soler": {
     "team": "MOV",
     "cost": 8
   },
-  {
-    "name": "Damiano Caruso",
+  "Damiano Caruso": {
     "team": "BMC",
     "cost": 8
   },
-  {
-    "name": "Greg Van Avermaet",
+  "Greg Van Avermaet": {
     "team": "BMC",
     "cost": 8
   },
-  {
-    "name": "Tejay Van Garderen",
+  "Tejay Van Garderen": {
     "team": "BMC",
     "cost": 8
   },
-  {
-    "name": "John Degenkolb",
+  "John Degenkolb": {
     "team": "TFS",
     "cost": 8
   },
-  {
-    "name": "Philippe Gilbert",
+  "Philippe Gilbert": {
     "team": "QST",
     "cost": 8
   },
-  {
-    "name": "Jasper Stuyven",
+  "Jasper Stuyven": {
     "team": "TFS",
     "cost": 8
   },
-  {
-    "name": "Nicolas Edet",
+  "Nicolas Edet": {
     "team": "COF",
     "cost": 6
   },
-  {
-    "name": "Silvan Dillier",
+  "Silvan Dillier": {
     "team": "ALM",
     "cost": 6
   },
-  {
-    "name": "Axel Domont",
+  "Axel Domont": {
     "team": "ALM",
     "cost": 6
   },
-  {
-    "name": "Jesús Herrada",
+  "Jesús Herrada": {
     "team": "COF",
     "cost": 6
   },
-  {
-    "name": "Mathias Frank",
+  "Mathias Frank": {
     "team": "ALM",
     "cost": 6
   },
-  {
-    "name": "Christophe Laporte",
+  "Christophe Laporte": {
     "team": "COF",
     "cost": 6
   },
-  {
-    "name": "Tony Gallopin",
+  "Tony Gallopin": {
     "team": "ALM",
     "cost": 6
   },
-  {
-    "name": "Ian Boswell",
+  "Ian Boswell": {
     "team": "TKA",
     "cost": 6
   },
-  {
-    "name": "Daniel Navarro",
+  "Daniel Navarro": {
     "team": "COF",
     "cost": 6
   },
-  {
-    "name": "Anthony Perez",
+  "Anthony Perez": {
     "team": "COF",
     "cost": 6
   },
-  {
-    "name": "Oliver Naesen",
+  "Oliver Naesen": {
     "team": "ALM",
     "cost": 6
   },
-  {
-    "name": "Guillaume Martin",
+  "Guillaume Martin": {
     "team": "WGG",
     "cost": 6
   },
-  {
-    "name": "Robert Kišerlovski",
+  "Robert Kišerlovski": {
     "team": "TKA",
     "cost": 6
   },
-  {
-    "name": "Yoann Offredo",
+  "Yoann Offredo": {
     "team": "WGG",
     "cost": 6
   },
-  {
-    "name": "Alexis Vuillermoz",
+  "Alexis Vuillermoz": {
     "team": "ALM",
     "cost": 6
   },
-  {
-    "name": "Dion Smith",
+  "Dion Smith": {
     "team": "WGG",
     "cost": 6
   },
-  {
-    "name": "Tony Martin",
+  "Tony Martin": {
     "team": "TKA",
     "cost": 6
   },
-  {
-    "name": "Nils Politt",
+  "Nils Politt": {
     "team": "TKA",
     "cost": 6
   },
-  {
-    "name": "Jasper De Buyst",
+  "Jasper De Buyst": {
     "team": "LTS",
     "cost": 6
   },
-  {
-    "name": "Rick Zabel",
+  "Rick Zabel": {
     "team": "TKA",
     "cost": 6
   },
-  {
-    "name": "Jens Keukeleire",
+  "Jens Keukeleire": {
     "team": "LTS",
     "cost": 6
   },
-  {
-    "name": "Tomasz Marczynski",
+  "Tomasz Marczynski": {
     "team": "LTS",
     "cost": 6
   },
-  {
-    "name": "Amund Grondahl Jansen",
+  "Amund Grondahl Jansen": {
     "team": "TLJ",
     "cost": 6
   },
-  {
-    "name": "Jelle Vanendert",
+  "Jelle Vanendert": {
     "team": "LTS",
     "cost": 6
   },
-  {
-    "name": "Paul Martens",
+  "Paul Martens": {
     "team": "TLJ",
     "cost": 6
   },
-  {
-    "name": "Timo Roosen",
+  "Timo Roosen": {
     "team": "TLJ",
     "cost": 6
   },
-  {
-    "name": "Reinardt Janse Van Rensburg",
+  "Reinardt Janse Van Rensburg": {
     "team": "DDD",
     "cost": 6
   },
-  {
-    "name": "Antwan Tolhoek",
+  "Antwan Tolhoek": {
     "team": "TLJ",
     "cost": 6
   },
-  {
-    "name": "Magnus Cort Nielsen",
+  "Magnus Cort Nielsen": {
     "team": "AST",
     "cost": 6
   },
-  {
-    "name": "Serge Pauwels",
+  "Serge Pauwels": {
     "team": "DDD",
     "cost": 6
   },
-  {
-    "name": "Mark Renshaw",
+  "Mark Renshaw": {
     "team": "DDD",
     "cost": 6
   },
-  {
-    "name": "Tom-Jelte Slagter",
+  "Tom-Jelte Slagter": {
     "team": "DDD",
     "cost": 6
   },
-  {
-    "name": "Omar Fraile",
+  "Omar Fraile": {
     "team": "AST",
     "cost": 6
   },
-  {
-    "name": "Thomas Boudat",
+  "Thomas Boudat": {
     "team": "TDE",
     "cost": 6
   },
-  {
-    "name": "Jesper Hansen",
+  "Jesper Hansen": {
     "team": "AST",
     "cost": 6
   },
-  {
-    "name": "Sylvain Chavanel",
+  "Sylvain Chavanel": {
     "team": "TDE",
     "cost": 6
   },
-  {
-    "name": "Tanel Kangert",
+  "Tanel Kangert": {
     "team": "AST",
     "cost": 6
   },
-  {
-    "name": "Jonathan Castroviejo",
+  "Jonathan Castroviejo": {
     "team": "SKY",
     "cost": 6
   },
-  {
-    "name": "Michael Valgren",
+  "Michael Valgren": {
     "team": "AST",
     "cost": 6
   },
-  {
-    "name": "Romain Sicard",
+  "Romain Sicard": {
     "team": "TDE",
     "cost": 6
   },
-  {
-    "name": "Luke Durbridge",
+  "Luke Durbridge": {
     "team": "MTS",
     "cost": 6
   },
-  {
-    "name": "Rein Taaramäe",
+  "Rein Taaramäe": {
     "team": "TDE",
     "cost": 6
   },
-  {
-    "name": "Damien Howson",
+  "Damien Howson": {
     "team": "MTS",
     "cost": 6
   },
-  {
-    "name": "Simon Clarke",
+  "Simon Clarke": {
     "team": "EFD",
     "cost": 6
   },
-  {
-    "name": "Lawson Craddock",
+  "Lawson Craddock": {
     "team": "EFD",
     "cost": 6
   },
-  {
-    "name": "Heinrich Haussler",
+  "Heinrich Haussler": {
     "team": "TBM",
     "cost": 6
   },
-  {
-    "name": "Gorka Izagirre",
+  "Gorka Izagirre": {
     "team": "TBM",
     "cost": 6
   },
-  {
-    "name": "Luke Rowe",
+  "Luke Rowe": {
     "team": "SKY",
     "cost": 6
   },
-  {
-    "name": "Daniel Felipe Martinez",
+  "Daniel Felipe Martinez": {
     "team": "EFD",
     "cost": 6
   },
-  {
-    "name": "Franco Pellizotti",
+  "Franco Pellizotti": {
     "team": "TBM",
     "cost": 6
   },
-  {
-    "name": "Taylor Phinney",
+  "Taylor Phinney": {
     "team": "EFD",
     "cost": 6
   },
-  {
-    "name": "Søren Kragh Andersen",
+  "Søren Kragh Andersen": {
     "team": "SUN",
     "cost": 6
   },
-  {
-    "name": "Pierre Rolland",
+  "Pierre Rolland": {
     "team": "EFD",
     "cost": 6
   },
-  {
-    "name": "Nikias Arndt",
+  "Nikias Arndt": {
     "team": "SUN",
     "cost": 6
   },
-  {
-    "name": "Daniele Bennati",
+  "Daniele Bennati": {
     "team": "MOV",
     "cost": 6
   },
-  {
-    "name": "Sep Vanmarcke",
+  "Sep Vanmarcke": {
     "team": "EFD",
     "cost": 6
   },
-  {
-    "name": "Simon Geschke",
+  "Simon Geschke": {
     "team": "SUN",
     "cost": 6
   },
-  {
-    "name": "Laurens Ten Dam",
+  "Laurens Ten Dam": {
     "team": "SUN",
     "cost": 6
   },
-  {
-    "name": "José Joaquín Rojas",
+  "José Joaquín Rojas": {
     "team": "MOV",
     "cost": 6
   },
-  {
-    "name": "Edward Theuns",
+  "Edward Theuns": {
     "team": "SUN",
     "cost": 6
   },
-  {
-    "name": "Patrick Bevin",
+  "Patrick Bevin": {
     "team": "BMC",
     "cost": 6
   },
-  {
-    "name": "David Gaudu",
+  "David Gaudu": {
     "team": "GFC",
     "cost": 6
   },
-  {
-    "name": "Simon Gerrans",
+  "Simon Gerrans": {
     "team": "BMC",
     "cost": 6
   },
-  {
-    "name": "Jacopo Guarnieri",
+  "Jacopo Guarnieri": {
     "team": "GFC",
     "cost": 6
   },
-  {
-    "name": "Stefan Küng",
+  "Stefan Küng": {
     "team": "BMC",
     "cost": 6
   },
-  {
-    "name": "Olivier Le Gac",
+  "Olivier Le Gac": {
     "team": "GFC",
     "cost": 6
   },
-  {
-    "name": "Rudy Molard",
+  "Rudy Molard": {
     "team": "GFC",
     "cost": 6
   },
-  {
-    "name": "Ramon Sinkeldam",
+  "Ramon Sinkeldam": {
     "team": "GFC",
     "cost": 6
   },
-  {
-    "name": "Maciej Bodnar",
+  "Maciej Bodnar": {
     "team": "BOH",
     "cost": 6
   },
-  {
-    "name": "Arthur Vichot",
+  "Arthur Vichot": {
     "team": "GFC",
     "cost": 6
   },
-  {
-    "name": "Tsgabu Grmay",
+  "Tsgabu Grmay": {
     "team": "TFS",
     "cost": 6
   },
-  {
-    "name": "Maxime Bouet",
+  "Maxime Bouet": {
     "team": "FST",
     "cost": 6
   },
-  {
-    "name": "Gregor Mühlberger",
+  "Gregor Mühlberger": {
     "team": "BOH",
     "cost": 6
   },
-  {
-    "name": "Daniel Oss",
+  "Daniel Oss": {
     "team": "BOH",
     "cost": 6
   },
-  {
-    "name": "Toms Skujiņš",
+  "Toms Skujiņš": {
     "team": "TFS",
     "cost": 6
   },
-  {
-    "name": "Romain Hardy",
+  "Romain Hardy": {
     "team": "FST",
     "cost": 6
   },
-  {
-    "name": "Pawel Poljanski",
+  "Pawel Poljanski": {
     "team": "BOH",
     "cost": 6
   },
-  {
-    "name": "Yves Lampaert",
+  "Yves Lampaert": {
     "team": "QST",
     "cost": 6
   },
-  {
-    "name": "Lukas Pöstlberger",
+  "Lukas Pöstlberger": {
     "team": "BOH",
     "cost": 6
   },
-  {
-    "name": "John Darwin Atapuma",
+  "John Darwin Atapuma": {
     "team": "UAD",
     "cost": 6
   },
-  {
-    "name": "Amaël Moinard",
+  "Amaël Moinard": {
     "team": "FST",
     "cost": 6
   },
-  {
-    "name": "Ariel Maximiliano Richeze",
+  "Ariel Maximiliano Richeze": {
     "team": "QST",
     "cost": 6
   },
-  {
-    "name": "Florian Vachon",
+  "Florian Vachon": {
     "team": "FST",
     "cost": 6
   },
-  {
-    "name": "Kristijan Durasek",
+  "Kristijan Durasek": {
     "team": "UAD",
     "cost": 6
   },
-  {
-    "name": "Roberto Ferrari",
+  "Roberto Ferrari": {
     "team": "UAD",
     "cost": 6
   },
-  {
-    "name": "Niki Terpstra",
+  "Niki Terpstra": {
     "team": "QST",
     "cost": 6
   },
-  {
-    "name": "Marco Marcato",
+  "Marco Marcato": {
     "team": "UAD",
     "cost": 6
   },
-  {
-    "name": "Dimitri Claeys",
+  "Dimitri Claeys": {
     "team": "COF",
     "cost": 4
   },
-  {
-    "name": "Thomas Degand",
+  "Thomas Degand": {
     "team": "WGG",
     "cost": 4
   },
-  {
-    "name": "Timothy Dupont",
+  "Timothy Dupont": {
     "team": "WGG",
     "cost": 4
   },
-  {
-    "name": "Julien Simon",
+  "Julien Simon": {
     "team": "COF",
     "cost": 4
   },
-  {
-    "name": "Anthony Turgis",
+  "Anthony Turgis": {
     "team": "COF",
     "cost": 4
   },
-  {
-    "name": "Pavel Kochetkov",
+  "Pavel Kochetkov": {
     "team": "TKA",
     "cost": 4
   },
-  {
-    "name": "Marco Minnaard",
+  "Marco Minnaard": {
     "team": "WGG",
     "cost": 4
   },
-  {
-    "name": "Andrea Pasqualon",
+  "Andrea Pasqualon": {
     "team": "WGG",
     "cost": 4
   },
-  {
-    "name": "Guillaume Van Keirsbulck",
+  "Guillaume Van Keirsbulck": {
     "team": "WGG",
     "cost": 4
   },
-  {
-    "name": "Marcel Sieberg",
+  "Marcel Sieberg": {
     "team": "LTS",
     "cost": 4
   },
-  {
-    "name": "Jay Robert Thomson",
+  "Jay Robert Thomson": {
     "team": "DDD",
     "cost": 4
   },
-  {
-    "name": "Julien Vermote",
+  "Julien Vermote": {
     "team": "DDD",
     "cost": 4
   },
-  {
-    "name": "Dmitriy Gruzdev",
+  "Dmitriy Gruzdev": {
     "team": "AST",
     "cost": 4
   },
-  {
-    "name": "Jérôme Cousin",
+  "Jérôme Cousin": {
     "team": "TDE",
     "cost": 4
   },
-  {
-    "name": "Damien Gaudin",
+  "Damien Gaudin": {
     "team": "TDE",
     "cost": 4
   },
-  {
-    "name": "Fabien Grellier",
+  "Fabien Grellier": {
     "team": "TDE",
     "cost": 4
   },
-  {
-    "name": "Jack Bauer",
+  "Jack Bauer": {
     "team": "MTS",
     "cost": 4
   },
-  {
-    "name": "Mathew Hayman",
+  "Mathew Hayman": {
     "team": "MTS",
     "cost": 4
   },
-  {
-    "name": "Michael Hepburn",
+  "Michael Hepburn": {
     "team": "MTS",
     "cost": 4
   },
-  {
-    "name": "Kristijan Koren",
+  "Kristijan Koren": {
     "team": "TBM",
     "cost": 4
   },
-  {
-    "name": "Thomas Scully",
+  "Thomas Scully": {
     "team": "EFD",
     "cost": 4
   },
-  {
-    "name": "Chad Haga",
+  "Chad Haga": {
     "team": "SUN",
     "cost": 4
   },
-  {
-    "name": "Imanol Erviti",
+  "Imanol Erviti": {
     "team": "MOV",
     "cost": 4
   },
-  {
-    "name": "Tobias Ludvigsson",
+  "Tobias Ludvigsson": {
     "team": "GFC",
     "cost": 4
   },
-  {
-    "name": "Michael Schar",
+  "Michael Schar": {
     "team": "BMC",
     "cost": 4
   },
-  {
-    "name": "Julien Bernard",
+  "Julien Bernard": {
     "team": "TFS",
     "cost": 4
   },
-  {
-    "name": "Koen De Kort",
+  "Koen De Kort": {
     "team": "TFS",
     "cost": 4
   },
-  {
-    "name": "Michael Gogl",
+  "Michael Gogl": {
     "team": "TFS",
     "cost": 4
   },
-  {
-    "name": "Marcus Burghardt",
+  "Marcus Burghardt": {
     "team": "BOH",
     "cost": 4
   },
-  {
-    "name": "Tim Declercq",
+  "Tim Declercq": {
     "team": "QST",
     "cost": 4
   },
-  {
-    "name": "Elie Gesbert",
+  "Elie Gesbert": {
     "team": "FST",
     "cost": 4
   },
-  {
-    "name": "Kevin Ledanois",
+  "Kevin Ledanois": {
     "team": "FST",
     "cost": 4
   },
-  {
-    "name": "Laurent Pichon",
+  "Laurent Pichon": {
     "team": "FST",
     "cost": 4
   },
-  {
-    "name": "Rory Sutherland",
+  "Rory Sutherland": {
     "team": "UAD",
     "cost": 4
   },
-  {
-    "name": "Oliviero Troia",
+  "Oliviero Troia": {
     "team": "UAD",
     "cost": 4
   }
-]
+}
