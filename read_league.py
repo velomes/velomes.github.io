@@ -100,6 +100,7 @@ if __name__ == '__main__':
 
     league = {
         'name': fullname,
+        'name': shortname,
         'teams': teams,
     }
 
