@@ -125,13 +125,12 @@ def main(riders, stages):
                 continue
 
             if rider['team'] in teamscores:
-                for key, value in teamscores[rider['team']].items():
-                    scores['riders'][rider['name']][key] += value
+                scores['riders'][rider['name']]['Ass'] += teamscores[rider['team']]['Ass']
 
             for mate in assistscores:
                 if mate == rider['name']:
                     continue
-                if riders[mate] == riders[rider['name']]:
+                if riders[mate]['team'] == riders[rider['name']]['team']:
                     scores['riders'][rider['name']]['Ass'] += assistscores[mate]['Ass']
 
         total = 0
