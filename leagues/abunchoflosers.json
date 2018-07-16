@@ -1,10 +1,10 @@
 {
   "name": "A Bunch of Losers",
+  "shortname": "abunchoflosers",
   "teams": [
     {
       "user": "ser-seaworth",
       "name": "ser-seaworth`s sucky selection",
-      "tid": "72205ccb8444300382725cd50b6d20f746M",
       "team": [
         "Christopher Froome",
         "Richie Porte",
@@ -20,7 +20,6 @@
     {
       "user": "FuiQuodSis",
       "name": "Team Duth Lama Kimo Feduba",
-      "tid": "10sc7a7b4841374354e647c08f47d1dd5a8F",
       "team": [
         "Tom Dumoulin",
         "Geraint Thomas",
@@ -36,7 +35,6 @@
     {
       "user": "Zachary Olsen",
       "name": "Randy`s Dandies",
-      "tid": "17sd2af61e82bc68ddddcb063ffff2d15e7b",
       "team": [
         "Tom Dumoulin",
         "Geraint Thomas",
@@ -52,7 +50,6 @@
     {
       "user": "100ser League",
       "name": "100ser League",
-      "tid": "7ue86fdc2283aff4717103f2d44d0610f7q",
       "team": [
         "Tom Dumoulin",
         "Rigoberto Uran",
@@ -68,7 +65,6 @@
     {
       "user": "Nick",
       "name": "chefnick",
-      "tid": "11553fa6952e25cf75f25a4b01505c2a191b",
       "team": [
         "Tom Dumoulin",
         "Alejandro Valverde",
@@ -84,7 +80,6 @@
     {
       "user": "Remember this team",
       "name": "This 10% luck, 20% skill",
-      "tid": "4T53f47e482ed938ea3f8b6074f9b877c1Z",
       "team": [
         "Rigoberto Uran",
         "Steven Kruijswijk",
@@ -100,7 +95,6 @@
     {
       "user": "dick dastardly",
       "name": "Pidgeon Pile up",
-      "tid": "822fe3effbd473e17ec39c3e6a854ab4e9B",
       "team": [
         "Bob Jungels",
         "Primoz Roglic",
@@ -116,7 +110,6 @@
     {
       "user": "predsfan77",
       "name": "biggest bunch of losers possible",
-      "tid": "1172894d1c7ddec7aa67fb006e5e253cdbci",
       "team": [
         "Wout Poels",
         "Geraint Thomas",
@@ -132,7 +125,6 @@
     {
       "user": "b7",
       "name": "Low",
-      "tid": "57af05567d262d133e2ff5291bf9357965b",
       "team": [
         "Jakob Fuglsang",
         "Steven Kruijswijk",
@@ -148,7 +140,6 @@
     {
       "user": "Mattified",
       "name": "One Grand Tour Tue Many",
-      "tid": "9d9c070941fa174f32a0cb31dcba426e62M",
       "team": [
         "Christopher Froome",
         "Wout Poels",
@@ -164,7 +155,6 @@
     {
       "user": "Dugarry23",
       "name": "Doogenkolb",
-      "tid": "12a5539cb7e8602b4b7d0f03818f897830ft",
       "team": [
         "Christopher Froome",
         "Tom Dumoulin",
@@ -180,7 +170,6 @@
     {
       "user": "rplnt",
       "name": "Low Riders",
-      "tid": "5t65e490c6235c19320f1fa32c1613944fr",
       "team": [
         "Geraint Thomas",
         "Bauke Mollema",
@@ -196,7 +185,6 @@
     {
       "user": "lihamt",
       "name": "Aspiring Deadweight",
-      "tid": "10r8f70ca07fefbea8c7a64301e8d0280abL",
       "team": [
         "Primoz Roglic",
         "Christopher Froome",
@@ -212,7 +200,6 @@
     {
       "user": "Loseratus",
       "name": "Isolated in the gruppetto",
-      "tid": "9sc37ea83ca181ffa0d7e007e1321663dfl",
       "team": [
         "Robert Gesink",
         "Geraint Thomas",
@@ -228,7 +215,6 @@
     {
       "user": "epi_counts",
       "name": "Wonderful Losers",
-      "tid": "16s05823d66c67afff1cd1fb8fe908588cew",
       "team": [
         "Richie Porte",
         "Geraint Thomas",

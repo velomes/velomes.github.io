@@ -1,10 +1,10 @@
 {
   "name": "FBB Klub Na Draze",
+  "shortname": "fbbklubnadraze",
   "teams": [
     {
       "user": "CuliBuli",
       "name": "YMC ",
-      "tid": "8i64219ebebf2a0766881a4e804d82998dC",
       "team": [
         "Ion Izagirre",
         "Andrey Amador",
@@ -20,7 +20,6 @@
     {
       "user": "BLD",
       "name": "Dirtysimo",
-      "tid": "6Ze8b9f033758e2d5186373e6d16913c36W",
       "team": [
         "Tom Dumoulin",
         "Vincenzo Nibali",
@@ -36,7 +35,6 @@
     {
       "user": "Jebanois",
       "name": "9 musketyru",
-      "tid": "5nd0f62f10ee94abb09f8c68942f79fd91j",
       "team": [
         "Tom Dumoulin",
         "Vincenzo Nibali",
@@ -52,7 +50,6 @@
     {
       "user": "dlouhe bidlo",
       "name": "bratrstvo kocici pracky",
-      "tid": "11odfd137faf157109f21cfbffb6898a2fdd",
       "team": [
         "Alejandro Valverde",
         "Bob Jungels",
@@ -68,7 +65,6 @@
     {
       "user": "Cannoneer",
       "name": "Scrap Attack",
-      "tid": "9r3c1ddb1e900772ec1054683ca2670dc5C",
       "team": [
         "Vincenzo Nibali",
         "Primoz Roglic",
@@ -84,7 +80,6 @@
     {
       "user": "Burkhar",
       "name": "Sagan a jeho caban",
-      "tid": "7rba3253b62bf05750fdfa951d9d454d1eb",
       "team": [
         "Tom Dumoulin",
         "Vincenzo Nibali",
@@ -100,7 +95,6 @@
     {
       "user": "kubasj",
       "name": "kuboviflakaci",
-      "tid": "6jb784db7ac9d63034a913cc7c8873563bk",
       "team": [
         "Christopher Froome",
         "Michal Kwiatkowski",
@@ -116,7 +110,6 @@
     {
       "user": "racochejl_chce_pivecka",
       "name": "Pivecka pro Racochejla",
-      "tid": "22a6fdcfc33115ead2dc79e76363d925313r",
       "team": [
         "Richie Porte",
         "Vincenzo Nibali",
@@ -132,7 +125,6 @@
     {
       "user": "Standa Komarek",
       "name": "Cyklodraci",
-      "tid": "8kfa9400ee5f957a12c12be9c256a19ebaC",
       "team": [
         "Tom Dumoulin",
         "Rui Costa",
@@ -148,7 +140,6 @@
     {
       "user": "AdamBernau",
       "name": "Toi-Toi",
-      "tid": "7ab9829ee14f8f61d09c314e9023b11032A",
       "team": [
         "Primoz Roglic",
         "Rigoberto Uran",
@@ -164,7 +155,6 @@
     {
       "user": "Anti-Doping Agency",
       "name": "Use 2,000 nanograms salbutamol or die ",
-      "tid": "5od3a3abb4af3713dafc13378fce1788edD",
       "team": [
         "Christopher Froome",
         "Julian Alaphilippe",
@@ -180,7 +170,6 @@
     {
       "user": "SrÅ¡ÅˆÃ¡k",
       "name": "SFFB",
-      "tid": "11v6030446c571d942ada82c10225c0bbcfb",
       "team": [
         "Christopher Froome",
         "Bauke Mollema",
@@ -196,7 +185,6 @@
     {
       "user": "Tobmaster",
       "name": "Vautrones",
-      "tid": "9r979d4786f2a71f00b159e3c859a0c100T",
       "team": [
         "Alejandro Valverde",
         "Rigoberto Uran",
@@ -212,7 +200,6 @@
     {
       "user": "JarmiLove",
       "name": "Sick and tired",
-      "tid": "8726f2af82f4053ef6a6636a5add2405fdJ",
       "team": [
         "Christopher Froome",
         "Alejandro Valverde",
@@ -228,7 +215,6 @@
     {
       "user": "Marek",
       "name": "le triplettes de belleville",
-      "tid": "6oa0347ed0e8535e4c7203883fc8584368M",
       "team": [
         "Richie Porte",
         "Vincenzo Nibali",
@@ -244,7 +230,6 @@
     {
       "user": "Turi",
       "name": "Squali dello Stretto",
-      "tid": "4i29ce15c6bb8c5d6d1aafd7bea0cae3deT",
       "team": [
         "Vincenzo Nibali",
         "Tom Dumoulin",
@@ -260,7 +245,6 @@
     {
       "user": "madmax1970 Draha team",
       "name": "Draha team",
-      "tid": "100fd8ced2b3b6b6fcb53d8794ce7560b85m",
       "team": [
         "Tom Dumoulin",
         "Bauke Mollema",
@@ -276,7 +260,6 @@
     {
       "user": "Mazotron",
       "name": "Pedales douces",
-      "tid": "8n86edef3f2483a3a2130f376b7fe583afM",
       "team": [
         "Primoz Roglic",
         "Julian Alaphilippe",
@@ -292,7 +275,6 @@
     {
       "user": "ayushka",
       "name": "Geirbrudur",
-      "tid": "7af0db2263ecbf827dcf711e598d0ea98da",
       "team": [
         "Tom Dumoulin",
         "Alejandro Valverde",
@@ -308,7 +290,6 @@
     {
       "user": "Zofrej",
       "name": "Zabozrouti",
-      "tid": "5p27eaa28e8fb16a8ac8f3fe7d84fa6c6fs",
       "team": [
         "Primoz Roglic",
         "Julian Alaphilippe",
@@ -324,7 +305,6 @@
     {
       "user": "Vladimir Konvalina",
       "name": "cosmo2",
-      "tid": "12dbba46713075c4b726292f48d826eddecr",
       "team": [
         "Geraint Thomas",
         "Ion Izagirre",
@@ -340,7 +320,6 @@
     {
       "user": "bULVa",
       "name": "Odeurs de Froomage",
-      "tid": "8a641a9c63a880cad8fae62324f1ec3fc7n",
       "team": [
         "Alejandro Valverde",
         "Richie Porte",
@@ -356,7 +335,6 @@
     {
       "user": "rplnt",
       "name": "The Biggest Asthma",
-      "tid": "6of69dee9e7d57e88213d531382d550730M",
       "team": [
         "Vincenzo Nibali",
         "Rigoberto Uran",
@@ -372,7 +350,6 @@
     {
       "user": "Sauge",
       "name": "Team Sauge`s kicks",
-      "tid": "5ea024c26c69bc8be97471f40010456a3cS",
       "team": [
         "Alejandro Valverde",
         "Bauke Mollema",
@@ -388,7 +365,6 @@
     {
       "user": "Pavel Pilch",
       "name": "Silesian Drunkards",
-      "tid": "10id6306a3b287a7938ff6756291511806dp",
       "team": [
         "Christopher Froome",
         "Robert Gesink",
@@ -404,7 +380,6 @@
     {
       "user": "Hagiadiz",
       "name": "Astmatici",
-      "tid": "8zd7ddb0ad79be44ca4364761c9f55c85bH",
       "team": [
         "Christopher Froome",
         "Tejay Van Garderen",
@@ -420,7 +395,6 @@
     {
       "user": "Krabiprdelakayoungshrimp",
       "name": "Frozen seafood",
-      "tid": "7g5aa19c340f1c39604fdf031500f40095L",
       "team": [
         "Christopher Froome",
         "Richie Porte",
@@ -436,7 +410,6 @@
     {
       "user": "Miris",
       "name": "Nestarey",
-      "tid": "5sa17310dae2c3b763fbe586d8bccfb2f2M",
       "team": [
         "Ion Izagirre",
         "Andrey Amador",
@@ -452,7 +425,6 @@
     {
       "user": "Skokdopole",
       "name": "Zlamaljelito Jezmaso Nechoddomu",
-      "tid": "12l0266f25c6c043608698f7d544b1f7372m",
       "team": [
         "Tom Dumoulin",
         "Bauke Mollema",
@@ -468,7 +440,6 @@
     {
       "user": "MocBorec",
       "name": "MocBorci",
-      "tid": "8c61711e74786cb31a0dc9a75f234f61efM",
       "team": [
         "Ion Izagirre",
         "Andrey Amador",
@@ -484,7 +455,6 @@
     {
       "user": "smrk",
       "name": "smrkat",
-      "tid": "6t50d7fdef916e16608925f4523257db7bs",
       "team": [
         "Richie Porte",
         "Julian Alaphilippe",
@@ -500,7 +470,6 @@
     {
       "user": "Pepek",
       "name": "Elbow combo",
-      "tid": "5k8f7e2819f7e8578d3dd62d4feacb7f55P",
       "team": [
         "Alejandro Valverde",
         "Tom Dumoulin",
@@ -516,7 +485,6 @@
     {
       "user": "sebetoffski",
       "name": "sebejede",
-      "tid": "11i417a2a2b844699b9c0de40e2ed381370s",
       "team": [
         "Tom Dumoulin",
         "Alejandro Valverde",
@@ -532,7 +500,6 @@
     {
       "user": "Vik",
       "name": "Vittorio",
-      "tid": "9pcd94c3cb9ee24f5db204bbfca9c00a19V",
       "team": [
         "Vincenzo Nibali",
         "Jakob Fuglsang",
@@ -548,7 +515,6 @@
     {
       "user": "Kokinek Lulu",
       "name": "Lulan Nobrainers",
-      "tid": "7k37665bd5f0b45d5dae6d1cfbabda02adk",
       "team": [
         "Primoz Roglic",
         "Alejandro Valverde",
@@ -564,7 +530,6 @@
     {
       "user": "Sabit",
       "name": "KND EPO team",
-      "tid": "61afc6d7ec935115ee992cf7c7eca31599S",
       "team": [
         "Bauke Mollema",
         "Tom Dumoulin",
@@ -580,7 +545,6 @@
     {
       "user": "Martin",
       "name": "Drz hubu a makej",
-      "tid": "13edf472f008423775bd583deb8e807e5f2m",
       "team": [
         "Christopher Froome",
         "Rigoberto Uran",
