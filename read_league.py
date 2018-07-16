@@ -79,9 +79,7 @@ def load_team(tid):
     return riders
 
 
-if __name__ == '__main__':
-    league_id = sys.argv[1]
-
+def main(league_id):
     teams = load_league(league_id)
     print('Found {} teams'.format(len(teams)))
 
@@ -89,20 +87,24 @@ if __name__ == '__main__':
 
     if os.path.isfile(f'leagues/{shortname}.json'):
         print(f'League "{fullname}" ({shortname}) already exists')
-        sys.exit(1)
+        return
 
     print('Loading', end='', flush=True)
     for n, team in enumerate(teams):
         print('.', end='', flush=True)
         team['team'] = load_team(team['tid'])
-        time.sleep(0.456)
+        time.sleep(0.256)
     print('DONE')
 
     league = {
         'name': fullname,
         'name': shortname,
-        'teams': teams,
+        'teams': [{k: v for k, v in team.items() if k != 'tid'} for team in teams],
     }
 
     with open(f'leagues/{shortname}.json', 'w') as f:
         json.dump(league, f)
+
+
+if __name__ == '__main__':
+    main(sys.argv[1])
