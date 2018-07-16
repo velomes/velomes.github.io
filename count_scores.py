@@ -125,7 +125,9 @@ def main(riders, stages):
                 continue
 
             if rider['team'] in teamscores:
-                scores['riders'][rider['name']]['Ass'] += teamscores[rider['team']]['Ass']
+                for key, value in teamscores[rider['team']].items():
+                    scores['riders'][rider['name']][key] += value
+                # scores['riders'][rider['name']]['Ass'] += teamscores[rider['team']]['Ass']
 
             for mate in assistscores:
                 if mate == rider['name']:
