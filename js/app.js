@@ -29,6 +29,14 @@ function fixStr(str) {
     return decodeURIComponent(escape(unescape(str)));
 }
 
+function sumKeys(data) {
+    var total = 0;
+    Object.keys(data).forEach(function(key) {
+        total += data[key];
+    });
+    return total;
+}
+
 var App = {
     scoreKeys: ['Stg', 'GC', 'PC', 'KOM', 'Spr', 'Sum', 'Bky', 'Ass'],
     riders: null,
@@ -61,7 +69,7 @@ $(function() {
         switch (splitHash[0]) {
             case '#league':
                 app.Loading();
-                app.League(splitHash[1]);
+                app.League(splitHash[1], splitHash.length>2?splitHash[2]:'total');
                 break;
             case '#rider':
                 app.Loading();
@@ -71,7 +79,9 @@ $(function() {
                 break;
             case '#riders':
                 app.Loading();
-                app.Ready(app.DisplayRiders);
+                app.Ready(function() {
+                    app.DisplayRiders(splitHash.length>1?splitHash[1]:'total');
+                });
                 break;
             default:
                 break;
@@ -83,26 +93,25 @@ $(function() {
         $('#app').fill(EE('div', {$: 'sp-circle'}));
     };
 
-    app.League = function(league) {
-        if (league !== null && league['shortname'] == league) {
-            app.Ready(app.DisplayLeague);
+    app.League = function(league, stage) {
+        if (app.league !== null && app.league['shortname'] == league) {
+                app.Ready(function() {
+                    app.DisplayLeague(stage);
+                });
+            return;
         }
 
         loadData('leagues/' + league +'.json', function(response) {
-            var err = 'League "' + league + '"" not found.';
             if (response === null) {
+                var err = 'League "' + league + '"" not found.';
                 $('#app').fill(EE('div', err));
             } else {
                 app.league = $.parseJSON(response);
-                app.Ready(app.DisplayLeague);
+                app.Ready(function() {
+                    app.DisplayLeague(stage);
+                });
             }
         });
-        
-
-    };
-
-    app.Main = function() {
-
     };
 
     app.Error = function(error) {
@@ -117,25 +126,96 @@ $(function() {
         callback();
     };
 
-    app.DisplayLeague = function() {
-        console.log('displaying league: ' + app.league['name']);
+    app.teamDiv = function(position, team) {
+        var div = EE('div', {$: 'teams'});
+        div.add(EE('span', {$: 'team position'}, position));
+        div.add(EE('span', {$: 'team name'}, team['name']));
+        div.add(EE('span', {$: 'team owner'}, team['user']));
+        div.add(EE('span', {$: 'team score'}, team['total']));
+
+        return div;
     };
 
-    app.DisplayRiders = function() {
-        app.Ready(app.DisplayRiders);
+    app.DisplayLeague = function(stage) {
+        $('#app').fill(EE('div', {$: 'title'}, app.league['name']));
 
-        console.log('displaying riders');
+        var scores = stage == 'total' ?
+            app.scores['totals'] :
+            getKeyOr(app.scores['stages'], stage, {'riders': {}})['riders'];
+
+        /* helpers */
+        var total = function(rider) {
+            return sumKeys(getKeyOr(scores, rider, {}));
+        };
+        var sumTeam = function(riders) {
+            var sum = 0;
+            riders.forEach(function(rider) {
+                sum += total(rider);
+            });
+            return sum;
+        };
+
+        /* add totals and sort */
+        var teams = app.league['teams'];
+        teams.forEach(function(team) {
+            team['total'] = sumTeam(team['team']);
+        });
+        teams.sort(function(a, b) {
+            return  a['total'] - b['total'];
+        });
+        teams.reverse();
+
+        /* list */
+        $('#app').add(EE('div', {'id': 'team-list'}));
+        for(var n = 0; n < teams.length; n++) {
+            $('#app').add(app.teamDiv(n + 1, teams[n]));
+        }
     };
 
-    app.stageScoreRow = function(stage, scores) {
-        var tr = EE('tr');
-        tr.add(EE('td', stage));
+    app.DisplayRiders = function(stage) {
+        $('#app').fill(EE('div', {$: 'title'}, 'Scores ' + stage));
 
-        return app.riderScores(tr, scores);
+        var scores = stage == 'total' ?
+            app.scores['totals'] :
+            getKeyOr(app.scores['stages'], stage, {'riders': {}})['riders'];
+
+        /* get riders ordered by scores */
+        var sorter = Object.keys(app.riders).map(function(rider) {
+            return [rider, sumKeys(getKeyOr(scores, rider, {}))];
+        });
+        sorter.sort(function(a, b) {
+            return a[1] - b[1];
+        });
+        sorter.reverse();
+        sorter = sorter.map(function(pair) { return pair[0]; });
+
+        /* table */
+        var table = EE('table', [EE('thead', EE('tr')), EE('tbody')]);
+
+        /* header */
+        $('thead tr', table).add(EE('th', 'Name'));
+        $('thead tr', table).add(EE('th', 'Team'));
+        app.scoreKeys.forEach(function(key) {
+            $('thead tr', table).add(EE('th', key));
+        });
+        $('thead tr', table).add(EE('th', 'Total'));
+
+        /* list */
+        sorter.forEach(function(rider) {
+            var tr = app.riderScoreRow(rider, app.riders[rider]['team'], getKeyOr(scores, rider, {}));
+            $('tbody', table).add(tr);
+        });
+
+        $('#app').add(table);
     };
+
 
     app.riderScoreRow = function(rider, team, scores) {
+        var tr = EE('tr');
+        tr.add(EE('td', EE('a', {'href': '#rider:' + rider}, rider)));
+        tr.add(EE('td', team));
 
+        return app.riderScores(tr, scores);
     };
 
     app.riderScores = function(tr, scores) {
@@ -151,6 +231,13 @@ $(function() {
         return tr;
     };
 
+    app.stageScoreRow = function(stage, scores) {
+        var tr = EE('tr');
+        tr.add(EE('td', stage));
+
+        return app.riderScores(tr, scores);
+    };
+
     app.DisplayRider = function(rider) {
         if (!(rider in app.riders)) {
             app.Error('Unknown rider: ' + rider);
@@ -158,7 +245,7 @@ $(function() {
             return;
         }
 
-        $('#app').fill(EE('div', rider));
+        $('#app').fill(EE('div', {$: 'title'}, rider));
         var table = EE('table', [EE('thead', EE('tr')), EE('tbody'), EE('tfoot', EE('tr'))]);
 
         /* header */
@@ -177,7 +264,7 @@ $(function() {
 
         /* final */
         var finalScore = getKeyOr(getKeyOr(app.scores, 'final', {}), rider, {});
-         $('tbody', table).add(app.stageScoreRow('Final', finalScore));
+        $('tbody', table).add(app.stageScoreRow('Final', finalScore));
 
         /* totals */
         var totalScore = getKeyOr(app.scores['totals'], rider, {});
