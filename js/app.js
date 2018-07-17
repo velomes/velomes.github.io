@@ -126,11 +126,41 @@ $(function() {
         callback();
     };
 
-    app.teamDiv = function(position, team) {
-        var div = EE('div', {$: 'teams'});
+    app.ToggleTeam = function(elmnt) {
+        elmnt.set('$', 'hl');
+        if (elmnt.next().is('.details')) {
+            elmnt.next().set('$', 'hidden');
+        }
+    };
+
+    app.TeamDetails = function(team, scores) {
+        /* table */
+        var table = EE('table', {$: 'results middle-list'}, [EE('thead', EE('tr')), EE('tbody')]);
+
+        /* header */
+        $('thead tr', table).add(EE('th', 'Name'));
+        $('thead tr', table).add(EE('th', 'Team'));
+        app.scoreKeys.forEach(function(key) {
+            $('thead tr', table).add(EE('th', key));
+        });
+        $('thead tr', table).add(EE('th', 'Total'));
+
+        // console.log(team);
+        team.forEach(function(rider) {
+            var tr = app.riderScoreRow(rider, getKeyOr(app.riders, rider, {'team': {}})['team'], getKeyOr(scores, rider, {}));
+            $('tbody', table).add(tr);
+        });
+
+        return EE('div', {$: 'details hidden'}, table);
+    };
+
+    app.teamDiv = function(position, team, odd) {
+        var div = EE('div', {$: 'teams middle-list' + (odd?' odd':'')});
         div.add(EE('span', {$: 'team position'}, position));
-        div.add(EE('span', {$: 'team name'}, team['name']));
-        div.add(EE('span', {$: 'team owner'}, team['user']));
+        div.add(EE('span', {$: 'team info'}, [
+            EE('div', {$: 'team name'}, team['name']),
+            EE('div', {$: 'team owner'}, team['user']),
+        ]));
         div.add(EE('span', {$: 'team score'}, team['total']));
 
         return div;
@@ -166,11 +196,35 @@ $(function() {
         teams.reverse();
 
         /* list */
-        $('#app').add(EE('div', {'id': 'team-list'}));
+        $('#app').add(EE('div', {'id': 'team-list', $: 'middle-list'}));
         for(var n = 0; n < teams.length; n++) {
-            $('#app').add(app.teamDiv(n + 1, teams[n]));
+            var div = app.teamDiv(n + 1, teams[n], n % 2);
+            div.onClick(app.ToggleTeam, [div]);
+            $('#team-list').add(div);
+            $('#team-list').add(app.TeamDetails(teams[n]['team'], scores));
         }
     };
+
+    app.riderScores = function(tr, scores) {
+        var total = 0;
+        app.scoreKeys.forEach(function(key) {
+            var score = getKeyOr(scores, key, 0);
+            total += score;
+            tr.add(EE('td', score>0?score:'-'));
+        });
+
+        tr.add(EE('td', {$: 'score-total'}, total));
+
+        return tr;
+    };    
+
+    app.riderScoreRow = function(rider, team, scores) {
+        var tr = EE('tr');
+        tr.add(EE('td', {$: 'rider-name'}, EE('a', {'href': '#rider:' + rider}, rider)));
+        tr.add(EE('td', {$: 'team-name'}, team));
+
+        return app.riderScores(tr, scores);
+    };    
 
     app.DisplayRiders = function(stage) {
         $('#app').fill(EE('div', {$: 'title'}, 'Scores ' + stage));
@@ -190,7 +244,7 @@ $(function() {
         sorter = sorter.map(function(pair) { return pair[0]; });
 
         /* table */
-        var table = EE('table', [EE('thead', EE('tr')), EE('tbody')]);
+        var table = EE('table', {$: 'middle-list riders-list'}, [EE('thead', EE('tr')), EE('tbody')]);
 
         /* header */
         $('thead tr', table).add(EE('th', 'Name'));
@@ -209,31 +263,9 @@ $(function() {
         $('#app').add(table);
     };
 
-
-    app.riderScoreRow = function(rider, team, scores) {
-        var tr = EE('tr');
-        tr.add(EE('td', EE('a', {'href': '#rider:' + rider}, rider)));
-        tr.add(EE('td', team));
-
-        return app.riderScores(tr, scores);
-    };
-
-    app.riderScores = function(tr, scores) {
-        var total = 0;
-        app.scoreKeys.forEach(function(key) {
-            var score = getKeyOr(scores, key, 0);
-            total += score;
-            tr.add(EE('td', score));
-        });
-
-        tr.add(EE('td', {$: 'score-total'}, total));
-
-        return tr;
-    };
-
     app.stageScoreRow = function(stage, scores) {
         var tr = EE('tr');
-        tr.add(EE('td', stage));
+        tr.add(EE('td', {$: 'stage'}, stage));
 
         return app.riderScores(tr, scores);
     };
@@ -246,7 +278,7 @@ $(function() {
         }
 
         $('#app').fill(EE('div', {$: 'title'}, rider));
-        var table = EE('table', [EE('thead', EE('tr')), EE('tbody'), EE('tfoot', EE('tr'))]);
+        var table = EE('table', {$: 'middle-list rider-list'}, [EE('thead', EE('tr')), EE('tbody'), EE('tfoot')]);
 
         /* header */
         $('thead tr', table).add(EE('th', 'Stage'));
@@ -259,7 +291,7 @@ $(function() {
         for (var i = 1; i <= 21; i++) {
             var stage = getKeyOr(app.scores['stages'], i, {'riders': {}});
             var stageScores = getKeyOr(stage['riders'], rider, {});
-            $('tbody', table).add(app.stageScoreRow('Stage ' + i, stageScores));
+            $('tbody', table).add(app.stageScoreRow(i, stageScores));
         }
 
         /* final */

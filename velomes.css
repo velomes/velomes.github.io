@@ -5,12 +5,11 @@ body {
     font-family: "Open Sans", sans-serif;
     margin: 0;
     padding: 0;
-    min-height: 100%;
 }
 
 .cont {
     top: 0;
-    min-height: 100%;
+    min-height: calc(100% - 200px);
     position: relative;
 }
 
@@ -30,35 +29,148 @@ body {
 }
 
 .footer {
+    text-align: center;
+    padding: 20px 0;
     bottom: 0;
-    height: 60px;
-    box-shadow: 10px 0 0 0 #333333;
+    box-shadow: 0 0 10px 0 #333333;
+
+    color: #BEAE00;
 }
 
-img.center {
+.center {
     display: block;
     margin: auto;
 }
 
 .app-cintainer {
+    text-align: center;
     margin-top: 200px;
-    padding-bottom: 80px;
+    padding-bottom: 90px;
 }
 
 .title {
     font-size: 2em;
     font-weight: bold;
-    text-align: center;
     padding-bottom: 15px;
 }
 
-.teams {
+table {
+    margin: 0;
+    text-align: center;
+    border-width: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.details:not(.hidden) {
+    border-bottom: 2px solid #333333;
+}
+
+.rider-name {
+    padding-left: 8px;
+    text-align: left;
+}
+
+.rider-name a {
+    color: #333333;
+    text-decoration: none;
+}
+
+.stage {
+    font-weight: bold;
+}
+
+.rider-name a:hover {
+    color: #000000;
+    font-weight: bold;
+}
+
+th {
+    background-color: #333333;
+    color: #DAF47B;
+}
+
+tbody tr:nth-child(odd) td {
+    background-color: #BBDA4A;
+}
+
+tbody tr:nth-child(even) td {
+    background-color: #DAF47B;
+}
+
+.teams:hover, .hl {
+    filter: brightness(70%);
+}
+
+tfoot {
+    background-color: #FCEA0A;   
+}
+
+.hidden {
+    visibility: collapse;
+}
+
+.rider-list, .riders-list {
+    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+#team-list {
+    box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.middle-list {
     margin: auto;
     width: 600px;
 }
 
+.teams {
+    padding-top: 8px;
+    height: 52px;
+    background-color: #CFE575;
+    cursor: hand;
+}
+
+.team-name {
+    border-right: 1px solid #333333;
+}
+
+.teams.odd {
+    background-color: #DAF47B;
+}
+
+.team.info {
+    height: 100%;
+    width: 400px;
+    display: inline-block;
+}
+
 .score-total {
+    border-left: 1px solid #333333;
     font-weight: bold;
+}
+
+.position {
+    float: left;
+    margin-left: 24px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.name, .owner {
+    vertical-align: middle; 
+    text-align: left;
+}
+
+.score, .position {
+    line-height: 48px;
+    vertical-align: middle; 
+}
+
+.score {
+    float: right;
+    margin-right: 18px;
 }
 
 .team.position::after {
