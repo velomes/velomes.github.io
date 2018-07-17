@@ -126,11 +126,13 @@ $(function() {
         callback();
     };
 
-    app.ToggleTeam = function(elmnt) {
-        elmnt.set('$', 'hl');
-        if (elmnt.next().is('.details')) {
-            elmnt.next().set('$', 'hidden');
+    app.ToggleTeam = function(team, scores, elmnt) {
+        if (!elmnt.next().is('.details')) {
+            elmnt.addAfter(app.TeamDetails(team, scores));
         }
+
+        elmnt.set('$', 'hl');
+        elmnt.next().set('$', 'hidden');
     };
 
     app.TeamDetails = function(team, scores) {
@@ -145,9 +147,8 @@ $(function() {
         });
         $('thead tr', table).add(EE('th', 'Total'));
 
-        // console.log(team);
         team.forEach(function(rider) {
-            var tr = app.riderScoreRow(rider, getKeyOr(app.riders, rider, {'team': {}})['team'], getKeyOr(scores, rider, {}));
+            var tr = app.riderScoreRow(rider, getKeyOr(app.riders, rider, {'team': '-'})['team'], getKeyOr(scores, rider, {}));
             $('tbody', table).add(tr);
         });
 
@@ -199,9 +200,8 @@ $(function() {
         $('#app').add(EE('div', {'id': 'team-list', $: 'middle-list'}));
         for(var n = 0; n < teams.length; n++) {
             var div = app.teamDiv(n + 1, teams[n], n % 2);
-            div.onClick(app.ToggleTeam, [div]);
+            div.onClick(app.ToggleTeam, [teams[n]['team'], scores, div]);
             $('#team-list').add(div);
-            $('#team-list').add(app.TeamDetails(teams[n]['team'], scores));
         }
     };
 
@@ -216,7 +216,7 @@ $(function() {
         tr.add(EE('td', {$: 'score-total'}, total));
 
         return tr;
-    };    
+    };
 
     app.riderScoreRow = function(rider, team, scores) {
         var tr = EE('tr');
@@ -224,7 +224,7 @@ $(function() {
         tr.add(EE('td', {$: 'team-name'}, team));
 
         return app.riderScores(tr, scores);
-    };    
+    };
 
     app.DisplayRiders = function(stage) {
         $('#app').fill(EE('div', {$: 'title'}, 'Scores ' + stage));
@@ -256,7 +256,7 @@ $(function() {
 
         /* list */
         sorter.forEach(function(rider) {
-            var tr = app.riderScoreRow(rider, app.riders[rider]['team'], getKeyOr(scores, rider, {}));
+            var tr = app.riderScoreRow(rider, getKeyOr(app.riders, rider, {'team': '-'})['team'], getKeyOr(scores, rider, {}));
             $('tbody', table).add(tr);
         });
 
