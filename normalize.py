@@ -43,7 +43,19 @@ def swap_team_code(entries, key):
 
 def normalize_names(results, names):
     if results['type'] == 'road':
-        _normalize_keys(results, names, ['Stg','Spr', 'hc', 'cat1', 'Bky'])
+        _normalize_keys(results, names, ['Stg', 'Spr', 'Bky'])
+        cat1 = []
+        for i, entries in enumerate(results['Sum']['cat1']):
+            print('Processing cat...')
+            cat1.append(_normalize_list(entries, names))
+        results['Sum']['cat1'] = cat1
+
+        hc = []
+        for i, entries in enumerate(results['Sum']['hc']):
+            print('Processing hc...')
+            hc.append(_normalize_list(entries, names))
+        results['Sum']['hc'] = hc
+
     _normalize_keys(results, names, ['GC', 'PC', 'KOM', 'abandons'])
 
 
@@ -55,6 +67,23 @@ def normalize_teams(results):
         _normalize_keys(results['Ass'], team_codes, ['TC'])
         swap_team_code(results['Ass'], 'TC')
 
+def _normalize_list(entries, names):
+    normalized = []
+    for entry in entries:
+        if entry in names:
+            normalized.append(entry)
+            continue
+
+        keys = names.keys() if type(names) is dict else names
+        match, ratio = process.extractOne(entry.title(), keys)
+        if ratio < MAGIC_RATIO or abs(len(match) - len(entry)) > LENGTH_MISMATCH:
+            print('Uknown entry: "{}" (matched "{}" @{})'.format(entry, match, ratio))
+            normalized.append(entry)
+            continue
+
+        normalized.append(match)
+
+    return normalized
 
 def _normalize_keys(results, data, keys):
     for key in keys:
