@@ -90,6 +90,14 @@ th {
     color: #DAF47B;
 }
 
+p {
+    margin-top: 0;
+}
+
+h3 {
+    margin-bottom: 8px;
+}
+
 tbody tr:nth-child(odd) td {
     background-color: #BBDA4A;
 }
@@ -154,8 +162,12 @@ tfoot {
     margin-left: 24px;
 }
 
+.intro {
+    width: 600px;
+}
+
 .name {
-    font-weight: bold;
+    font-weight: 800;
 }
 
 .name, .owner {
@@ -169,6 +181,7 @@ tfoot {
 }
 
 .score {
+    display: inline-block;
     float: right;
     margin-right: 18px;
 }
