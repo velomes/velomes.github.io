@@ -42,6 +42,7 @@ var App = {
     riders: null,
     scores: null,
     league: null,
+    home: null,
 };
 
 
@@ -64,33 +65,44 @@ $(function() {
     };
 
     app.Route = function() {
-    if (location.hash.length > 0) {
-        var splitHash = location.hash.split(':');
-        switch (splitHash[0]) {
-            case '#league':
-                app.Loading();
-                app.League(splitHash[1], splitHash.length>2?splitHash[2]:'total');
-                break;
-            case '#rider':
-                app.Loading();
-                app.Ready(function() {
-                    app.DisplayRider(fixStr(splitHash[1]));
-                });
-                break;
-            case '#riders':
-                app.Loading();
-                app.Ready(function() {
-                    app.DisplayRiders(splitHash.length>1?splitHash[1]:'total');
-                });
-                break;
-            default:
-                break;
+        if (location.hash.length > 0) {
+            var splitHash = location.hash.split(':');
+            switch (splitHash[0]) {
+                case '#league':
+                    app.Loading();
+                    app.League(splitHash[1], splitHash.length>2?splitHash[2]:'total');
+                    break;
+                case '#rider':
+                    app.Loading();
+                    app.Ready(function() {
+                        app.DisplayRider(fixStr(splitHash[1]));
+                    });
+                    break;
+                case '#riders':
+                    app.Loading();
+                    app.Ready(function() {
+                        app.DisplayRiders(splitHash.length>1?splitHash[1]:'total');
+                    });
+                    break;
+                case '#home':
+                    app.Home();
+                    break;
+            }
+        } else {
+            location.hash = '#home';
         }
-    }
     };
 
     app.Loading = function() {
         $('#app').fill(EE('div', {$: 'sp-circle'}));
+    };
+
+    app.Home = function() {
+        if (app.home === null) {
+            app.home = $('.intro');
+        } else {
+            $('#app').fill(app.home);
+        }
     };
 
     app.League = function(league, stage) {
@@ -126,8 +138,29 @@ $(function() {
         callback();
     };
 
+    app.stageButton = function(value, target, selected) {
+        return EE('a', {'href': target, $: 'select-btn' + (selected?' selected':'')}, value);
+    };
+
+    app.StageToggle = function(hash, stage) {
+        var hsh = function(v) {
+            return hash + ':' + v;
+        };
+
+        var div = EE('div', {$: 'stage-select'});
+        div.add(app.stageButton('Total', hsh('total'), stage=='total'));
+        for (var i = 1; i <= 21; i++) {
+            div.add(app.stageButton(i, hsh(i), stage==i.toString()));
+        }
+        var f = EE('span', {$: 'select-btn' + (stage=='F'?' selected':'')}, 'F');
+        div.add(app.stageButton('F', hsh('F'), stage=='F'));
+
+        return EE('div', {$: 'middle-list'}, div);
+    };
+
     app.ToggleTeam = function(team, scores, elmnt) {
-        if (!elmnt.next().is('.details')) {
+        if (elmnt.next().length === 0 || !elmnt.next().is('.details')) {
+            console.log('add');
             elmnt.addAfter(app.TeamDetails(team, scores));
         }
 
@@ -157,18 +190,22 @@ $(function() {
 
     app.teamDiv = function(position, team, odd) {
         var div = EE('div', {$: 'teams middle-list' + (odd?' odd':'')});
-        div.add(EE('span', {$: 'team position'}, position));
-        div.add(EE('span', {$: 'team info'}, [
-            EE('div', {$: 'team name'}, team['name']),
-            EE('div', {$: 'team owner'}, team['user']),
+        div.add(EE('div', {$: 'team position'}, position));
+        div.add(EE('div', {$: 'team info'}, [
+            EE('div', {$: 'name'}, team['name']),
+            EE('div', {$: 'owner'}, team['user']),
         ]));
-        div.add(EE('span', {$: 'team score'}, team['total']));
+        div.add(EE('div', {$: 'team score'}, team['total']));
 
         return div;
     };
 
     app.DisplayLeague = function(stage) {
-        $('#app').fill(EE('div', {$: 'title'}, app.league['name']));
+        $('#app').fill([
+            EE('div', {$: 'title'}, app.league['name']),
+        ]);
+
+        $('#app').add(app.StageToggle('#league:' + app.league['shortname'], stage));
 
         var scores = stage == 'total' ?
             app.scores['totals'] :
@@ -227,7 +264,8 @@ $(function() {
     };
 
     app.DisplayRiders = function(stage) {
-        $('#app').fill(EE('div', {$: 'title'}, 'Scores ' + stage));
+        $('#app').fill(EE('div', {$: 'title'}, 'Scores'));
+        $('#app').add(app.StageToggle('#riders', stage));
 
         var scores = stage == 'total' ?
             app.scores['totals'] :
