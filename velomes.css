@@ -142,9 +142,15 @@ tfoot {
     cursor: hand;
 }
 
-.select-btn:hover, .selected {   
+.select-btn:hover:not(.invalid), .selected {   
     color: #333333;
     background-color: #FDEF53;
+}
+
+.invalid {
+    color: #999999;
+    pointer-events: none;
+    cursor: default;    
 }
 
 .rider-list, .riders-list {

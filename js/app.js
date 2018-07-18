@@ -55,6 +55,7 @@ $(function() {
     'use strict';
 
     app.Init = function() {
+        app.home = $('.intro');
         loadData('scores.json', function(response) {
             app.scores = $.parseJSON(response);
         });
@@ -98,11 +99,7 @@ $(function() {
     };
 
     app.Home = function() {
-        if (app.home === null) {
-            app.home = $('.intro');
-        } else {
-            $('#app').fill(app.home);
-        }
+        $('#app').fill(app.home);
     };
 
     app.League = function(league, stage) {
@@ -138,8 +135,8 @@ $(function() {
         callback();
     };
 
-    app.stageButton = function(value, target, selected) {
-        return EE('a', {'href': target, $: 'select-btn' + (selected?' selected':'')}, value);
+    app.stageButton = function(value, target, selected, counted) {
+        return EE('a', {'href': target, $: 'select-btn' + (selected?' selected':'') + (counted?'':' invalid')}, value);
     };
 
     app.StageToggle = function(hash, stage) {
@@ -148,19 +145,18 @@ $(function() {
         };
 
         var div = EE('div', {$: 'stage-select'});
-        div.add(app.stageButton('Total', hsh('total'), stage=='total'));
+        div.add(app.stageButton('Total', hsh('total'), stage=='total', true));
         for (var i = 1; i <= 21; i++) {
-            div.add(app.stageButton(i, hsh(i), stage==i.toString()));
+            div.add(app.stageButton(i, hsh(i), stage==i.toString(), i in app.scores['stages']));
         }
         var f = EE('span', {$: 'select-btn' + (stage=='F'?' selected':'')}, 'F');
-        div.add(app.stageButton('F', hsh('F'), stage=='F'));
+        div.add(app.stageButton('F', hsh('F'), stage=='F', i in app.scores['stages']));
 
         return EE('div', {$: 'middle-list'}, div);
     };
 
     app.ToggleTeam = function(team, scores, elmnt) {
         if (elmnt.next().length === 0 || !elmnt.next().is('.details')) {
-            console.log('add');
             elmnt.addAfter(app.TeamDetails(team, scores));
         }
 
@@ -265,11 +261,12 @@ $(function() {
 
     app.DisplayRiders = function(stage) {
         $('#app').fill(EE('div', {$: 'title'}, 'Scores'));
-        $('#app').add(app.StageToggle('#riders', stage));
 
         var scores = stage == 'total' ?
             app.scores['totals'] :
             getKeyOr(app.scores['stages'], stage, {'riders': {}})['riders'];
+
+        $('#app').add(app.StageToggle('#riders', stage));
 
         /* get riders ordered by scores */
         var sorter = Object.keys(app.riders).map(function(rider) {
