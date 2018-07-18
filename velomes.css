@@ -217,9 +217,13 @@ tfoot {
     text-align: left;
 }
 
-.score, .position {
+.score, .position, .more {
     line-height: 3em;
     vertical-align: middle; 
+}
+
+.more {
+    font-weight: bold;
 }
 
 .team.score {

@@ -93,12 +93,12 @@ def main(league_id):
     for n, team in enumerate(teams):
         print('.', end='', flush=True)
         team['team'] = load_team(team['tid'])
-        time.sleep(0.256)
+        time.sleep(0.188)
     print('DONE')
 
     league = {
         'name': fullname,
-        'name': shortname,
+        'shortname': shortname,
         'teams': [{k: v for k, v in team.items() if k != 'tid'} for team in teams],
     }
 

@@ -4,6 +4,8 @@ var _=MINI._, $=MINI.$, $$=MINI.$$, EE=MINI.EE, HTML=MINI.HTML;
 
 var parser = new DOMParser();
 
+var LEAGUE_STEP_LIMIT = 350;
+
 window.onhashchange = function() {
     App.Route();
 };
@@ -196,12 +198,15 @@ $(function() {
         return div;
     };
 
-    app.DisplayLeague = function(stage) {
-        $('#app').fill([
-            EE('div', {$: 'title'}, app.league['name']),
-        ]);
+    app.DisplayLeague = function(stage, from) {
+        if (from === undefined) { from = 0; } else { $('.more').remove(); }
+        if (from === 0) {
+            $('#app').fill([
+                EE('div', {$: 'title'}, app.league['name']),
+            ]);
 
-        $('#app').add(app.StageToggle('#league:' + app.league['shortname'], stage));
+            $('#app').add(app.StageToggle('#league:' + app.league['shortname'], stage));
+        }
 
         var scores = stage == 'total' ?
             app.scores['totals'] :
@@ -230,8 +235,17 @@ $(function() {
         teams.reverse();
 
         /* list */
-        $('#app').add(EE('div', {'id': 'team-list', $: 'middle-list'}));
-        for(var n = 0; n < teams.length; n++) {
+        if (from === 0) {
+            $('#app').add(EE('div', {'id': 'team-list', $: 'middle-list'}));
+        }
+        for(var n = from; n < teams.length; n++) {
+            if (n >= from + LEAGUE_STEP_LIMIT) {
+                var more = EE('div', {$: 'teams more'}, 'Load more...');
+                more.onClick(app.DisplayLeague, [stage, n]);
+                $('#team-list').add(more);
+                break;
+            }
+
             var div = app.teamDiv(n + 1, teams[n], n % 2);
             div.onClick(app.ToggleTeam, [teams[n]['team'], scores, div]);
             $('#team-list').add(div);
