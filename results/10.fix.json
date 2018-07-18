@@ -1,0 +1,145 @@
+{
+  "stage": 10,
+  "type": "road",
+  "Stg": [
+    "Julian Alaphilippe",
+    "Ion Izagirre",
+    "Rein Taaramäe",
+    "Greg Van Avermaet",
+    "Serge Pauwels",
+    "Lilian Calmejane",
+    "Daniel Martin",
+    "Primoz Roglic",
+    "David Gaudu",
+    "Geraint Thomas",
+    "Romain Bardet",
+    "Steven Kruijswijk",
+    "Adam Yates",
+    "Jakob Fuglsang",
+    "Christopher Froome"
+  ],
+  "GC": [
+    "Greg Van Avermaet",
+    "Geraint Thomas",
+    "Alejandro Valverde",
+    "Jakob Fuglsang",
+    "Bob Jungels",
+    "Christopher Froome",
+    "Adam Yates",
+    "Mikel Landa",
+    "Vincenzo Nibali",
+    "Primoz Roglic",
+    "Tom Dumoulin",
+    "Steven Kruijswijk",
+    "Rafał Majka",
+    "Romain Bardet",
+    "Bauke Mollema",
+    "Nairo Quintana",
+    "Daniel Martin",
+    "Ilnur Zakarin",
+    "Serge Pauwels",
+    "Domenico Pozzovivo"
+  ],
+  "PC": [
+    "Peter Sagan",
+    "Fernando Gaviria",
+    "Dylan Groenewegen",
+    "Alexander Kristoff",
+    "Arnaud Démare",
+    "André Greipel"
+  ],
+  "KOM": [
+    "Julian Alaphilippe",
+    "Rein Taaramäe",
+    "Serge Pauwels",
+    "Rudy Molard",
+    "David Gaudu",
+    "Greg Van Avermaet"
+  ],
+  "Spr": [
+    "Julian Alaphilippe",
+    "Ion Izagirre",
+    "Rein Taaramäe",
+    "Greg Van Avermaet",
+    "Serge Pauwels",
+    "Lilian Calmejane",
+    "Daniel Martin",
+    "Primoz Roglic",
+    "David Gaudu",
+    "Geraint Thomas"
+  ],
+  "Sum": {
+    "hc": [
+      [
+        "Julian Alaphilippe",
+        "David Gaudu",
+        "Rudy Molard",
+        "Serge Pauwels",
+        "Greg Van Avermaet",
+        "Rein Taaramäe",
+        "Robert Gesink",
+        "Ion Izagirre"
+      ]
+    ],
+    "cat1": [
+      [
+        "Rudy Molard",
+        "Rein Taaramäe",
+        "David Gaudu",
+        "Serge Pauwels",
+        "Philippe Gilbert"
+      ],
+      [
+        "Julian Alaphilippe",
+        "Rein Taaramäe",
+        "Serge Pauwels",
+        "Greg Van Avermaet",
+        "Lilian Calmejane"
+      ],
+      [
+        "Julian Alaphilippe",
+        "Ion Izagirre",
+        "Rein Taaramäe",
+        "Serge Pauwels",
+        "Greg Van Avermaet"
+      ]
+    ]
+  },
+  "Bky": [
+    "Amaël Moinard",
+    "David Gaudu",
+    "Elie Gesbert",
+    "Greg Van Avermaet",
+    "Guillaume Martin",
+    "Ion Izagirre",
+    "Julian Alaphilippe",
+    "Lilian Calmejane",
+    "Philippe Gilbert",
+    "Rein Taaramäe",
+    "Robert Gesink",
+    "Rudy Molard",
+    "Serge Pauwels",
+    "Tom-Jelte Slagter",
+    "Tony Gallopin"
+  ],
+  "Ass": {
+    "TC": [
+      "MOV",
+      "TBM",
+      "TLJ"
+    ]
+  },
+  "abandons": [
+    "Luis Leon Sanchez",
+    "Tsgabu Grmay",
+    "Axel Domont",
+    "Robert Kišerlovski",
+    "Michael Matthews",
+    "Tiesj Benoot",
+    "Richie Porte",
+    "José Joaquín Rojas",
+    "Tony Martin",
+    "Alexis Vuillermoz",
+    "Jens Keukeleire"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "stage": 11,
+  "type": "road",
+  "Stg": [
+    "Geraint Thomas",
+    "Tom Dumoulin",
+    "Christopher Froome",
+    "Damiano Caruso",
+    "Mikel Nieve",
+    "Daniel Martin",
+    "Jesús Herrada",
+    "Romain Bardet",
+    "Vincenzo Nibali",
+    "Nairo Quintana",
+    "Primoz Roglic",
+    "Steven Kruijswijk",
+    "Mikel Landa",
+    "Egan Arley Bernal",
+    "Ilnur Zakarin"
+  ],
+  "GC": [
+    "Geraint Thomas",
+    "Christopher Froome",
+    "Tom Dumoulin",
+    "Vincenzo Nibali",
+    "Primoz Roglic",
+    "Steven Kruijswijk",
+    "Mikel Landa",
+    "Romain Bardet",
+    "Nairo Quintana",
+    "Daniel Martin",
+    "Alejandro Valverde",
+    "Jakob Fuglsang",
+    "Ilnur Zakarin",
+    "Mikel Nieve",
+    "Bob Jungels",
+    "Adam Yates",
+    "Domenico Pozzovivo",
+    "Damiano Caruso",
+    "Serge Pauwels",
+    "Pierre Latour"
+  ],
+  "PC": [
+    "Peter Sagan",
+    "Fernando Gaviria",
+    "Dylan Groenewegen",
+    "Alexander Kristoff",
+    "Arnaud Démare",
+    "André Greipel"
+  ],
+  "KOM": [
+    "Julian Alaphilippe",
+    "Serge Pauwels",
+    "Warren Barguil",
+    "Rein Taaramäe",
+    "Rudy Molard",
+    "David Gaudu"
+  ],
+  "Spr": [
+    "Peter Sagan",
+    "Damiano Caruso",
+    "Warren Barguil",
+    "Daniel Navarro",
+    "Romain Sicard",
+    "Andrea Pasqualon",
+    "Serge Pauwels",
+    "Philippe Gilbert",
+    "Jesús Herrada",
+    "Elie Gesbert"
+  ],
+  "Sum": {
+    "hc": [
+      [
+        "Julian Alaphilippe",
+        "Warren Barguil",
+        "Thomas De Gendt",
+        "Serge Pauwels",
+        "Rein Taaramäe",
+        "Anthony Perez",
+        "Mikel Nieve",
+        "John Darwin Atapuma"
+      ],
+      [
+        "Warren Barguil",
+        "Serge Pauwels",
+        "Elie Gesbert",
+        "John Darwin Atapuma",
+        "Jesús Herrada",
+        "Damiano Caruso",
+        "Tanel Kangert",
+        "Mathias Frank"
+      ]
+    ],
+    "cat1": [
+      [
+        "Geraint Thomas",
+        "Tom Dumoulin",
+        "Christopher Froome",
+        "Damiano Caruso",
+        "Mikel Nieve"
+      ]
+    ]
+  },
+  "Bky": [
+    "Mathias Frank",
+    "Gorka Izagirre",
+    "Elie Gesbert",
+    "Jesús Herrada",
+    "John Darwin Atapuma",
+    "Warren Barguil",
+    "Tanel Kangert",
+    "Daniel Navarro",
+    "Michael Valgren",
+    "Damiano Caruso",
+    "Serge Pauwels",
+    "Amaël Moinard",
+    "Mikel Nieve",
+    "Guillaume Martin"
+  ],
+  "Ass": {
+    "TC": [
+      "MOV",
+      "TBM",
+      "SKY"
+    ]
+  },
+  "abandons": [
+    "Luis Leon Sanchez",
+    "Tsgabu Grmay",
+    "Axel Domont",
+    "Robert Kišerlovski",
+    "Michael Matthews",
+    "Tiesj Benoot",
+    "Richie Porte",
+    "José Joaquín Rojas",
+    "Tony Martin",
+    "Alexis Vuillermoz",
+    "Jens Keukeleire",
+    "Mark Cavendish",
+    "Marcel Kittel",
+    "Mark Renshaw"
+  ]
+}
