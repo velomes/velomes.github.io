@@ -114,7 +114,7 @@ $(function() {
 
         loadData('leagues/' + league +'.json', function(response) {
             if (response === null) {
-                var err = 'League "' + league + '"" not found.';
+                var err = 'League "' + league + '" not found.';
                 $('#app').fill(EE('div', err));
             } else {
                 app.league = $.parseJSON(response);
