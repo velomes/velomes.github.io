@@ -89,7 +89,7 @@ def main(league_id):
         print(f'League "{fullname}" ({shortname}) already exists')
         return
 
-    print(f'Loading league "{fullname}" ({shortname}', end='', flush=True)
+    print(f'Loading league "{fullname}" ({shortname})', end='', flush=True)
     for n, team in enumerate(teams):
         print('.', end='', flush=True)
         team['team'] = load_team(team['tid'])
