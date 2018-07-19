@@ -80,6 +80,10 @@ table {
     font-weight: bold;
 }
 
+td.stage {
+    border-right: 1px solid #333333;
+}
+
 .rider-name a:hover {
     color: #000000;
     font-weight: bold;
@@ -111,6 +115,7 @@ tbody tr:nth-child(even) td {
 }
 
 tfoot {
+    border-top: 1px solid #333333;
     background-color: #FCEA0A;   
 }
 
