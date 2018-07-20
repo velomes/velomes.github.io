@@ -1,1 +1,314 @@
-{"name": "Trade Teams", "shortname": "tradeteams", "teams": [{"user": "SKY", "name": "Team Sky", "team": ["Christopher Froome", "Geraint Thomas", "Egan Arley Bernal", "Michal Kwiatkowski", "Wout Poels", "Gianni Moscon", "Jonathan Castroviejo", "Luke Rowe"]}, {"user": "BMC", "name": "BMC Racing Team", "team": ["Richie Porte", "Damiano Caruso", "Greg Van Avermaet", "Tejay Van Garderen", "Patrick Bevin", "Simon Gerrans", "Stefan K\u00fcng", "Michael Schar"]}, {"user": "BOH", "name": "BORA - hansgrohe", "team": ["Peter Sagan", "Rafa\u0142 Majka", "Maciej Bodnar", "Gregor M\u00fchlberger", "Daniel Oss", "Pawel Poljanski", "Lukas P\u00f6stlberger", "Marcus Burghardt"]}, {"user": "MOV", "name": "Movistar Team", "team": ["Nairo Quintana", "Mikel Landa", "Alejandro Valverde", "Andrey Amador", "Marc Soler", "Daniele Bennati", "Jos\u00e9 Joaqu\u00edn Rojas", "Imanol Erviti"]}, {"user": "TBM", "name": "Bahrain Merida Pro Cycling Team", "team": ["Vincenzo Nibali", "Sonny Colbrelli", "Ion Izagirre", "Domenico Pozzovivo", "Heinrich Haussler", "Gorka Izagirre", "Franco Pellizotti", "Kristijan Koren"]}, {"user": "SUN", "name": "Team Sunweb", "team": ["Tom Dumoulin", "Michael Matthews", "S\u00f8ren Kragh Andersen", "Nikias Arndt", "Simon Geschke", "Laurens Ten Dam", "Edward Theuns", "Chad Haga"]}, {"user": "QST", "name": "Quick-Step Floors", "team": ["Fernando Gaviria", "Julian Alaphilippe", "Bob Jungels", "Philippe Gilbert", "Yves Lampaert", "Ariel Maximiliano Richeze", "Niki Terpstra", "Tim Declercq"]}, {"user": "ALM", "name": "AG2R La Mondiale", "team": ["Romain Bardet", "Pierre Latour", "Silvan Dillier", "Axel Domont", "Mathias Frank", "Tony Gallopin", "Oliver Naesen", "Alexis Vuillermoz"]}, {"user": "TLJ", "name": "Team LottoNL-Jumbo", "team": ["Dylan Groenewegen", "Primoz Roglic", "Steven Kruijswijk", "Robert Gesink", "Amund Grondahl Jansen", "Paul Martens", "Timo Roosen", "Antwan Tolhoek"]}, {"user": "AST", "name": "Astana Pro Team", "team": ["Jakob Fuglsang", "Luis Leon Sanchez", "Magnus Cort Nielsen", "Omar Fraile", "Jesper Hansen", "Tanel Kangert", "Michael Valgren", "Dmitriy Gruzdev"]}, {"user": "MTS", "name": "Mitchelton-Scott", "team": ["Adam Yates", "Daryl Impey", "Mikel Nieve", "Luke Durbridge", "Damien Howson", "Jack Bauer", "Mathew Hayman", "Michael Hepburn"]}, {"user": "TKA", "name": "Team Katusha - Alpecin", "team": ["Marcel Kittel", "Ilnur Zakarin", "Ian Boswell", "Robert Ki\u0161erlovski", "Tony Martin", "Nils Politt", "Rick Zabel", "Pavel Kochetkov"]}, {"user": "EFD", "name": "EF Education First-Drapac p/b Cannondale", "team": ["Rigoberto Uran", "Simon Clarke", "Lawson Craddock", "Daniel Felipe Martinez", "Taylor Phinney", "Pierre Rolland", "Sep Vanmarcke", "Thomas Scully"]}, {"user": "GFC", "name": "Groupama - FDJ", "team": ["Arnaud D\u00e9mare", "David Gaudu", "Jacopo Guarnieri", "Olivier Le Gac", "Rudy Molard", "Ramon Sinkeldam", "Arthur Vichot", "Tobias Ludvigsson"]}, {"user": "UAD", "name": "UAE-Team Emirates", "team": ["Daniel Martin", "Alexander Kristoff", "John Darwin Atapuma", "Kristijan Durasek", "Roberto Ferrari", "Marco Marcato", "Rory Sutherland", "Oliviero Troia"]}, {"user": "LTS", "name": "Lotto Soudal", "team": ["Andr\u00e9 Greipel", "Tiesj Benoot", "Thomas De Gendt", "Jasper De Buyst", "Jens Keukeleire", "Tomasz Marczynski", "Jelle Vanendert", "Marcel Sieberg"]}, {"user": "DDD", "name": "Dimension Data", "team": ["Mark Cavendish", "Edvald Boasson Hagen", "Reinardt Janse Van Rensburg", "Serge Pauwels", "Mark Renshaw", "Tom-Jelte Slagter", "Jay Robert Thomson", "Julien Vermote"]}, {"user": "FST", "name": "Fortuneo - Samsic", "team": ["Warren Barguil", "Maxime Bouet", "Romain Hardy", "Ama\u00ebl Moinard", "Florian Vachon", "Elie Gesbert", "Kevin Ledanois", "Laurent Pichon"]}, {"user": "TFS", "name": "Trek - Segafredo", "team": ["Bauke Mollema", "John Degenkolb", "Jasper Stuyven", "Tsgabu Grmay", "Toms Skuji\u0146\u0161", "Julien Bernard", "Koen De Kort", "Michael Gogl"]}, {"user": "TDE", "name": "Direct Energie", "team": ["Lilian Calmejane", "Thomas Boudat", "Sylvain Chavanel", "Romain Sicard", "Rein Taaram\u00e4e", "J\u00e9r\u00f4me Cousin", "Damien Gaudin", "Fabien Grellier"]}, {"user": "COF", "name": "Cofidis Solutions Cr\u00e9dits", "team": ["Nicolas Edet", "Jes\u00fas Herrada", "Christophe Laporte", "Daniel Navarro", "Anthony Perez", "Dimitri Claeys", "Julien Simon", "Anthony Turgis"]}, {"user": "WGG", "name": "Wanty - Groupe Gobert", "team": ["Guillaume Martin", "Yoann Offredo", "Dion Smith", "Thomas Degand", "Timothy Dupont", "Marco Minnaard", "Andrea Pasqualon", "Guillaume Van Keirsbulck"]}]}
+{
+  "name": "Trade Teams",
+  "shortname": "tradeteams",
+  "teams": [
+    {
+      "user": "Total cost: 96",
+      "name": "Team Sky",
+      "team": [
+        "Christopher Froome",
+        "Geraint Thomas",
+        "Egan Arley Bernal",
+        "Michal Kwiatkowski",
+        "Wout Poels",
+        "Gianni Moscon",
+        "Jonathan Castroviejo",
+        "Luke Rowe"
+      ]
+    },
+    {
+      "user": "Total cost: 68",
+      "name": "BMC Racing Team",
+      "team": [
+        "Richie Porte",
+        "Damiano Caruso",
+        "Greg Van Avermaet",
+        "Tejay Van Garderen",
+        "Patrick Bevin",
+        "Simon Gerrans",
+        "Stefan Küng",
+        "Michael Schar"
+      ]
+    },
+    {
+      "user": "Total cost: 64",
+      "name": "BORA - hansgrohe",
+      "team": [
+        "Peter Sagan",
+        "Rafał Majka",
+        "Maciej Bodnar",
+        "Gregor Mühlberger",
+        "Daniel Oss",
+        "Pawel Poljanski",
+        "Lukas Pöstlberger",
+        "Marcus Burghardt"
+      ]
+    },
+    {
+      "user": "Total cost: 80",
+      "name": "Movistar Team",
+      "team": [
+        "Nairo Quintana",
+        "Mikel Landa",
+        "Alejandro Valverde",
+        "Andrey Amador",
+        "Marc Soler",
+        "Daniele Bennati",
+        "José Joaquín Rojas",
+        "Imanol Erviti"
+      ]
+    },
+    {
+      "user": "Total cost: 62",
+      "name": "Bahrain Merida Pro Cycling Team",
+      "team": [
+        "Vincenzo Nibali",
+        "Sonny Colbrelli",
+        "Ion Izagirre",
+        "Domenico Pozzovivo",
+        "Heinrich Haussler",
+        "Gorka Izagirre",
+        "Franco Pellizotti",
+        "Kristijan Koren"
+      ]
+    },
+    {
+      "user": "Total cost: 62",
+      "name": "Team Sunweb",
+      "team": [
+        "Tom Dumoulin",
+        "Michael Matthews",
+        "Søren Kragh Andersen",
+        "Nikias Arndt",
+        "Simon Geschke",
+        "Laurens Ten Dam",
+        "Edward Theuns",
+        "Chad Haga"
+      ]
+    },
+    {
+      "user": "Total cost: 66",
+      "name": "Quick-Step Floors",
+      "team": [
+        "Fernando Gaviria",
+        "Julian Alaphilippe",
+        "Bob Jungels",
+        "Philippe Gilbert",
+        "Yves Lampaert",
+        "Ariel Maximiliano Richeze",
+        "Niki Terpstra",
+        "Tim Declercq"
+      ]
+    },
+    {
+      "user": "Total cost: 58",
+      "name": "AG2R La Mondiale",
+      "team": [
+        "Romain Bardet",
+        "Pierre Latour",
+        "Silvan Dillier",
+        "Axel Domont",
+        "Mathias Frank",
+        "Tony Gallopin",
+        "Oliver Naesen",
+        "Alexis Vuillermoz"
+      ]
+    },
+    {
+      "user": "Total cost: 70",
+      "name": "Team LottoNL-Jumbo",
+      "team": [
+        "Dylan Groenewegen",
+        "Primoz Roglic",
+        "Steven Kruijswijk",
+        "Robert Gesink",
+        "Amund Grondahl Jansen",
+        "Paul Martens",
+        "Timo Roosen",
+        "Antwan Tolhoek"
+      ]
+    },
+    {
+      "user": "Total cost: 56",
+      "name": "Astana Pro Team",
+      "team": [
+        "Jakob Fuglsang",
+        "Luis Leon Sanchez",
+        "Magnus Cort Nielsen",
+        "Omar Fraile",
+        "Jesper Hansen",
+        "Tanel Kangert",
+        "Michael Valgren",
+        "Dmitriy Gruzdev"
+      ]
+    },
+    {
+      "user": "Total cost: 54",
+      "name": "Mitchelton-Scott",
+      "team": [
+        "Adam Yates",
+        "Daryl Impey",
+        "Mikel Nieve",
+        "Luke Durbridge",
+        "Damien Howson",
+        "Jack Bauer",
+        "Mathew Hayman",
+        "Michael Hepburn"
+      ]
+    },
+    {
+      "user": "Total cost: 56",
+      "name": "Team Katusha - Alpecin",
+      "team": [
+        "Marcel Kittel",
+        "Ilnur Zakarin",
+        "Ian Boswell",
+        "Robert Kišerlovski",
+        "Tony Martin",
+        "Nils Politt",
+        "Rick Zabel",
+        "Pavel Kochetkov"
+      ]
+    },
+    {
+      "user": "Total cost: 52",
+      "name": "EF Education First-Drapac p/b Cannondale",
+      "team": [
+        "Rigoberto Uran",
+        "Simon Clarke",
+        "Lawson Craddock",
+        "Daniel Felipe Martinez",
+        "Taylor Phinney",
+        "Pierre Rolland",
+        "Sep Vanmarcke",
+        "Thomas Scully"
+      ]
+    },
+    {
+      "user": "Total cost: 52",
+      "name": "Groupama - FDJ",
+      "team": [
+        "Arnaud Démare",
+        "David Gaudu",
+        "Jacopo Guarnieri",
+        "Olivier Le Gac",
+        "Rudy Molard",
+        "Ramon Sinkeldam",
+        "Arthur Vichot",
+        "Tobias Ludvigsson"
+      ]
+    },
+    {
+      "user": "Total cost: 54",
+      "name": "UAE-Team Emirates",
+      "team": [
+        "Daniel Martin",
+        "Alexander Kristoff",
+        "John Darwin Atapuma",
+        "Kristijan Durasek",
+        "Roberto Ferrari",
+        "Marco Marcato",
+        "Rory Sutherland",
+        "Oliviero Troia"
+      ]
+    },
+    {
+      "user": "Total cost: 54",
+      "name": "Lotto Soudal",
+      "team": [
+        "André Greipel",
+        "Tiesj Benoot",
+        "Thomas De Gendt",
+        "Jasper De Buyst",
+        "Jens Keukeleire",
+        "Tomasz Marczynski",
+        "Jelle Vanendert",
+        "Marcel Sieberg"
+      ]
+    },
+    {
+      "user": "Total cost: 50",
+      "name": "Dimension Data",
+      "team": [
+        "Mark Cavendish",
+        "Edvald Boasson Hagen",
+        "Reinardt Janse Van Rensburg",
+        "Serge Pauwels",
+        "Mark Renshaw",
+        "Tom-Jelte Slagter",
+        "Jay Robert Thomson",
+        "Julien Vermote"
+      ]
+    },
+    {
+      "user": "Total cost: 46",
+      "name": "Fortuneo - Samsic",
+      "team": [
+        "Warren Barguil",
+        "Maxime Bouet",
+        "Romain Hardy",
+        "Amaël Moinard",
+        "Florian Vachon",
+        "Elie Gesbert",
+        "Kevin Ledanois",
+        "Laurent Pichon"
+      ]
+    },
+    {
+      "user": "Total cost: 50",
+      "name": "Trek - Segafredo",
+      "team": [
+        "Bauke Mollema",
+        "John Degenkolb",
+        "Jasper Stuyven",
+        "Tsgabu Grmay",
+        "Toms Skujiņš",
+        "Julien Bernard",
+        "Koen De Kort",
+        "Michael Gogl"
+      ]
+    },
+    {
+      "user": "Total cost: 44",
+      "name": "Direct Energie",
+      "team": [
+        "Lilian Calmejane",
+        "Thomas Boudat",
+        "Sylvain Chavanel",
+        "Romain Sicard",
+        "Rein Taaramäe",
+        "Jérôme Cousin",
+        "Damien Gaudin",
+        "Fabien Grellier"
+      ]
+    },
+    {
+      "user": "Total cost: 42",
+      "name": "Cofidis Solutions Crédits",
+      "team": [
+        "Nicolas Edet",
+        "Jesús Herrada",
+        "Christophe Laporte",
+        "Daniel Navarro",
+        "Anthony Perez",
+        "Dimitri Claeys",
+        "Julien Simon",
+        "Anthony Turgis"
+      ]
+    },
+    {
+      "user": "Total cost: 38",
+      "name": "Wanty - Groupe Gobert",
+      "team": [
+        "Guillaume Martin",
+        "Yoann Offredo",
+        "Dion Smith",
+        "Thomas Degand",
+        "Timothy Dupont",
+        "Marco Minnaard",
+        "Andrea Pasqualon",
+        "Guillaume Van Keirsbulck"
+      ]
+    }
+  ]
+}

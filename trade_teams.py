@@ -52,10 +52,10 @@ if __name__ == '__main__':
         if len(teams[team]) != 8:
             print(f'Invalid rider count in {team}')
         league['teams'].append({
-                'user': team,
-                'name': TEAM_CODES[team],
-                'team': [rider['name'] for rider in sorted(teams[team], key=lambda r: r['cost'], reverse=True)]
-            })
+            'user': 'Total cost: {}'.format(sum([r['cost'] for r in teams[team]])),
+            'name': TEAM_CODES[team],
+            'team': [rider['name'] for rider in sorted(teams[team], key=lambda r: r['cost'], reverse=True)]
+        })
 
     with open('tradeteams.json', 'w', encoding='utf-8') as w:
         json.dump(league, w)
