@@ -54,7 +54,7 @@ if __name__ == '__main__':
         league['teams'].append({
                 'user': team,
                 'name': TEAM_CODES[team],
-                'team': [rider['name'] for rider in sorted(teams[team], key=lambda r: r['cost'])]
+                'team': [rider['name'] for rider in sorted(teams[team], key=lambda r: r['cost'], reverse=True)]
             })
 
     with open('tradeteams.json', 'w', encoding='utf-8') as w:
