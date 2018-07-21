@@ -14,8 +14,21 @@ LEAGUE_URL = 'https://www.velogames.com/tour-de-france/2018/leaguescores.php?lea
 TEAM_URL = 'https://www.velogames.com/tour-de-france/2018/teamroster.php?tid={tid}'
 
 
-def get_soup(url):
-    r = requests.get(url)
+def get_soup(url, retry=0):
+    try:
+        r = requests.get(url)
+    except:
+        r = False
+
+    if r is False:
+        if retry >= 3:
+            print('Aborting...')
+            return None
+        print('\nError: Exception occured\nSuspending...')
+        time.sleep(5.0)
+        print(f'Retrying: attempt {retry+1}')
+        return get_soup(url, retry + 1)
+
     if not r.ok:
         print('Error loading url "{}": {}'.format(url, r.code))
 
@@ -93,7 +106,7 @@ def main(league_id):
     for n, team in enumerate(teams):
         print('.', end='', flush=True)
         team['team'] = load_team(team['tid'])
-        time.sleep(0.188)
+        time.sleep(0.333)
     print('DONE')
 
     league = {
