@@ -352,6 +352,14 @@ $(function() {
         $('tfoot', table).add(app.stageScoreRow('Total', totalScore));
 
         $('#app').add(table);
+
+        $('#app').add(
+            EE('div', {$: 'intro'},
+                EE('p',
+                    EE('a', {'href': '/#riders'}, 'See all riders')
+                )
+            )
+        );
     };
 
 })(App);
