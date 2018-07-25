@@ -47,7 +47,7 @@ def normalize_names(results, names):
         _normalize_keys(results, names, ['Stg', 'Spr', 'Bky'])
         cat1 = []
         for i, entries in enumerate(results['Sum']['cat1']):
-            print('Processing cat...')
+            print('Processing cat1...')
             cat1.append(_normalize_list(entries, names))
         results['Sum']['cat1'] = cat1
 
