@@ -116,6 +116,9 @@ def main(riders, stages):
             calculate_stage(scores, results)
             calculate_assists(teamscores, assistscores, results)
 
+        if results['type'] == 'tt':
+            calculate_stage(scores, results)
+
         calculate_daily(scores, results)
 
         # convert team/assist points
