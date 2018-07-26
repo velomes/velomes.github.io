@@ -21,6 +21,13 @@ SCORE_DATA = {
     'Ass': [6, 4, 2],
 
     'TTT': [40, 35, 30, 25, 20, 15, 10, 5],
+
+    'final': {
+        'GC': [500, 400, 350, 300, 260, 220, 200, 180, 160, 140, 130, 120, 110, 100, 90, 80, 70, 65, 60, 55, 50, 45, 40, 35, 30, 25, 20, 15, 10, 5],
+        'PC': [100, 80, 60, 50, 40, 30, 20, 15, 10, 5],
+        'KOM': [100, 80, 60, 50, 40, 30, 20, 15, 10, 5],
+        'Ass': [40, 30, 20, 10, 5],
+    },
 }
 
 DONT_CHECK = ['Bky', 'KOM']
@@ -49,6 +56,14 @@ def calculate_ttt(scores, results):
     score = score_key(results[key], SCORE_DATA['TTT'], True)
     add_points(scores, key, score)
     print('DONE')
+
+
+def calculate_final(scores, results):
+    print('Final', end=' ')
+    for key in ['GC', 'PC', 'KOM', 'Ass']:
+        print(key, end=' ')
+        score = score_key(results[key], SCORE_DATA['final'][key])
+        add_points(scores['riders'], key, score)
 
 
 def calculate_stage(scores, results):
@@ -119,7 +134,11 @@ def main(riders, stages):
         if results['type'] == 'tt':
             calculate_stage(scores, results)
 
-        calculate_daily(scores, results)
+        if results['type'] == 'final':
+            calculate_final(scores, results)
+
+        if results['type'] != 'final':
+            calculate_daily(scores, results)
 
         # convert team/assist points
         abandons = set(results['abandons'])
