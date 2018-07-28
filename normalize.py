@@ -43,7 +43,7 @@ def swap_team_code(entries, key):
 
 
 def normalize_names(results, names):
-    if results['type'] == 'road':
+    if results['type'] == 'road' or results['type'] == 'tt':
         _normalize_keys(results, names, ['Stg', 'Spr', 'Bky'])
         cat1 = []
         for i, entries in enumerate(results['Sum']['cat1']):
