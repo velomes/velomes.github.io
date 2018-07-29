@@ -1,0 +1,74 @@
+{
+  "stage": "final",
+  "type": "final",
+  "GC": [
+    "Geraint Thomas",
+    "Tom Dumoulin",
+    "Christopher Froome",
+    "Primoz Roglic",
+    "Steven Kruijswijk",
+    "Romain Bardet",
+    "Mikel Landa",
+    "Daniel Martin",
+    "Ilnur Zakarin",
+    "Nairo Quintana",
+    "Bob Jungels",
+    "Jakob Fuglsang",
+    "Pierre Latour",
+    "Alejandro Valverde",
+    "Egan Arley Bernal",
+    "Tanel Kangert",
+    "Warren Barguil",
+    "Domenico Pozzovivo",
+    "Rafał Majka",
+    "Damiano Caruso",
+    "Guillaume Martin",
+    "Ion Izagirre",
+    "Mikel Nieve",
+    "Gorka Izagirre",
+    "Simon Geschke",
+    "Bauke Mollema",
+    "Pierre Rolland",
+    "Greg Van Avermaet",
+    "Adam Yates",
+    "Lilian Calmejane"
+  ],
+  "PC": [
+    "Peter Sagan",
+    "Alexander Kristoff",
+    "Arnaud Démare",
+    "John Degenkolb",
+    "Julian Alaphilippe",
+    "Greg Van Avermaet",
+    "Andrea Pasqualon",
+    "Geraint Thomas",
+    "Sonny Colbrelli",
+    "Daniel Martin"
+  ],
+  "KOM": [
+    "Julian Alaphilippe",
+    "Warren Barguil",
+    "Rafał Majka",
+    "Geraint Thomas",
+    "Tom Dumoulin",
+    "Primoz Roglic",
+    "Daniel Martin",
+    "Nairo Quintana",
+    "Tanel Kangert",
+    "Steven Kruijswijk"
+  ],
+  "Sum": {
+    "hc": [],
+    "cat1": []
+  },
+  "Ass": {
+    "TC": [
+      "MOV",
+      "TBM",
+      "SKY",
+      "TLJ",
+      "AST"
+    ]
+  },
+  "abandons": []
+}

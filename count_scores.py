@@ -60,10 +60,15 @@ def calculate_ttt(scores, results):
 
 def calculate_final(scores, results):
     print('Final', end=' ')
-    for key in ['GC', 'PC', 'KOM', 'Ass']:
+    for key in ['GC', 'PC', 'KOM']:
         print(key, end=' ')
         score = score_key(results[key], SCORE_DATA['final'][key])
         add_points(scores['riders'], key, score)
+
+
+def calculate_fina_ass(teamscores, results):
+    score = score_key(results['Ass']['TC'], SCORE_DATA['final']['Ass'], True)
+    add_points(teamscores, 'Ass', score)
 
 
 def calculate_stage(scores, results):
@@ -111,9 +116,9 @@ def calculate_assists(teamscores, assistscores, results):
 def main(riders, stages):
     rider_list = [{'name': rider, 'team': riders[rider]['team']} for rider in riders]
 
-    for stage in map(int, stages):
-        print(f'Processing stage {stage:02d}...')
-        with open(f'./results/{stage:02d}.fix.json', 'r', encoding='utf-8') as f:
+    for stage in stages:
+        print(f'Processing stage {stage}...')
+        with open(f'./results/{stage}.fix.json', 'r', encoding='utf-8') as f:
             results = json.load(f)
 
         # add up scores
@@ -136,6 +141,7 @@ def main(riders, stages):
 
         if results['type'] == 'final':
             calculate_final(scores, results)
+            calculate_fina_ass(teamscores, results)
 
         if results['type'] != 'final':
             calculate_daily(scores, results)
@@ -161,9 +167,9 @@ def main(riders, stages):
         for rider in scores['riders']:
             score = sum([v for v in scores['riders'][rider].values()])
             total += score
-        print('Stage {:02d}: {} riders scored total of {} points'.format(stage, len(scores['riders']), total))
+        print('Stage {}: {} riders scored total of {} points'.format(stage, len(scores['riders']), total))
 
-        with open(f'./scores/{stage:02d}.json', 'w', encoding='utf-8') as f:
+        with open(f'./scores/{stage}.json', 'w', encoding='utf-8') as f:
             json.dump(scores, f)
 
 

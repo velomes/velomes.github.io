@@ -151,8 +151,8 @@ $(function() {
         for (var i = 1; i <= 21; i++) {
             div.add(app.stageButton(i, hsh(i), stage==i.toString(), i in app.scores['stages']));
         }
-        var f = EE('span', {$: 'select-btn' + (stage=='F'?' selected':'')}, 'F');
-        div.add(app.stageButton('F', hsh('F'), stage=='F', i in app.scores['stages']));
+        var f = EE('span', {$: 'select-btn' + (stage=='final'?' selected':'')}, 'F');
+        div.add(app.stageButton('F', hsh('final'), stage=='final', 'final' in app.scores['stages']));
 
         return EE('div', {$: 'middle-list'}, div);
     };
@@ -274,6 +274,7 @@ $(function() {
     };
 
     app.DisplayRiders = function(stage) {
+        console.log(stage);
         $('#app').fill(EE('div', {$: 'title'}, 'Scores'));
 
         var scores = stage == 'total' ?
@@ -344,7 +345,9 @@ $(function() {
         }
 
         /* final */
-        var finalScore = getKeyOr(getKeyOr(app.scores, 'final', {}), rider, {});
+        console.log(app.scores['stages']['final']);
+        var finalStage = getKeyOr(app.scores['stages'], 'final', {'riders': {}});
+        var finalScore = getKeyOr(finalStage['riders'], rider, {});
         $('tbody', table).add(app.stageScoreRow('Final', finalScore));
 
         /* totals */
