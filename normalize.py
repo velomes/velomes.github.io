@@ -12,30 +12,34 @@ LENGTH_MISMATCH = 9
 
 # ([\d▲▼-]+\t)+([^\t]+)\t.*
 
-team_codes = {
-    "AG2R La Mondiale": "ALM",
-    "Astana Pro Team": "AST",
-    "Bahrain Merida Pro Cycling Team": "TBM",
-    "BMC Racing Team": "BMC",
-    "BORA - hansgrohe": "BOH",
-    "Groupama - FDJ": "GFC",
-    "Lotto Soudal": "LTS",
-    "Mitchelton-Scott": "MTS",
-    "Movistar Team": "MOV",
-    "Quick-Step Floors": "QST",
-    "Dimension Data": "DDD",
-    "EF Education First-Drapac p/b Cannondale": "EFD",
-    "Team Katusha - Alpecin": "TKA",
-    "Team LottoNL-Jumbo": "TLJ",
-    "Team Sky": "SKY",
-    "Team Sunweb": "SUN",
-    "Trek - Segafredo": "TFS",
-    "UAE-Team Emirates": "UAD",
-    "Fortuneo - Samsic": "FST",
-    "Wanty - Groupe Gobert": "WGG",
-    "Direct Energie": "TDE",
-    "Cofidis Solutions Crédits": "COF",
+teams = {
+  "ALM": "Ag2r La Mondiale",
+  "AST": "Astana Pro Team",
+  "BOH": "BORA - hansgrohe",
+  "CCC": "CCC Team",
+  "COF": "Cofidis, solutions crédits",
+  "DQT": "Deceuninck-Quick Step",
+  "EF1": "EF Education First",
+  "FST": "Fortuneo - Samsic",
+  "GFC": "Groupama-FDJ",
+  "INS": "Team Ineos",
+  "LTS": "Lotto Soudal",
+  "MOV": "Movistar Team",
+  "MTS": "Mitchelton-Scott",
+  "PCB": "Team Arkéa-Samsic",
+  "SUN": "Team Sunweb",
+  "TBM": "Bahrain - Merida",
+  "TDD": "Team Dimension Data",
+  "TDE": "Total Direct Energie",
+  "TFS": "Trek - Segafredo",
+  "TJV": "Team Jumbo-Visma",
+  "TKA": "Team Katusha - Alpecin",
+  "TLJ": "Team LottoNL-Jumbo",
+  "UAD": "UAE-Team Emirates",
+  "WGG": "Wanty - Gobert Cycling Team"
 }
+
+team_codes = {name: code for code, name in teams.items()}
 
 
 def swap_team_code(entries, key):

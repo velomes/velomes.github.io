@@ -1,706 +1,530 @@
 {
-  "Christopher Froome": {
-    "team": "SKY",
-    "cost": 26
-  },
-  "Richie Porte": {
-    "team": "BMC",
-    "cost": 22
-  },
-  "Peter Sagan": {
-    "team": "BOH",
-    "cost": 20
-  },
-  "Nairo Quintana": {
-    "team": "MOV",
-    "cost": 18
-  },
-  "Vincenzo Nibali": {
-    "team": "TBM",
-    "cost": 16
-  },
-  "Tom Dumoulin": {
-    "team": "SUN",
-    "cost": 16
-  },
-  "Mikel Landa": {
-    "team": "MOV",
-    "cost": 16
-  },
-  "Fernando Gaviria": {
-    "team": "QST",
-    "cost": 16
-  },
-  "Romain Bardet": {
-    "team": "ALM",
-    "cost": 14
-  },
-  "Dylan Groenewegen": {
-    "team": "TLJ",
-    "cost": 14
-  },
-  "Primoz Roglic": {
-    "team": "TLJ",
-    "cost": 14
-  },
-  "Jakob Fuglsang": {
-    "team": "AST",
-    "cost": 14
-  },
   "Geraint Thomas": {
-    "team": "SKY",
-    "cost": 14
+    "team": "INS"
   },
-  "Adam Yates": {
-    "team": "MTS",
-    "cost": 14
-  },
-  "Alejandro Valverde": {
-    "team": "MOV",
-    "cost": 14
-  },
-  "Marcel Kittel": {
-    "team": "TKA",
-    "cost": 12
-  },
-  "Egan Arley Bernal": {
-    "team": "SKY",
-    "cost": 12
-  },
-  "Michal Kwiatkowski": {
-    "team": "SKY",
-    "cost": 12
-  },
-  "Wout Poels": {
-    "team": "SKY",
-    "cost": 12
-  },
-  "Rigoberto Uran": {
-    "team": "EFD",
-    "cost": 12
-  },
-  "Michael Matthews": {
-    "team": "SUN",
-    "cost": 12
-  },
-  "Arnaud Démare": {
-    "team": "GFC",
-    "cost": 12
-  },
-  "Daniel Martin": {
-    "team": "UAD",
-    "cost": 12
-  },
-  "Ilnur Zakarin": {
-    "team": "TKA",
-    "cost": 10
-  },
-  "André Greipel": {
-    "team": "LTS",
-    "cost": 10
-  },
-  "Mark Cavendish": {
-    "team": "DDD",
-    "cost": 10
-  },
-  "Steven Kruijswijk": {
-    "team": "TLJ",
-    "cost": 10
-  },
-  "Warren Barguil": {
-    "team": "FST",
-    "cost": 10
-  },
-  "Julian Alaphilippe": {
-    "team": "QST",
-    "cost": 10
-  },
-  "Bauke Mollema": {
-    "team": "TFS",
-    "cost": 10
-  },
-  "Rafał Majka": {
-    "team": "BOH",
-    "cost": 10
-  },
-  "Bob Jungels": {
-    "team": "QST",
-    "cost": 10
-  },
-  "Alexander Kristoff": {
-    "team": "UAD",
-    "cost": 10
-  },
-  "Pierre Latour": {
-    "team": "ALM",
-    "cost": 8
-  },
-  "Tiesj Benoot": {
-    "team": "LTS",
-    "cost": 8
-  },
-  "Thomas De Gendt": {
-    "team": "LTS",
-    "cost": 8
-  },
-  "Robert Gesink": {
-    "team": "TLJ",
-    "cost": 8
-  },
-  "Edvald Boasson Hagen": {
-    "team": "DDD",
-    "cost": 8
-  },
-  "Lilian Calmejane": {
-    "team": "TDE",
-    "cost": 8
-  },
-  "Luis Leon Sanchez": {
-    "team": "AST",
-    "cost": 8
-  },
-  "Sonny Colbrelli": {
-    "team": "TBM",
-    "cost": 8
-  },
-  "Daryl Impey": {
-    "team": "MTS",
-    "cost": 8
-  },
-  "Gianni Moscon": {
-    "team": "SKY",
-    "cost": 8
-  },
-  "Ion Izagirre": {
-    "team": "TBM",
-    "cost": 8
-  },
-  "Mikel Nieve": {
-    "team": "MTS",
-    "cost": 8
-  },
-  "Andrey Amador": {
-    "team": "MOV",
-    "cost": 8
-  },
-  "Domenico Pozzovivo": {
-    "team": "TBM",
-    "cost": 8
-  },
-  "Marc Soler": {
-    "team": "MOV",
-    "cost": 8
-  },
-  "Damiano Caruso": {
-    "team": "BMC",
-    "cost": 8
-  },
-  "Greg Van Avermaet": {
-    "team": "BMC",
-    "cost": 8
-  },
-  "Tejay Van Garderen": {
-    "team": "BMC",
-    "cost": 8
-  },
-  "John Degenkolb": {
-    "team": "TFS",
-    "cost": 8
-  },
-  "Philippe Gilbert": {
-    "team": "QST",
-    "cost": 8
-  },
-  "Jasper Stuyven": {
-    "team": "TFS",
-    "cost": 8
-  },
-  "Nicolas Edet": {
-    "team": "COF",
-    "cost": 6
-  },
-  "Silvan Dillier": {
-    "team": "ALM",
-    "cost": 6
-  },
-  "Axel Domont": {
-    "team": "ALM",
-    "cost": 6
-  },
-  "Jesús Herrada": {
-    "team": "COF",
-    "cost": 6
-  },
-  "Mathias Frank": {
-    "team": "ALM",
-    "cost": 6
-  },
-  "Christophe Laporte": {
-    "team": "COF",
-    "cost": 6
-  },
-  "Tony Gallopin": {
-    "team": "ALM",
-    "cost": 6
-  },
-  "Ian Boswell": {
-    "team": "TKA",
-    "cost": 6
-  },
-  "Daniel Navarro": {
-    "team": "COF",
-    "cost": 6
-  },
-  "Anthony Perez": {
-    "team": "COF",
-    "cost": 6
-  },
-  "Oliver Naesen": {
-    "team": "ALM",
-    "cost": 6
-  },
-  "Guillaume Martin": {
-    "team": "WGG",
-    "cost": 6
-  },
-  "Robert Kišerlovski": {
-    "team": "TKA",
-    "cost": 6
-  },
-  "Yoann Offredo": {
-    "team": "WGG",
-    "cost": 6
-  },
-  "Alexis Vuillermoz": {
-    "team": "ALM",
-    "cost": 6
-  },
-  "Dion Smith": {
-    "team": "WGG",
-    "cost": 6
-  },
-  "Tony Martin": {
-    "team": "TKA",
-    "cost": 6
-  },
-  "Nils Politt": {
-    "team": "TKA",
-    "cost": 6
-  },
-  "Jasper De Buyst": {
-    "team": "LTS",
-    "cost": 6
-  },
-  "Rick Zabel": {
-    "team": "TKA",
-    "cost": 6
-  },
-  "Jens Keukeleire": {
-    "team": "LTS",
-    "cost": 6
-  },
-  "Tomasz Marczynski": {
-    "team": "LTS",
-    "cost": 6
-  },
-  "Amund Grondahl Jansen": {
-    "team": "TLJ",
-    "cost": 6
-  },
-  "Jelle Vanendert": {
-    "team": "LTS",
-    "cost": 6
-  },
-  "Paul Martens": {
-    "team": "TLJ",
-    "cost": 6
-  },
-  "Timo Roosen": {
-    "team": "TLJ",
-    "cost": 6
-  },
-  "Reinardt Janse Van Rensburg": {
-    "team": "DDD",
-    "cost": 6
-  },
-  "Antwan Tolhoek": {
-    "team": "TLJ",
-    "cost": 6
-  },
-  "Magnus Cort Nielsen": {
-    "team": "AST",
-    "cost": 6
-  },
-  "Serge Pauwels": {
-    "team": "DDD",
-    "cost": 6
-  },
-  "Mark Renshaw": {
-    "team": "DDD",
-    "cost": 6
-  },
-  "Tom-Jelte Slagter": {
-    "team": "DDD",
-    "cost": 6
-  },
-  "Omar Fraile": {
-    "team": "AST",
-    "cost": 6
-  },
-  "Thomas Boudat": {
-    "team": "TDE",
-    "cost": 6
-  },
-  "Jesper Hansen": {
-    "team": "AST",
-    "cost": 6
-  },
-  "Sylvain Chavanel": {
-    "team": "TDE",
-    "cost": 6
-  },
-  "Tanel Kangert": {
-    "team": "AST",
-    "cost": 6
+  "Egan Bernal": {
+    "team": "INS"
   },
   "Jonathan Castroviejo": {
-    "team": "SKY",
-    "cost": 6
+    "team": "INS"
   },
-  "Michael Valgren": {
-    "team": "AST",
-    "cost": 6
+  "Michał Kwiatkowski": {
+    "team": "INS"
   },
-  "Romain Sicard": {
-    "team": "TDE",
-    "cost": 6
+  "Gianni Moscon": {
+    "team": "INS"
   },
-  "Luke Durbridge": {
-    "team": "MTS",
-    "cost": 6
-  },
-  "Rein Taaramäe": {
-    "team": "TDE",
-    "cost": 6
-  },
-  "Damien Howson": {
-    "team": "MTS",
-    "cost": 6
-  },
-  "Simon Clarke": {
-    "team": "EFD",
-    "cost": 6
-  },
-  "Lawson Craddock": {
-    "team": "EFD",
-    "cost": 6
-  },
-  "Heinrich Haussler": {
-    "team": "TBM",
-    "cost": 6
-  },
-  "Gorka Izagirre": {
-    "team": "TBM",
-    "cost": 6
+  "Wout Poels": {
+    "team": "INS"
   },
   "Luke Rowe": {
-    "team": "SKY",
-    "cost": 6
+    "team": "INS"
   },
-  "Daniel Felipe Martinez": {
-    "team": "EFD",
-    "cost": 6
+  "Dylan van Baarle": {
+    "team": "INS"
   },
-  "Franco Pellizotti": {
-    "team": "TBM",
-    "cost": 6
+  "Peter Sagan": {
+    "team": "BOH"
   },
-  "Taylor Phinney": {
-    "team": "EFD",
-    "cost": 6
-  },
-  "Søren Kragh Andersen": {
-    "team": "SUN",
-    "cost": 6
-  },
-  "Pierre Rolland": {
-    "team": "EFD",
-    "cost": 6
-  },
-  "Nikias Arndt": {
-    "team": "SUN",
-    "cost": 6
-  },
-  "Daniele Bennati": {
-    "team": "MOV",
-    "cost": 6
-  },
-  "Sep Vanmarcke": {
-    "team": "EFD",
-    "cost": 6
-  },
-  "Simon Geschke": {
-    "team": "SUN",
-    "cost": 6
-  },
-  "Laurens Ten Dam": {
-    "team": "SUN",
-    "cost": 6
-  },
-  "José Joaquín Rojas": {
-    "team": "MOV",
-    "cost": 6
-  },
-  "Edward Theuns": {
-    "team": "SUN",
-    "cost": 6
-  },
-  "Patrick Bevin": {
-    "team": "BMC",
-    "cost": 6
-  },
-  "David Gaudu": {
-    "team": "GFC",
-    "cost": 6
-  },
-  "Simon Gerrans": {
-    "team": "BMC",
-    "cost": 6
-  },
-  "Jacopo Guarnieri": {
-    "team": "GFC",
-    "cost": 6
-  },
-  "Stefan Küng": {
-    "team": "BMC",
-    "cost": 6
-  },
-  "Olivier Le Gac": {
-    "team": "GFC",
-    "cost": 6
-  },
-  "Rudy Molard": {
-    "team": "GFC",
-    "cost": 6
-  },
-  "Ramon Sinkeldam": {
-    "team": "GFC",
-    "cost": 6
-  },
-  "Maciej Bodnar": {
-    "team": "BOH",
-    "cost": 6
-  },
-  "Arthur Vichot": {
-    "team": "GFC",
-    "cost": 6
-  },
-  "Tsgabu Grmay": {
-    "team": "TFS",
-    "cost": 6
-  },
-  "Maxime Bouet": {
-    "team": "FST",
-    "cost": 6
-  },
-  "Gregor Mühlberger": {
-    "team": "BOH",
-    "cost": 6
-  },
-  "Daniel Oss": {
-    "team": "BOH",
-    "cost": 6
-  },
-  "Toms Skujiņš": {
-    "team": "TFS",
-    "cost": 6
-  },
-  "Romain Hardy": {
-    "team": "FST",
-    "cost": 6
-  },
-  "Pawel Poljanski": {
-    "team": "BOH",
-    "cost": 6
-  },
-  "Yves Lampaert": {
-    "team": "QST",
-    "cost": 6
-  },
-  "Lukas Pöstlberger": {
-    "team": "BOH",
-    "cost": 6
-  },
-  "John Darwin Atapuma": {
-    "team": "UAD",
-    "cost": 6
-  },
-  "Amaël Moinard": {
-    "team": "FST",
-    "cost": 6
-  },
-  "Ariel Maximiliano Richeze": {
-    "team": "QST",
-    "cost": 6
-  },
-  "Florian Vachon": {
-    "team": "FST",
-    "cost": 6
-  },
-  "Kristijan Durasek": {
-    "team": "UAD",
-    "cost": 6
-  },
-  "Roberto Ferrari": {
-    "team": "UAD",
-    "cost": 6
-  },
-  "Niki Terpstra": {
-    "team": "QST",
-    "cost": 6
-  },
-  "Marco Marcato": {
-    "team": "UAD",
-    "cost": 6
-  },
-  "Dimitri Claeys": {
-    "team": "COF",
-    "cost": 4
-  },
-  "Thomas Degand": {
-    "team": "WGG",
-    "cost": 4
-  },
-  "Timothy Dupont": {
-    "team": "WGG",
-    "cost": 4
-  },
-  "Julien Simon": {
-    "team": "COF",
-    "cost": 4
-  },
-  "Anthony Turgis": {
-    "team": "COF",
-    "cost": 4
-  },
-  "Pavel Kochetkov": {
-    "team": "TKA",
-    "cost": 4
-  },
-  "Marco Minnaard": {
-    "team": "WGG",
-    "cost": 4
-  },
-  "Andrea Pasqualon": {
-    "team": "WGG",
-    "cost": 4
-  },
-  "Guillaume Van Keirsbulck": {
-    "team": "WGG",
-    "cost": 4
-  },
-  "Marcel Sieberg": {
-    "team": "LTS",
-    "cost": 4
-  },
-  "Jay Robert Thomson": {
-    "team": "DDD",
-    "cost": 4
-  },
-  "Julien Vermote": {
-    "team": "DDD",
-    "cost": 4
-  },
-  "Dmitriy Gruzdev": {
-    "team": "AST",
-    "cost": 4
-  },
-  "Jérôme Cousin": {
-    "team": "TDE",
-    "cost": 4
-  },
-  "Damien Gaudin": {
-    "team": "TDE",
-    "cost": 4
-  },
-  "Fabien Grellier": {
-    "team": "TDE",
-    "cost": 4
-  },
-  "Jack Bauer": {
-    "team": "MTS",
-    "cost": 4
-  },
-  "Mathew Hayman": {
-    "team": "MTS",
-    "cost": 4
-  },
-  "Michael Hepburn": {
-    "team": "MTS",
-    "cost": 4
-  },
-  "Kristijan Koren": {
-    "team": "TBM",
-    "cost": 4
-  },
-  "Thomas Scully": {
-    "team": "EFD",
-    "cost": 4
-  },
-  "Chad Haga": {
-    "team": "SUN",
-    "cost": 4
-  },
-  "Imanol Erviti": {
-    "team": "MOV",
-    "cost": 4
-  },
-  "Tobias Ludvigsson": {
-    "team": "GFC",
-    "cost": 4
-  },
-  "Michael Schar": {
-    "team": "BMC",
-    "cost": 4
-  },
-  "Julien Bernard": {
-    "team": "TFS",
-    "cost": 4
-  },
-  "Koen De Kort": {
-    "team": "TFS",
-    "cost": 4
-  },
-  "Michael Gogl": {
-    "team": "TFS",
-    "cost": 4
+  "Emanuel Buchmann": {
+    "team": "BOH"
   },
   "Marcus Burghardt": {
-    "team": "BOH",
-    "cost": 4
+    "team": "BOH"
   },
-  "Tim Declercq": {
-    "team": "QST",
-    "cost": 4
+  "Patrick Konrad": {
+    "team": "BOH"
+  },
+  "Gregor Mühlberger": {
+    "team": "BOH"
+  },
+  "Daniel Oss": {
+    "team": "BOH"
+  },
+  "Lukas Pöstlberger": {
+    "team": "BOH"
+  },
+  "Maximilian Schachmann": {
+    "team": "BOH"
+  },
+  "Julian Alaphilippe": {
+    "team": "DQT"
+  },
+  "Kasper Asgreen": {
+    "team": "DQT"
+  },
+  "Dries Devenyns": {
+    "team": "DQT"
+  },
+  "Yves Lampaert": {
+    "team": "DQT"
+  },
+  "Enric Mas": {
+    "team": "DQT"
+  },
+  "Michael Mørkøv": {
+    "team": "DQT"
+  },
+  "Maximiliano Richeze": {
+    "team": "DQT"
+  },
+  "Elia Viviani": {
+    "team": "DQT"
+  },
+  "Romain Bardet": {
+    "team": "ALM"
+  },
+  "Mikaël Chérel": {
+    "team": "ALM"
+  },
+  "Benoît Cosnefroy": {
+    "team": "ALM"
+  },
+  "Mathias Frank": {
+    "team": "ALM"
+  },
+  "Tony Gallopin": {
+    "team": "ALM"
+  },
+  "Alexis Gougeard": {
+    "team": "ALM"
+  },
+  "Oliver Naesen": {
+    "team": "ALM"
+  },
+  "Alexis Vuillermoz": {
+    "team": "ALM"
+  },
+  "Vincenzo Nibali": {
+    "team": "TBM"
+  },
+  "Damiano Caruso": {
+    "team": "TBM"
+  },
+  "Sonny Colbrelli": {
+    "team": "TBM"
+  },
+  "Rohan Dennis": {
+    "team": "TBM"
+  },
+  "Iván Cortina": {
+    "team": "TBM"
+  },
+  "Matej Mohorič": {
+    "team": "TBM"
+  },
+  "Dylan Teuns": {
+    "team": "TBM"
+  },
+  "Jan Tratnik": {
+    "team": "TBM"
+  },
+  "Thibaut Pinot": {
+    "team": "GFC"
+  },
+  "William Bonnet": {
+    "team": "GFC"
+  },
+  "David Gaudu": {
+    "team": "GFC"
+  },
+  "Stefan Küng": {
+    "team": "GFC"
+  },
+  "Matthieu Ladagnous": {
+    "team": "GFC"
+  },
+  "Rudy Molard": {
+    "team": "GFC"
+  },
+  "Sébastien Reichenbach": {
+    "team": "GFC"
+  },
+  "Anthony Roux": {
+    "team": "GFC"
+  },
+  "Nairo Quintana": {
+    "team": "MOV"
+  },
+  "Alejandro Valverde": {
+    "team": "MOV"
+  },
+  "Andrey Amador": {
+    "team": "MOV"
+  },
+  "Imanol Erviti": {
+    "team": "MOV"
+  },
+  "Mikel Landa": {
+    "team": "MOV"
+  },
+  "Nelson Oliveira": {
+    "team": "MOV"
+  },
+  "Marc Soler": {
+    "team": "MOV"
+  },
+  "Carlos Verona": {
+    "team": "MOV"
+  },
+  "Jakob Fuglsang": {
+    "team": "AST"
+  },
+  "Pello Bilbao": {
+    "team": "AST"
+  },
+  "Omar Fraile": {
+    "team": "AST"
+  },
+  "Hugo Houle": {
+    "team": "AST"
+  },
+  "Gorka Izagirre": {
+    "team": "AST"
+  },
+  "Alexey Lutsenko": {
+    "team": "AST"
+  },
+  "Magnus Cort": {
+    "team": "AST"
+  },
+  "Luis León Sánchez": {
+    "team": "AST"
+  },
+  "Steven Kruijswijk": {
+    "team": "TJV"
+  },
+  "George Bennett": {
+    "team": "TJV"
+  },
+  "Laurens De Plus": {
+    "team": "TJV"
+  },
+  "Dylan Groenewegen": {
+    "team": "TJV"
+  },
+  "Amund Grøndahl Jansen": {
+    "team": "TJV"
+  },
+  "Tony Martin": {
+    "team": "TJV"
+  },
+  "Mike Teunissen": {
+    "team": "TJV"
+  },
+  "Wout van Aert": {
+    "team": "TJV"
+  },
+  "Rigoberto Urán": {
+    "team": "EF1"
+  },
+  "Alberto Bettiol": {
+    "team": "EF1"
+  },
+  "Simon Clarke": {
+    "team": "EF1"
+  },
+  "Tanel Kangert": {
+    "team": "EF1"
+  },
+  "Sebastian Langeveld": {
+    "team": "EF1"
+  },
+  "Tom Scully": {
+    "team": "EF1"
+  },
+  "Tejay van Garderen": {
+    "team": "EF1"
+  },
+  "Michael Woods": {
+    "team": "EF1"
+  },
+  "Adam Yates": {
+    "team": "MTS"
+  },
+  "Luke Durbridge": {
+    "team": "MTS"
+  },
+  "Jack Haig": {
+    "team": "MTS"
+  },
+  "Michael Hepburn": {
+    "team": "MTS"
+  },
+  "Daryl Impey": {
+    "team": "MTS"
+  },
+  "Christopher Juul-Jensen": {
+    "team": "MTS"
+  },
+  "Matteo Trentin": {
+    "team": "MTS"
+  },
+  "Simon Yates": {
+    "team": "MTS"
+  },
+  "Greg Van Avermaet": {
+    "team": "CCC"
+  },
+  "Patrick Bevin": {
+    "team": "CCC"
+  },
+  "Alessandro De Marchi": {
+    "team": "CCC"
+  },
+  "Simon Geschke": {
+    "team": "CCC"
+  },
+  "Serge Pauwels": {
+    "team": "CCC"
+  },
+  "Joey Rosskopf": {
+    "team": "CCC"
+  },
+  "Michael Schär": {
+    "team": "CCC"
+  },
+  "Łukasz Wiśniowski": {
+    "team": "CCC"
+  },
+  "Daniel Martin": {
+    "team": "UAD"
+  },
+  "Fabio Aru": {
+    "team": "UAD"
+  },
+  "Sven Erik Bystrøm": {
+    "team": "UAD"
+  },
+  "Rui Costa": {
+    "team": "UAD"
+  },
+  "Sergio Henao": {
+    "team": "UAD"
+  },
+  "Alexander Kristoff": {
+    "team": "UAD"
+  },
+  "Vegard Laengen": {
+    "team": "UAD"
+  },
+  "Jasper Philipsen": {
+    "team": "UAD"
+  },
+  "Richie Porte": {
+    "team": "TFS"
+  },
+  "Julien Bernard": {
+    "team": "TFS"
+  },
+  "Giulio Ciccone": {
+    "team": "TFS"
+  },
+  "Koen de Kort": {
+    "team": "TFS"
+  },
+  "Fabio Felline": {
+    "team": "TFS"
+  },
+  "Bauke Mollema": {
+    "team": "TFS"
+  },
+  "Toms Skujiņš": {
+    "team": "TFS"
+  },
+  "Jasper Stuyven": {
+    "team": "TFS"
+  },
+  "Michael Matthews": {
+    "team": "SUN"
+  },
+  "Nikias Arndt": {
+    "team": "SUN"
+  },
+  "Cees Bol": {
+    "team": "SUN"
+  },
+  "Chad Haga": {
+    "team": "SUN"
+  },
+  "Lennard Kämna": {
+    "team": "SUN"
+  },
+  "Wilco Kelderman": {
+    "team": "SUN"
+  },
+  "Søren Andersen": {
+    "team": "SUN"
+  },
+  "Nicholas Roche": {
+    "team": "SUN"
+  },
+  "Christophe Laporte": {
+    "team": "COF"
+  },
+  "Natnael Berhane": {
+    "team": "COF"
+  },
+  "Nicolas Edet": {
+    "team": "COF"
+  },
+  "Jesús Herrada": {
+    "team": "COF"
+  },
+  "Anthony Perez": {
+    "team": "COF"
+  },
+  "Pierre-Luc Périchon": {
+    "team": "COF"
+  },
+  "Stéphane Rossetto": {
+    "team": "COF"
+  },
+  "Julien Simon": {
+    "team": "COF"
+  },
+  "Caleb Ewan": {
+    "team": "LTS"
+  },
+  "Tiesj Benoot": {
+    "team": "LTS"
+  },
+  "Jasper De Buyst": {
+    "team": "LTS"
+  },
+  "Thomas De Gendt": {
+    "team": "LTS"
+  },
+  "Jens Keukeleire": {
+    "team": "LTS"
+  },
+  "Roger Kluge": {
+    "team": "LTS"
+  },
+  "Maxime Monfort": {
+    "team": "LTS"
+  },
+  "Tim Wellens": {
+    "team": "LTS"
+  },
+  "Lilian Calmejane": {
+    "team": "TDE"
+  },
+  "Niccolò Bonifazio": {
+    "team": "TDE"
+  },
+  "Fabien Grellier": {
+    "team": "TDE"
+  },
+  "Paul Ourselin": {
+    "team": "TDE"
+  },
+  "Romain Sicard": {
+    "team": "TDE"
+  },
+  "Rein Taaramäe": {
+    "team": "TDE"
+  },
+  "Niki Terpstra": {
+    "team": "TDE"
+  },
+  "Anthony Turgis": {
+    "team": "TDE"
+  },
+  "Ilnur Zakarin": {
+    "team": "TKA"
+  },
+  "Jens Debusschere": {
+    "team": "TKA"
+  },
+  "Alex Dowsett": {
+    "team": "TKA"
+  },
+  "José Gonçalves": {
+    "team": "TKA"
+  },
+  "Marco Haller": {
+    "team": "TKA"
+  },
+  "Nils Politt": {
+    "team": "TKA"
+  },
+  "Mads Schmidt": {
+    "team": "TKA"
+  },
+  "Rick Zabel": {
+    "team": "TKA"
+  },
+  "Guillaume Martin": {
+    "team": "WGG"
+  },
+  "Frederik Backaert": {
+    "team": "WGG"
+  },
+  "Aimé De Gendt": {
+    "team": "WGG"
+  },
+  "Odd Eiking": {
+    "team": "WGG"
+  },
+  "Xandro Meurisse": {
+    "team": "WGG"
+  },
+  "Yoann Offredo": {
+    "team": "WGG"
+  },
+  "Andrea Pasqualon": {
+    "team": "WGG"
+  },
+  "Kevin Van Melsen": {
+    "team": "WGG"
+  },
+  "Edvald Boasson Hagen": {
+    "team": "TDD"
+  },
+  "Lars Bak": {
+    "team": "TDD"
+  },
+  "Steve Cummings": {
+    "team": "TDD"
+  },
+  "Rei.. Janse van Rensburg": {
+    "team": "TDD"
+  },
+  "Ben King": {
+    "team": "TDD"
+  },
+  "Roman Kreuziger": {
+    "team": "TDD"
+  },
+  "Giacomo Nizzolo": {
+    "team": "TDD"
+  },
+  "Michael Valgren": {
+    "team": "TDD"
+  },
+  "Warren Barguil": {
+    "team": "PCB"
+  },
+  "Maxime Bouet": {
+    "team": "PCB"
+  },
+  "Anthony Delaplace": {
+    "team": "PCB"
   },
   "Elie Gesbert": {
-    "team": "FST",
-    "cost": 4
+    "team": "PCB"
   },
-  "Kevin Ledanois": {
-    "team": "FST",
-    "cost": 4
+  "André Greipel": {
+    "team": "PCB"
   },
-  "Laurent Pichon": {
-    "team": "FST",
-    "cost": 4
+  "Kévin Ledanois": {
+    "team": "PCB"
   },
-  "Rory Sutherland": {
-    "team": "UAD",
-    "cost": 4
+  "Amaël Moinard": {
+    "team": "PCB"
   },
-  "Oliviero Troia": {
-    "team": "UAD",
-    "cost": 4
+  "Florian Vachon": {
+    "team": "PCB"
   }
 }
