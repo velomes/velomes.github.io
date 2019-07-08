@@ -1,0 +1,234 @@
+{
+  "stage": 2,
+  "type": "ttt",
+  "riders": {
+    "Mike Teunissen": {
+      "GC": 25,
+      "PC": 10,
+      "Stg": 40
+    },
+    "Wout van Aert": {
+      "GC": 22,
+      "Stg": 40
+    },
+    "Steven Kruijswijk": {
+      "GC": 20,
+      "Stg": 40
+    },
+    "Tony Martin": {
+      "GC": 18,
+      "Stg": 40
+    },
+    "George Bennett": {
+      "GC": 16,
+      "Stg": 40
+    },
+    "Gianni Moscon": {
+      "GC": 15,
+      "Stg": 35
+    },
+    "Egan Bernal": {
+      "GC": 14,
+      "Stg": 35
+    },
+    "Geraint Thomas": {
+      "GC": 13,
+      "Stg": 35
+    },
+    "Dylan van Baarle": {
+      "GC": 12,
+      "Stg": 35
+    },
+    "Elia Viviani": {
+      "GC": 11,
+      "Stg": 30
+    },
+    "Julian Alaphilippe": {
+      "GC": 10,
+      "Stg": 30
+    },
+    "Kasper Asgreen": {
+      "GC": 9,
+      "Stg": 30
+    },
+    "Enric Mas": {
+      "GC": 8,
+      "Stg": 30
+    },
+    "Yves Lampaert": {
+      "GC": 7,
+      "Stg": 30
+    },
+    "Michael Matthews": {
+      "GC": 6,
+      "PC": 3,
+      "Stg": 25
+    },
+    "Rick Zabel": {
+      "GC": 5,
+      "Stg": 20
+    },
+    "Nils Politt": {
+      "GC": 4,
+      "Stg": 20
+    },
+    "Wilco Kelderman": {
+      "GC": 3,
+      "Stg": 25
+    },
+    "Lennard Kämna": {
+      "GC": 2,
+      "Stg": 25
+    },
+    "Mads Schmidt": {
+      "GC": 1,
+      "Stg": 20
+    },
+    "Peter Sagan": {
+      "PC": 6
+    },
+    "Sonny Colbrelli": {
+      "PC": 4
+    },
+    "Matteo Trentin": {
+      "PC": 2
+    },
+    "Greg Van Avermaet": {
+      "PC": 1,
+      "KOM": 10,
+      "Stg": 10
+    },
+    "Xandro Meurisse": {
+      "KOM": 6
+    },
+    "Jonathan Castroviejo": {
+      "Stg": 35
+    },
+    "Michał Kwiatkowski": {
+      "Stg": 35
+    },
+    "Wout Poels": {
+      "Stg": 35
+    },
+    "Luke Rowe": {
+      "Stg": 35
+    },
+    "Dries Devenyns": {
+      "Stg": 30
+    },
+    "Michael Mørkøv": {
+      "Stg": 30
+    },
+    "Maximiliano Richeze": {
+      "Stg": 30
+    },
+    "Thibaut Pinot": {
+      "Stg": 5
+    },
+    "William Bonnet": {
+      "Stg": 5
+    },
+    "David Gaudu": {
+      "Stg": 5
+    },
+    "Stefan Küng": {
+      "Stg": 5
+    },
+    "Matthieu Ladagnous": {
+      "Stg": 5
+    },
+    "Rudy Molard": {
+      "Stg": 5
+    },
+    "Sébastien Reichenbach": {
+      "Stg": 5
+    },
+    "Anthony Roux": {
+      "Stg": 5
+    },
+    "Laurens De Plus": {
+      "Stg": 40
+    },
+    "Dylan Groenewegen": {
+      "Stg": 40
+    },
+    "Amund Grøndahl Jansen": {
+      "Stg": 40
+    },
+    "Rigoberto Urán": {
+      "Stg": 15
+    },
+    "Alberto Bettiol": {
+      "Stg": 15
+    },
+    "Simon Clarke": {
+      "Stg": 15
+    },
+    "Tanel Kangert": {
+      "Stg": 15
+    },
+    "Sebastian Langeveld": {
+      "Stg": 15
+    },
+    "Tom Scully": {
+      "Stg": 15
+    },
+    "Tejay van Garderen": {
+      "Stg": 15
+    },
+    "Michael Woods": {
+      "Stg": 15
+    },
+    "Patrick Bevin": {
+      "Stg": 10
+    },
+    "Alessandro De Marchi": {
+      "Stg": 10
+    },
+    "Simon Geschke": {
+      "Stg": 10
+    },
+    "Serge Pauwels": {
+      "Stg": 10
+    },
+    "Joey Rosskopf": {
+      "Stg": 10
+    },
+    "Michael Schär": {
+      "Stg": 10
+    },
+    "Łukasz Wiśniowski": {
+      "Stg": 10
+    },
+    "Nikias Arndt": {
+      "Stg": 25
+    },
+    "Cees Bol": {
+      "Stg": 25
+    },
+    "Chad Haga": {
+      "Stg": 25
+    },
+    "Søren Andersen": {
+      "Stg": 25
+    },
+    "Nicholas Roche": {
+      "Stg": 25
+    },
+    "Ilnur Zakarin": {
+      "Stg": 20
+    },
+    "Jens Debusschere": {
+      "Stg": 20
+    },
+    "Alex Dowsett": {
+      "Stg": 20
+    },
+    "José Gonçalves": {
+      "Stg": 20
+    },
+    "Marco Haller": {
+      "Stg": 20
+    }
+  }
+}

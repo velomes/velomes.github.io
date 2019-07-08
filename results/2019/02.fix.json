@@ -1,0 +1,49 @@
+{
+  "stage": 2,
+  "type": "ttt",
+  "Stg": [
+    "TJV",
+    "INS",
+    "DQT",
+    "SUN",
+    "TKA",
+    "EF1",
+    "CCC",
+    "GFC"
+  ],
+  "GC": [
+    "Mike Teunissen",
+    "Wout van Aert",
+    "Steven Kruijswijk",
+    "Tony Martin",
+    "George Bennett",
+    "Gianni Moscon",
+    "Egan Bernal",
+    "Geraint Thomas",
+    "Dylan van Baarle",
+    "Elia Viviani",
+    "Julian Alaphilippe",
+    "Kasper Asgreen",
+    "Enric Mas",
+    "Yves Lampaert",
+    "Michael Matthews",
+    "Rick Zabel",
+    "Nils Politt",
+    "Wilco Kelderman",
+    "Lennard Kämna",
+    "Mads Schmidt"
+  ],
+  "PC": [
+    "Mike Teunissen",
+    "Peter Sagan",
+    "Sonny Colbrelli",
+    "Michael Matthews",
+    "Matteo Trentin",
+    "Greg Van Avermaet"
+  ],
+  "KOM": [
+    "Greg Van Avermaet",
+    "Xandro Meurisse"
+  ],
+  "abandons": []
+}
