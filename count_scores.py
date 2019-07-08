@@ -32,6 +32,8 @@ SCORE_DATA = {
 
 DONT_CHECK = ['Bky', 'KOM']
 
+YEAR = 2019
+
 
 def score_key(results, score_data, check=True):
     if check and len(results) > 0 and len(results) != len(score_data):
@@ -118,7 +120,7 @@ def main(riders, stages):
 
     for stage in stages:
         print(f'Processing stage {stage}...')
-        with open(f'./results/{stage}.fix.json', 'r', encoding='utf-8') as f:
+        with open(f'./results/{YEAR}/{stage}.fix.json', 'r', encoding='utf-8') as f:
             results = json.load(f)
 
         # add up scores
@@ -169,12 +171,13 @@ def main(riders, stages):
             total += score
         print('Stage {}: {} riders scored total of {} points'.format(stage, len(scores['riders']), total))
 
-        with open(f'./scores/{stage}.json', 'w', encoding='utf-8') as f:
+        with open(f'./scores/{YEAR}/{stage}.json', 'w', encoding='utf-8') as f:
             json.dump(scores, f)
 
 
 if __name__ == '__main__':
-    with open('riders.json', 'r', encoding='utf-8') as r:
+    #         riders.json
+    with open(sys.argv[1], 'r', encoding='utf-8') as r:
         riders = json.load(r)
 
-    main(riders, sys.argv[1:])
+    main(riders, sys.argv[2:])

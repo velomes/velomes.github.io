@@ -58,10 +58,10 @@ $(function() {
 
     app.Init = function() {
         app.home = $('.intro');
-        loadData('scores.json', function(response) {
+        loadData('scores.2018.json', function(response) {
             app.scores = $.parseJSON(response);
         });
-        loadData('riders.json', function(response) {
+        loadData('riders.2018.json', function(response) {
             app.riders = $.parseJSON(response);
         });
         app.Route();
@@ -112,7 +112,7 @@ $(function() {
             return;
         }
 
-        loadData('leagues/2019/' + league +'.json', function(response) {
+        loadData('leagues/2018/' + league +'.json', function(response) {
             if (response === null) {
                 var err = 'League "' + league + '" not found.';
                 $('#app').fill(EE('div', err));

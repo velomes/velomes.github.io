@@ -1,0 +1,85 @@
+{
+  "stage": 1,
+  "type": "road",
+  "Stg": [
+    "Mike Teunissen",
+    "Peter Sagan",
+    "Caleb Ewan",
+    "Giacomo Nizzolo",
+    "Sonny Colbrelli",
+    "Michael Matthews",
+    "Matteo Trentin",
+    "Oliver Naesen",
+    "Elia Viviani",
+    "Jasper Stuyven",
+    "Greg Van Avermaet",
+    "Alberto Bettiol",
+    "Andrea Pasqualon",
+    "Alexander Kristoff",
+    "Amund Grøndahl Jansen"
+  ],
+  "GC": [
+    "Mike Teunissen",
+    "Peter Sagan",
+    "Caleb Ewan",
+    "Giacomo Nizzolo",
+    "Sonny Colbrelli",
+    "Michael Matthews",
+    "Matteo Trentin",
+    "Oliver Naesen",
+    "Elia Viviani",
+    "Jasper Stuyven",
+    "Greg Van Avermaet",
+    "Alberto Bettiol",
+    "Andrea Pasqualon",
+    "Alexander Kristoff",
+    "Amund Grøndahl Jansen",
+    "Wout van Aert",
+    "Christophe Laporte",
+    "André Greipel",
+    "Daryl Impey",
+    "Guillaume Martin"
+  ],
+  "PC": [
+    "Mike Teunissen",
+    "Peter Sagan",
+    "Sonny Colbrelli",
+    "Michael Matthews",
+    "Matteo Trentin",
+    "Greg Van Avermaet"
+  ],
+  "KOM": [
+    "Greg Van Avermaet",
+    "Xandro Meurisse"
+  ],
+  "Spr": [
+    "Peter Sagan",
+    "Sonny Colbrelli",
+    "Greg Van Avermaet",
+    "Michael Matthews",
+    "Matteo Trentin",
+    "Lukas Pöstlberger",
+    "Michał Kwiatkowski",
+    "Michael Schär",
+    "Tim Wellens",
+    "Vincenzo Nibali"
+  ],
+  "Sum": {
+    "hc": [],
+    "cat1": []
+  },
+  "Bky": [
+    "Greg Van Avermaet",
+    "Mads Schmidt",
+    "Natnael Berhane",
+    "Xandro Meurisse"
+  ],
+  "Ass": {
+    "TC": [
+      "TJV",
+      "WGG",
+      "DQT"
+    ]
+  },
+  "abandons": []
+}

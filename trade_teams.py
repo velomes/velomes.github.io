@@ -8,28 +8,30 @@ from collections import defaultdict
 
 
 TEAM_CODES = {
-  "ALM": "AG2R La Mondiale",
+  "ALM": "Ag2r La Mondiale",
   "AST": "Astana Pro Team",
-  "TBM": "Bahrain Merida Pro Cycling Team",
-  "BMC": "BMC Racing Team",
   "BOH": "BORA - hansgrohe",
-  "GFC": "Groupama - FDJ",
+  "CCC": "CCC Team",
+  "COF": "Cofidis, solutions crédits",
+  "DQT": "Deceuninck-Quick Step",
+  "EF1": "EF Education First",
+  "FST": "Fortuneo - Samsic",
+  "GFC": "Groupama-FDJ",
+  "INS": "Team Ineos",
   "LTS": "Lotto Soudal",
-  "MTS": "Mitchelton-Scott",
   "MOV": "Movistar Team",
-  "QST": "Quick-Step Floors",
-  "DDD": "Dimension Data",
-  "EFD": "EF Education First-Drapac p/b Cannondale",
+  "MTS": "Mitchelton-Scott",
+  "PCB": "Team Arkéa-Samsic",
+  "SUN": "Team Sunweb",
+  "TBM": "Bahrain - Merida",
+  "TDD": "Team Dimension Data",
+  "TDE": "Total Direct Energie",
+  "TFS": "Trek - Segafredo",
+  "TJV": "Team Jumbo-Visma",
   "TKA": "Team Katusha - Alpecin",
   "TLJ": "Team LottoNL-Jumbo",
-  "SKY": "Team Sky",
-  "SUN": "Team Sunweb",
-  "TFS": "Trek - Segafredo",
   "UAD": "UAE-Team Emirates",
-  "FST": "Fortuneo - Samsic",
-  "WGG": "Wanty - Groupe Gobert",
-  "TDE": "Direct Energie",
-  "COF": "Cofidis Solutions Crédits"
+  "WGG": "Wanty - Gobert Cycling Team"
 }
 
 
@@ -46,13 +48,13 @@ if __name__ == '__main__':
     teams = defaultdict(list)
 
     for name, info in riders.items():
-        teams[info['team']].append({'name': name, 'cost': info['cost']})
+        teams[info['team']].append({'name': name, 'cost': info.get('cost', 0)})
 
     for team in teams:
         if len(teams[team]) != 8:
             print(f'Invalid rider count in {team}')
         league['teams'].append({
-            'user': 'Total cost: {}'.format(sum([r['cost'] for r in teams[team]])),
+            'user': team,
             'name': TEAM_CODES[team],
             'team': [rider['name'] for rider in sorted(teams[team], key=lambda r: r['cost'], reverse=True)]
         })
