@@ -1,1 +1,314 @@
-{"name": "Trade Teams", "shortname": "tradeteams", "teams": [{"user": "INS", "name": "Team Ineos", "team": ["Geraint Thomas", "Egan Bernal", "Jonathan Castroviejo", "Micha\u0142 Kwiatkowski", "Gianni Moscon", "Wout Poels", "Luke Rowe", "Dylan van Baarle"]}, {"user": "BOH", "name": "BORA - hansgrohe", "team": ["Peter Sagan", "Emanuel Buchmann", "Marcus Burghardt", "Patrick Konrad", "Gregor M\u00fchlberger", "Daniel Oss", "Lukas P\u00f6stlberger", "Maximilian Schachmann"]}, {"user": "DQT", "name": "Deceuninck-Quick Step", "team": ["Julian Alaphilippe", "Kasper Asgreen", "Dries Devenyns", "Yves Lampaert", "Enric Mas", "Michael M\u00f8rk\u00f8v", "Maximiliano Richeze", "Elia Viviani"]}, {"user": "ALM", "name": "Ag2r La Mondiale", "team": ["Romain Bardet", "Mika\u00ebl Ch\u00e9rel", "Beno\u00eet Cosnefroy", "Mathias Frank", "Tony Gallopin", "Alexis Gougeard", "Oliver Naesen", "Alexis Vuillermoz"]}, {"user": "TBM", "name": "Bahrain - Merida", "team": ["Vincenzo Nibali", "Damiano Caruso", "Sonny Colbrelli", "Rohan Dennis", "Iv\u00e1n Cortina", "Matej Mohori\u010d", "Dylan Teuns", "Jan Tratnik"]}, {"user": "GFC", "name": "Groupama-FDJ", "team": ["Thibaut Pinot", "William Bonnet", "David Gaudu", "Stefan K\u00fcng", "Matthieu Ladagnous", "Rudy Molard", "S\u00e9bastien Reichenbach", "Anthony Roux"]}, {"user": "MOV", "name": "Movistar Team", "team": ["Nairo Quintana", "Alejandro Valverde", "Andrey Amador", "Imanol Erviti", "Mikel Landa", "Nelson Oliveira", "Marc Soler", "Carlos Verona"]}, {"user": "AST", "name": "Astana Pro Team", "team": ["Jakob Fuglsang", "Pello Bilbao", "Omar Fraile", "Hugo Houle", "Gorka Izagirre", "Alexey Lutsenko", "Magnus Cort", "Luis Le\u00f3n S\u00e1nchez"]}, {"user": "TJV", "name": "Team Jumbo-Visma", "team": ["Steven Kruijswijk", "George Bennett", "Laurens De Plus", "Dylan Groenewegen", "Amund Gr\u00f8ndahl Jansen", "Tony Martin", "Mike Teunissen", "Wout van Aert"]}, {"user": "EF1", "name": "EF Education First", "team": ["Rigoberto Ur\u00e1n", "Alberto Bettiol", "Simon Clarke", "Tanel Kangert", "Sebastian Langeveld", "Tom Scully", "Tejay van Garderen", "Michael Woods"]}, {"user": "MTS", "name": "Mitchelton-Scott", "team": ["Adam Yates", "Luke Durbridge", "Jack Haig", "Michael Hepburn", "Daryl Impey", "Christopher Juul-Jensen", "Matteo Trentin", "Simon Yates"]}, {"user": "CCC", "name": "CCC Team", "team": ["Greg Van Avermaet", "Patrick Bevin", "Alessandro De Marchi", "Simon Geschke", "Serge Pauwels", "Joey Rosskopf", "Michael Sch\u00e4r", "\u0141ukasz Wi\u015bniowski"]}, {"user": "UAD", "name": "UAE-Team Emirates", "team": ["Daniel Martin", "Fabio Aru", "Sven Erik Bystr\u00f8m", "Rui Costa", "Sergio Henao", "Alexander Kristoff", "Vegard Laengen", "Jasper Philipsen"]}, {"user": "TFS", "name": "Trek - Segafredo", "team": ["Richie Porte", "Julien Bernard", "Giulio Ciccone", "Koen de Kort", "Fabio Felline", "Bauke Mollema", "Toms Skuji\u0146\u0161", "Jasper Stuyven"]}, {"user": "SUN", "name": "Team Sunweb", "team": ["Michael Matthews", "Nikias Arndt", "Cees Bol", "Chad Haga", "Lennard K\u00e4mna", "Wilco Kelderman", "S\u00f8ren Andersen", "Nicholas Roche"]}, {"user": "COF", "name": "Cofidis, solutions cr\u00e9dits", "team": ["Christophe Laporte", "Natnael Berhane", "Nicolas Edet", "Jes\u00fas Herrada", "Anthony Perez", "Pierre-Luc P\u00e9richon", "St\u00e9phane Rossetto", "Julien Simon"]}, {"user": "LTS", "name": "Lotto Soudal", "team": ["Caleb Ewan", "Tiesj Benoot", "Jasper De Buyst", "Thomas De Gendt", "Jens Keukeleire", "Roger Kluge", "Maxime Monfort", "Tim Wellens"]}, {"user": "TDE", "name": "Total Direct Energie", "team": ["Lilian Calmejane", "Niccol\u00f2 Bonifazio", "Fabien Grellier", "Paul Ourselin", "Romain Sicard", "Rein Taaram\u00e4e", "Niki Terpstra", "Anthony Turgis"]}, {"user": "TKA", "name": "Team Katusha - Alpecin", "team": ["Ilnur Zakarin", "Jens Debusschere", "Alex Dowsett", "Jos\u00e9 Gon\u00e7alves", "Marco Haller", "Nils Politt", "Mads Schmidt", "Rick Zabel"]}, {"user": "WGG", "name": "Wanty - Gobert Cycling Team", "team": ["Guillaume Martin", "Frederik Backaert", "Aim\u00e9 De Gendt", "Odd Eiking", "Xandro Meurisse", "Yoann Offredo", "Andrea Pasqualon", "Kevin Van Melsen"]}, {"user": "TDD", "name": "Team Dimension Data", "team": ["Edvald Boasson Hagen", "Lars Bak", "Steve Cummings", "Rei.. Janse van Rensburg", "Ben King", "Roman Kreuziger", "Giacomo Nizzolo", "Michael Valgren"]}, {"user": "PCB", "name": "Team Ark\u00e9a-Samsic", "team": ["Warren Barguil", "Maxime Bouet", "Anthony Delaplace", "Elie Gesbert", "Andr\u00e9 Greipel", "K\u00e9vin Ledanois", "Ama\u00ebl Moinard", "Florian Vachon"]}]}
+{
+  "name": "Trade Teams",
+  "shortname": "tradeteams",
+  "teams": [
+    {
+      "user": "INS",
+      "name": "Team Ineos",
+      "team": [
+        "Geraint Thomas",
+        "Egan Bernal",
+        "Jonathan Castroviejo",
+        "Michał Kwiatkowski",
+        "Gianni Moscon",
+        "Wout Poels",
+        "Luke Rowe",
+        "Dylan van Baarle"
+      ]
+    },
+    {
+      "user": "BOH",
+      "name": "BORA - hansgrohe",
+      "team": [
+        "Peter Sagan",
+        "Emanuel Buchmann",
+        "Marcus Burghardt",
+        "Patrick Konrad",
+        "Gregor Mühlberger",
+        "Daniel Oss",
+        "Lukas Pöstlberger",
+        "Maximilian Schachmann"
+      ]
+    },
+    {
+      "user": "DQT",
+      "name": "Deceuninck-Quick Step",
+      "team": [
+        "Julian Alaphilippe",
+        "Kasper Asgreen",
+        "Dries Devenyns",
+        "Yves Lampaert",
+        "Enric Mas",
+        "Michael Mørkøv",
+        "Maximiliano Richeze",
+        "Elia Viviani"
+      ]
+    },
+    {
+      "user": "ALM",
+      "name": "Ag2r La Mondiale",
+      "team": [
+        "Romain Bardet",
+        "Mikaël Chérel",
+        "Benoît Cosnefroy",
+        "Mathias Frank",
+        "Tony Gallopin",
+        "Alexis Gougeard",
+        "Oliver Naesen",
+        "Alexis Vuillermoz"
+      ]
+    },
+    {
+      "user": "TBM",
+      "name": "Bahrain - Merida",
+      "team": [
+        "Vincenzo Nibali",
+        "Damiano Caruso",
+        "Sonny Colbrelli",
+        "Rohan Dennis",
+        "Iván Cortina",
+        "Matej Mohorič",
+        "Dylan Teuns",
+        "Jan Tratnik"
+      ]
+    },
+    {
+      "user": "GFC",
+      "name": "Groupama-FDJ",
+      "team": [
+        "Thibaut Pinot",
+        "William Bonnet",
+        "David Gaudu",
+        "Stefan Küng",
+        "Matthieu Ladagnous",
+        "Rudy Molard",
+        "Sébastien Reichenbach",
+        "Anthony Roux"
+      ]
+    },
+    {
+      "user": "MOV",
+      "name": "Movistar Team",
+      "team": [
+        "Nairo Quintana",
+        "Alejandro Valverde",
+        "Andrey Amador",
+        "Imanol Erviti",
+        "Mikel Landa",
+        "Nelson Oliveira",
+        "Marc Soler",
+        "Carlos Verona"
+      ]
+    },
+    {
+      "user": "AST",
+      "name": "Astana Pro Team",
+      "team": [
+        "Jakob Fuglsang",
+        "Pello Bilbao",
+        "Omar Fraile",
+        "Hugo Houle",
+        "Gorka Izagirre",
+        "Alexey Lutsenko",
+        "Magnus Cort",
+        "Luis León Sánchez"
+      ]
+    },
+    {
+      "user": "TJV",
+      "name": "Team Jumbo-Visma",
+      "team": [
+        "Steven Kruijswijk",
+        "George Bennett",
+        "Laurens De Plus",
+        "Dylan Groenewegen",
+        "Amund Grøndahl Jansen",
+        "Tony Martin",
+        "Mike Teunissen",
+        "Wout van Aert"
+      ]
+    },
+    {
+      "user": "EF1",
+      "name": "EF Education First",
+      "team": [
+        "Rigoberto Urán",
+        "Alberto Bettiol",
+        "Simon Clarke",
+        "Tanel Kangert",
+        "Sebastian Langeveld",
+        "Tom Scully",
+        "Tejay van Garderen",
+        "Michael Woods"
+      ]
+    },
+    {
+      "user": "MTS",
+      "name": "Mitchelton-Scott",
+      "team": [
+        "Adam Yates",
+        "Luke Durbridge",
+        "Jack Haig",
+        "Michael Hepburn",
+        "Daryl Impey",
+        "Christopher Juul-Jensen",
+        "Matteo Trentin",
+        "Simon Yates"
+      ]
+    },
+    {
+      "user": "CCC",
+      "name": "CCC Team",
+      "team": [
+        "Greg Van Avermaet",
+        "Patrick Bevin",
+        "Alessandro De Marchi",
+        "Simon Geschke",
+        "Serge Pauwels",
+        "Joey Rosskopf",
+        "Michael Schär",
+        "Łukasz Wiśniowski"
+      ]
+    },
+    {
+      "user": "UAD",
+      "name": "UAE-Team Emirates",
+      "team": [
+        "Daniel Martin",
+        "Fabio Aru",
+        "Sven Erik Bystrøm",
+        "Rui Costa",
+        "Sergio Henao",
+        "Alexander Kristoff",
+        "Vegard Laengen",
+        "Jasper Philipsen"
+      ]
+    },
+    {
+      "user": "TFS",
+      "name": "Trek - Segafredo",
+      "team": [
+        "Richie Porte",
+        "Julien Bernard",
+        "Giulio Ciccone",
+        "Koen de Kort",
+        "Fabio Felline",
+        "Bauke Mollema",
+        "Toms Skujiņš",
+        "Jasper Stuyven"
+      ]
+    },
+    {
+      "user": "SUN",
+      "name": "Team Sunweb",
+      "team": [
+        "Michael Matthews",
+        "Nikias Arndt",
+        "Cees Bol",
+        "Chad Haga",
+        "Lennard Kämna",
+        "Wilco Kelderman",
+        "Søren Andersen",
+        "Nicholas Roche"
+      ]
+    },
+    {
+      "user": "COF",
+      "name": "Cofidis, solutions crédits",
+      "team": [
+        "Christophe Laporte",
+        "Natnael Berhane",
+        "Nicolas Edet",
+        "Jesús Herrada",
+        "Anthony Perez",
+        "Pierre-Luc Périchon",
+        "Stéphane Rossetto",
+        "Julien Simon"
+      ]
+    },
+    {
+      "user": "LTS",
+      "name": "Lotto Soudal",
+      "team": [
+        "Caleb Ewan",
+        "Tiesj Benoot",
+        "Jasper De Buyst",
+        "Thomas De Gendt",
+        "Jens Keukeleire",
+        "Roger Kluge",
+        "Maxime Monfort",
+        "Tim Wellens"
+      ]
+    },
+    {
+      "user": "TDE",
+      "name": "Total Direct Energie",
+      "team": [
+        "Lilian Calmejane",
+        "Niccolò Bonifazio",
+        "Fabien Grellier",
+        "Paul Ourselin",
+        "Romain Sicard",
+        "Rein Taaramäe",
+        "Niki Terpstra",
+        "Anthony Turgis"
+      ]
+    },
+    {
+      "user": "TKA",
+      "name": "Team Katusha - Alpecin",
+      "team": [
+        "Ilnur Zakarin",
+        "Jens Debusschere",
+        "Alex Dowsett",
+        "José Gonçalves",
+        "Marco Haller",
+        "Nils Politt",
+        "Mads Schmidt",
+        "Rick Zabel"
+      ]
+    },
+    {
+      "user": "WGG",
+      "name": "Wanty - Gobert Cycling Team",
+      "team": [
+        "Guillaume Martin",
+        "Frederik Backaert",
+        "Aimé De Gendt",
+        "Odd Eiking",
+        "Xandro Meurisse",
+        "Yoann Offredo",
+        "Andrea Pasqualon",
+        "Kevin Van Melsen"
+      ]
+    },
+    {
+      "user": "TDD",
+      "name": "Team Dimension Data",
+      "team": [
+        "Edvald Boasson Hagen",
+        "Lars Bak",
+        "Steve Cummings",
+        "Rei.. Janse van Rensburg",
+        "Ben King",
+        "Roman Kreuziger",
+        "Giacomo Nizzolo",
+        "Michael Valgren"
+      ]
+    },
+    {
+      "user": "PCB",
+      "name": "Team Arkéa-Samsic",
+      "team": [
+        "Warren Barguil",
+        "Maxime Bouet",
+        "Anthony Delaplace",
+        "Elie Gesbert",
+        "André Greipel",
+        "Kévin Ledanois",
+        "Amaël Moinard",
+        "Florian Vachon"
+      ]
+    }
+  ]
+}
