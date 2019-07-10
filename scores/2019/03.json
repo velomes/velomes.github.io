@@ -1,1 +1,225 @@
-{"stage": 3, "type": "road", "riders": {"Julian Alaphilippe": {"Stg": 200, "GC": 25, "KOM": 3}, "Michael Matthews": {"Stg": 150, "Spr": 2, "GC": 16, "PC": 6, "Ass": 4}, "Jasper Stuyven": {"Stg": 120}, "Greg Van Avermaet": {"Stg": 100, "GC": 12, "PC": 2, "KOM": 4}, "Peter Sagan": {"Stg": 80, "Spr": 4, "GC": 3, "PC": 10}, "Matteo Trentin": {"Stg": 70, "GC": 1, "PC": 1}, "Sonny Colbrelli": {"Stg": 60, "Spr": 3, "GC": 6, "PC": 4}, "Xandro Meurisse": {"Stg": 50, "KOM": 6}, "Wout van Aert": {"Stg": 40, "GC": 22, "Ass": 8}, "Thibaut Pinot": {"Stg": 30, "GC": 9}, "Tiesj Benoot": {"Stg": 25}, "Egan Bernal": {"Stg": 20, "GC": 15}, "Geraint Thomas": {"Stg": 15, "GC": 14}, "Jakob Fuglsang": {"Stg": 10}, "Guillaume Martin": {"Stg": 5}, "Paul Ourselin": {"Spr": 15, "Bky": 15}, "Yoann Offredo": {"Spr": 12, "Bky": 15}, "St\u00e9phane Rossetto": {"Spr": 10, "Bky": 15}, "Anthony Delaplace": {"Spr": 8, "Bky": 15}, "Tim Wellens": {"Spr": 6, "Bky": 15, "KOM": 10}, "Elia Viviani": {"Spr": 5, "Ass": 12}, "Andrea Pasqualon": {"Spr": 1}, "Steven Kruijswijk": {"GC": 20, "Ass": 10}, "George Bennett": {"GC": 18, "Ass": 12}, "Enric Mas": {"GC": 13, "Ass": 12}, "Wilco Kelderman": {"GC": 11, "Ass": 8}, "Michael Woods": {"GC": 10, "Ass": 2}, "Rigoberto Ur\u00e1n": {"GC": 8, "Ass": 2}, "Tejay van Garderen": {"GC": 7, "Ass": 2}, "Rudy Molard": {"GC": 5}, "David Gaudu": {"GC": 4}, "Nicholas Roche": {"GC": 2, "Ass": 8}, "Mike Teunissen": {"PC": 3, "Ass": 12}, "Nairo Quintana": {"KOM": 2}, "Kasper Asgreen": {"Ass": 12}, "Dries Devenyns": {"Ass": 12}, "Yves Lampaert": {"Ass": 12}, "Michael M\u00f8rk\u00f8v": {"Ass": 12}, "Maximiliano Richeze": {"Ass": 12}, "Laurens De Plus": {"Ass": 12}, "Dylan Groenewegen": {"Ass": 12}, "Amund Gr\u00f8ndahl Jansen": {"Ass": 12}, "Tony Martin": {"Ass": 12}, "Alberto Bettiol": {"Ass": 2}, "Simon Clarke": {"Ass": 2}, "Tanel Kangert": {"Ass": 2}, "Sebastian Langeveld": {"Ass": 2}, "Tom Scully": {"Ass": 2}, "Richie Porte": {"Ass": 2}, "Julien Bernard": {"Ass": 2}, "Giulio Ciccone": {"Ass": 2}, "Koen de Kort": {"Ass": 2}, "Fabio Felline": {"Ass": 2}, "Bauke Mollema": {"Ass": 2}, "Toms Skuji\u0146\u0161": {"Ass": 2}, "Nikias Arndt": {"Ass": 8}, "Cees Bol": {"Ass": 8}, "Chad Haga": {"Ass": 8}, "Lennard K\u00e4mna": {"Ass": 8}, "S\u00f8ren Andersen": {"Ass": 8}}}
+{
+  "stage": 3,
+  "type": "road",
+  "riders": {
+    "Julian Alaphilippe": {
+      "Stg": 200,
+      "GC": 25,
+      "KOM": 3
+    },
+    "Michael Matthews": {
+      "Stg": 150,
+      "Spr": 2,
+      "GC": 16,
+      "PC": 6,
+      "Ass": 4
+    },
+    "Jasper Stuyven": {
+      "Stg": 120
+    },
+    "Greg Van Avermaet": {
+      "Stg": 100,
+      "GC": 12,
+      "PC": 2,
+      "KOM": 4
+    },
+    "Peter Sagan": {
+      "Stg": 80,
+      "Spr": 4,
+      "GC": 3,
+      "PC": 10
+    },
+    "Matteo Trentin": {
+      "Stg": 70,
+      "GC": 1,
+      "PC": 1
+    },
+    "Sonny Colbrelli": {
+      "Stg": 60,
+      "Spr": 3,
+      "GC": 6,
+      "PC": 4
+    },
+    "Xandro Meurisse": {
+      "Stg": 50,
+      "KOM": 6
+    },
+    "Wout van Aert": {
+      "Stg": 40,
+      "GC": 22,
+      "Ass": 8
+    },
+    "Thibaut Pinot": {
+      "Stg": 30,
+      "GC": 9
+    },
+    "Tiesj Benoot": {
+      "Stg": 25
+    },
+    "Egan Bernal": {
+      "Stg": 20,
+      "GC": 15
+    },
+    "Geraint Thomas": {
+      "Stg": 15,
+      "GC": 14
+    },
+    "Jakob Fuglsang": {
+      "Stg": 10
+    },
+    "Guillaume Martin": {
+      "Stg": 5
+    },
+    "Paul Ourselin": {
+      "Spr": 15,
+      "Bky": 15
+    },
+    "Yoann Offredo": {
+      "Spr": 12,
+      "Bky": 15
+    },
+    "Stéphane Rossetto": {
+      "Spr": 10,
+      "Bky": 15
+    },
+    "Anthony Delaplace": {
+      "Spr": 8,
+      "Bky": 15
+    },
+    "Tim Wellens": {
+      "Spr": 6,
+      "Bky": 15,
+      "KOM": 10
+    },
+    "Elia Viviani": {
+      "Spr": 5,
+      "Ass": 12
+    },
+    "Andrea Pasqualon": {
+      "Spr": 1
+    },
+    "Steven Kruijswijk": {
+      "GC": 20,
+      "Ass": 10
+    },
+    "George Bennett": {
+      "GC": 18,
+      "Ass": 12
+    },
+    "Enric Mas": {
+      "GC": 13,
+      "Ass": 12
+    },
+    "Wilco Kelderman": {
+      "GC": 11,
+      "Ass": 8
+    },
+    "Michael Woods": {
+      "GC": 10,
+      "Ass": 2
+    },
+    "Rigoberto Urán": {
+      "GC": 8,
+      "Ass": 2
+    },
+    "Tejay van Garderen": {
+      "GC": 7,
+      "Ass": 2
+    },
+    "Rudy Molard": {
+      "GC": 5
+    },
+    "David Gaudu": {
+      "GC": 4
+    },
+    "Nicholas Roche": {
+      "GC": 2,
+      "Ass": 8
+    },
+    "Mike Teunissen": {
+      "PC": 3,
+      "Ass": 12
+    },
+    "Nairo Quintana": {
+      "KOM": 2
+    },
+    "Kasper Asgreen": {
+      "Ass": 12
+    },
+    "Dries Devenyns": {
+      "Ass": 12
+    },
+    "Yves Lampaert": {
+      "Ass": 12
+    },
+    "Michael Mørkøv": {
+      "Ass": 12
+    },
+    "Maximiliano Richeze": {
+      "Ass": 12
+    },
+    "Laurens De Plus": {
+      "Ass": 12
+    },
+    "Dylan Groenewegen": {
+      "Ass": 12
+    },
+    "Amund Grøndahl Jansen": {
+      "Ass": 12
+    },
+    "Tony Martin": {
+      "Ass": 12
+    },
+    "Alberto Bettiol": {
+      "Ass": 2
+    },
+    "Simon Clarke": {
+      "Ass": 2
+    },
+    "Tanel Kangert": {
+      "Ass": 2
+    },
+    "Sebastian Langeveld": {
+      "Ass": 2
+    },
+    "Tom Scully": {
+      "Ass": 2
+    },
+    "Richie Porte": {
+      "Ass": 2
+    },
+    "Julien Bernard": {
+      "Ass": 2
+    },
+    "Giulio Ciccone": {
+      "Ass": 2
+    },
+    "Koen de Kort": {
+      "Ass": 2
+    },
+    "Fabio Felline": {
+      "Ass": 2
+    },
+    "Bauke Mollema": {
+      "Ass": 2
+    },
+    "Toms Skujiņš": {
+      "Ass": 2
+    },
+    "Nikias Arndt": {
+      "Ass": 8
+    },
+    "Cees Bol": {
+      "Ass": 8
+    },
+    "Chad Haga": {
+      "Ass": 8
+    },
+    "Lennard Kämna": {
+      "Ass": 8
+    },
+    "Søren Andersen": {
+      "Ass": 8
+    }
+  }
+}

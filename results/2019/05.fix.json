@@ -1,22 +1,22 @@
 {
-  "stage": 3,
+  "stage": 5,
   "type": "road",
   "Stg": [
-    "Julian Alaphilippe",
-    "Michael Matthews",
-    "Jasper Stuyven",
-    "Greg Van Avermaet",
     "Peter Sagan",
+    "Wout van Aert",
     "Matteo Trentin",
     "Sonny Colbrelli",
+    "Greg Van Avermaet",
+    "Julien Simon",
+    "Michael Matthews",
+    "Nils Politt",
+    "Jasper Stuyven",
+    "Julian Alaphilippe",
     "Xandro Meurisse",
-    "Wout van Aert",
-    "Thibaut Pinot",
-    "Tiesj Benoot",
-    "Egan Bernal",
-    "Geraint Thomas",
-    "Jakob Fuglsang",
-    "Guillaume Martin"
+    "Edvald Boasson Hagen",
+    "Alberto Bettiol",
+    "Guillaume Martin",
+    "Alexey Lutsenko"
   ],
   "GC": [
     "Julian Alaphilippe",
@@ -27,56 +27,56 @@
     "Egan Bernal",
     "Geraint Thomas",
     "Enric Mas",
+    "Peter Sagan",
     "Greg Van Avermaet",
-    "Wilco Kelderman",
     "Michael Woods",
+    "Wilco Kelderman",
     "Thibaut Pinot",
     "Rigoberto Urán",
     "Tejay van Garderen",
     "Sonny Colbrelli",
-    "Rudy Molard",
+    "Matteo Trentin",
     "David Gaudu",
-    "Peter Sagan",
-    "Nicholas Roche",
-    "Matteo Trentin"
+    "Rudy Molard",
+    "Nicholas Roche"
   ],
   "PC": [
     "Peter Sagan",
     "Michael Matthews",
+    "Elia Viviani",
     "Sonny Colbrelli",
-    "Mike Teunissen",
-    "Greg Van Avermaet",
-    "Matteo Trentin"
+    "Matteo Trentin",
+    "Mike Teunissen"
   ],
   "KOM": [
     "Tim Wellens",
+    "Toms Skujiņš",
     "Xandro Meurisse",
+    "Simon Clarke",
     "Greg Van Avermaet",
-    "Julian Alaphilippe",
-    "Nairo Quintana"
+    "Wilco Kelderman"
   ],
   "Spr": [
-    "Paul Ourselin",
-    "Yoann Offredo",
-    "Stéphane Rossetto",
-    "Anthony Delaplace",
+    "Simon Clarke",
+    "Mads Schmidt",
+    "Toms Skujiņš",
     "Tim Wellens",
     "Elia Viviani",
     "Peter Sagan",
-    "Sonny Colbrelli",
     "Michael Matthews",
-    "Andrea Pasqualon"
+    "Maximiliano Richeze",
+    "Giacomo Nizzolo",
+    "Caleb Ewan"
   ],
   "Sum": {
     "hc": [],
     "cat1": []
   },
   "Bky": [
-    "Anthony Delaplace",
-    "Paul Ourselin",
-    "Stéphane Rossetto",
-    "Tim Wellens",
-    "Yoann Offredo"
+    "Simon Clarke",
+    "Mads Schmidt",
+    "Toms Skujiņš",
+    "Tim Wellens"
   ],
   "Ass": {
     "TC": [
