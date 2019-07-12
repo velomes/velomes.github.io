@@ -1,0 +1,124 @@
+{
+  "stage": 6,
+  "type": "road",
+  "Stg": [
+    "Dylan Teuns",
+    "Giulio Ciccone",
+    "Xandro Meurisse",
+    "Geraint Thomas",
+    "Thibaut Pinot",
+    "Julian Alaphilippe",
+    "Nairo Quintana",
+    "Emanuel Buchmann",
+    "Jakob Fuglsang",
+    "Mikel Landa",
+    "Richie Porte",
+    "Egan Bernal",
+    "Adam Yates",
+    "Guillaume Martin",
+    "Rigoberto Urán"
+  ],
+  "GC": [
+    "Giulio Ciccone",
+    "Julian Alaphilippe",
+    "Dylan Teuns",
+    "George Bennett",
+    "Geraint Thomas",
+    "Egan Bernal",
+    "Thibaut Pinot",
+    "Steven Kruijswijk",
+    "Michael Woods",
+    "Rigoberto Urán",
+    "Jakob Fuglsang",
+    "Emanuel Buchmann",
+    "Enric Mas",
+    "Adam Yates",
+    "Xandro Meurisse",
+    "Nairo Quintana",
+    "Mikel Landa",
+    "Guillaume Martin",
+    "David Gaudu",
+    "Vincenzo Nibali"
+  ],
+  "PC": [
+    "Peter Sagan",
+    "Michael Matthews",
+    "Elia Viviani",
+    "Sonny Colbrelli",
+    "Matteo Trentin",
+    "Mike Teunissen"
+  ],
+  "KOM": [
+    "Tim Wellens",
+    "Giulio Ciccone",
+    "Xandro Meurisse",
+    "Dylan Teuns",
+    "Natnael Berhane",
+    "Toms Skujiņš"
+  ],
+  "Spr": [
+    "Andrea Pasqualon",
+    "Nils Politt",
+    "André Greipel",
+    "Nikias Arndt",
+    "Thomas De Gendt",
+    "Dylan Teuns",
+    "Fabien Grellier",
+    "Giulio Ciccone",
+    "Natnael Berhane",
+    "Xandro Meurisse"
+  ],
+  "Sum": {
+    "hc": [],
+    "cat1": [
+      [
+        "Tim Wellens",
+        "Giulio Ciccone",
+        "Xandro Meurisse",
+        "Natnael Berhane",
+        "Julien Bernard"
+      ],
+      [
+        "Tim Wellens",
+        "Xandro Meurisse",
+        "Giulio Ciccone",
+        "Natnael Berhane",
+        "Thomas De Gendt"
+      ],
+      [
+        "Dylan Teuns",
+        "Giulio Ciccone",
+        "Xandro Meurisse",
+        "Geraint Thomas",
+        "Thibaut Pinot"
+      ]
+    ]
+  },
+  "Bky": [
+    "André Greipel",
+    "Andrea Pasqualon",
+    "Benoît Cosnefroy",
+    "Dylan Teuns",
+    "Fabien Grellier",
+    "Giulio Ciccone",
+    "Julien Bernard",
+    "Natnael Berhane",
+    "Nikias Arndt",
+    "Nils Politt",
+    "Serge Pauwels",
+    "Thomas De Gendt",
+    "Tim Wellens",
+    "Xandro Meurisse"
+  ],
+  "Ass": {
+    "TC": [
+      "TFS",
+      "MOV",
+      "GFC"
+    ]
+  },
+  "abandons": [
+    "Nicolas Edet",
+    "Patrick Bevin"
+  ]
+}

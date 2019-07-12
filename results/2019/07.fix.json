@@ -1,0 +1,90 @@
+{
+  "stage": 7,
+  "type": "road",
+  "Stg": [
+    "Dylan Groenewegen",
+    "Caleb Ewan",
+    "Peter Sagan",
+    "Sonny Colbrelli",
+    "Jasper Philipsen",
+    "Elia Viviani",
+    "Giacomo Nizzolo",
+    "Jasper Stuyven",
+    "Michael Matthews",
+    "Alexander Kristoff",
+    "Jasper De Buyst",
+    "André Greipel",
+    "Andrea Pasqualon",
+    "Mads Schmidt",
+    "Maximiliano Richeze"
+  ],
+  "GC": [
+    "Giulio Ciccone",
+    "Julian Alaphilippe",
+    "Dylan Teuns",
+    "George Bennett",
+    "Geraint Thomas",
+    "Egan Bernal",
+    "Thibaut Pinot",
+    "Steven Kruijswijk",
+    "Michael Woods",
+    "Rigoberto Urán",
+    "Jakob Fuglsang",
+    "Emanuel Buchmann",
+    "Enric Mas",
+    "Adam Yates",
+    "Xandro Meurisse",
+    "Nairo Quintana",
+    "Mikel Landa",
+    "Guillaume Martin",
+    "David Gaudu",
+    "Vincenzo Nibali"
+  ],
+  "PC": [
+    "Peter Sagan",
+    "Sonny Colbrelli",
+    "Elia Viviani",
+    "Michael Matthews",
+    "Caleb Ewan",
+    "Matteo Trentin"
+  ],
+  "KOM": [
+    "Tim Wellens",
+    "Giulio Ciccone",
+    "Xandro Meurisse",
+    "Dylan Teuns",
+    "Natnael Berhane",
+    "Toms Skujiņš"
+  ],
+  "Spr": [
+    "Stéphane Rossetto",
+    "Yoann Offredo",
+    "Sonny Colbrelli",
+    "Peter Sagan",
+    "Elia Viviani",
+    "Michael Matthews",
+    "Iván Cortina",
+    "Greg Van Avermaet",
+    "Oliver Naesen",
+    "Paul Ourselin"
+  ],
+  "Sum": {
+    "hc": [],
+    "cat1": []
+  },
+  "Bky": [
+    "Stéphane Rossetto",
+    "Yoann Offredo"
+  ],
+  "Ass": {
+    "TC": [
+      "TFS",
+      "MOV",
+      "GFC"
+    ]
+  },
+  "abandons": [
+    "Nicolas Edet",
+    "Patrick Bevin"
+  ]
+}
